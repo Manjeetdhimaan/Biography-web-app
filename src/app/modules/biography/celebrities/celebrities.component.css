@@ -1,0 +1,162 @@
+.w3-light-grey,
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: "Raleway", sans-serif
+}
+
+.responsive {
+    margin-left: 20%;
+}
+
+.celebrityImg {
+    max-width: 100%;
+}
+
+table {
+    box-shadow: none;
+}
+
+td {
+    text-align: left;
+}
+
+li {
+    padding: 0.75rem;
+}
+
+.column-1 {
+    color: rgb(255, 255, 255);
+    /* background-color: rgb(70, 114, 131); */
+    background-image: linear-gradient(74deg, #D88408 26%, #DEA126 66%);
+    text-align: center;
+}
+
+.fianceClass,
+.affairs,
+.parentsImages {
+    max-width: 300px;
+}
+
+.iframeYoutube {
+    width: 90.375%;
+}
+
+.thInvisible {
+    display: block;
+}
+
+.celebrityHeading {
+    padding: 1rem;
+}
+
+.w3-card {
+    transition: all .2s;
+}
+
+.w3-card:hover {
+    border-radius: 22px;
+    transform: scale(1.02);
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+.w3-card:hover .h3 {
+    transform: scale(1.01);
+    color: #FFA500;
+}
+
+
+
+@media only screen and (max-width: 1120px) {
+    .parentsImages {
+        max-width: 220px;
+    }
+
+    .iframeYoutube {
+        max-height: 700px;
+        width: 95.375%;
+    }
+}
+
+@media only screen and (max-width: 772px) {
+    .parentsImages {
+        max-width: 200px;
+    }
+
+    .celebrityHeading {
+        font-size: 100%;
+        padding: 0.4rem;
+    }
+
+    .iframeYoutube {
+        max-height: 600px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .bioContainer {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .responsiveImages {
+        max-width: 140px;
+    }
+
+    .w3-padding-32 {
+        padding-bottom: 5px !important;
+    }
+
+    .iframeYoutube {
+        max-height: 500px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .w3-padding-32 {
+        padding-bottom: 0 !important;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .iframeYoutube {
+        max-height: 400px;
+    }
+
+    .thInvisible {
+        display: none;
+    }
+
+    .responsiveImages {
+        max-width: 100px;
+    }
+}
+
+.factsUL li {
+    list-style-type: none;
+    padding-right: 2rem;
+    /* text-align: justify; */
+}
+
+marquee {
+    margin-left: 15%
+}
+
+.marquee-text {
+    background-color: #333;
+    color: #fff
+}
+
+.marquee-text h1 {
+    margin: 0;
+}
+
+.margin-right {
+    margin-right: 12px
+}
+
+.w3-padding-32 {
+    padding-top: 0 !important;
+}

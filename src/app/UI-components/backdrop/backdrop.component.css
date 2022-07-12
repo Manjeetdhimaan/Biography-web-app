@@ -1,0 +1,102 @@
+.backdrop {
+    text-align: center;
+    position: fixed;
+    top: 19%;
+    right: 1%;
+    bottom: 6%;
+    left: 1%;
+    z-index: 1030;
+    /* background-color: rgba(29, 27, 27, 0.925); */
+    opacity: 1;
+    overflow: hidden;
+    scroll-behavior: auto;
+    transition: all 1.5s;
+}
+
+.imgSrc {
+    height: 100%;
+    display: block;
+    margin: auto;
+    background-color: aliceblue;
+    padding: 1.2%;
+    /* margin-right: auto; */
+    border-radius: 12px;
+    transition: all 0.5s;
+}
+
+@media (max-width: 1000px) {
+    .backdrop {
+        right: 0%;
+        left: 0%;
+        top: 16%;
+        bottom: 3%;
+    }
+}
+
+@media (max-width: 800px) {
+    .backdrop {
+        right: 2%;
+        left: 2%;
+        top: 23%;
+        bottom: 7%;
+    }
+}
+
+@media (max-width: 700px) {
+    .backdrop {
+        right: 15.2%;
+        left: 15.2%;
+        top: 22%;
+        bottom: 4%;
+    }
+    .imgSrc {
+        display: block;
+        margin: auto;
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media (max-width: 600px) {
+    .backdrop {
+        right: 13%;
+        left: 13%;
+        top: 22%;
+        bottom: 12%;
+    }
+}
+
+@media (max-width: 500px) {
+    .backdrop {
+        right: 9.4%;
+        left: 9.4%;
+        top: 30%;
+        bottom: 1%;
+    }
+}
+
+
+/* rgba(29, 27, 27, 0.363); */
+
+
+/* .backdrop.in {
+    opacity: .5;
+    filter: alpha(opacity=50);
+}
+
+.backdrop.fade {
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+.fade {
+    opacity: 0;
+    -webkit-transition: opacity 4s linear;
+    transition: opacity 4s linear;
+}
+
+.fade.in {
+    opacity: 1;
+    -webkit-transition: opacity 4s linear;
+    transition: opacity 4s linear;
+} */

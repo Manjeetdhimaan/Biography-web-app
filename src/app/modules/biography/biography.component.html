@@ -1,0 +1,94 @@
+<mat-progress-bar mode="indeterminate" *ngIf="isLoading"></mat-progress-bar>
+
+<body class="w3-light-grey">
+    <div class="w3-content" style="max-width:1400px">
+        <header class="w3-container w3-center w3-padding-32">
+        </header>
+        <div class="container">
+            <div class="w3-row">
+                <div class="w3-col l8 s12" style="text-align: center;">
+                    <h1>Biographies Archieve</h1>
+                    <div class="w3-card-4 w3-margin w3-white responsive" animation="fadeInUp" delay="100" duration="500"
+                        offset="100" triggerOnce="true">
+                        <img *ngIf="randomCelebrity?.imgSrc" class="celebrityImg" [src]="randomCelebrity.imgSrc"
+                            alt="{{ randomCelebrity.name }}">
+                        <div class="w3-container">
+                            <h3><b>{{ randomCelebrity.name }}'s Height, Weight, Age, Family, Biography, Net Worth &
+                                    More</b></h3>
+                            <h5>{{ randomCelebrity.name }}'s description</h5>
+                        </div>
+
+                        <div class="w3-container">
+                            <p [innerHTML]="randomCelebrity.description"></p>
+                            <div class="w3-row">
+                                <div class="w3-col m8 s12">
+                                    <p>
+                                        <a routerLink="/{{selectedCelebrity}}" (mouseenter)="onHoverCelebrity(randomCelebrity)"
+                                             (click)="onNavigate(randomCelebrity)">
+                                            <button class="w3-button w3-padding-large w3-white w3-border"><b> READ MORE
+                                                    »</b></button>
+                                        </a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr style="visibility:hidden">
+                    <div class="w3-card-4 w3-margin w3-white cardNew">
+                        <h1>More From NewsFarmers</h1>
+                        <div class="hero-section">
+                            <div class="card-grid" *ngIf="!isLoading">
+                                <a routerLink="/{{selectedCelebrity}}" class="card card1" *ngFor="let celebrity of moreCelebrities" (mouseenter)="onHoverCelebrity(celebrity)"
+                                    (click)="onNavigate(celebrity)" >
+                                    <div class="card__background" style="background-image: url({{celebrity.imgSrc}})">
+                                    </div>
+                                    <div class="card__content">
+                                        <p class="card__category">{{celebrity.profession}}</p>
+                                        <h3 class="card__heading">{{celebrity.name}}</h3>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="w3-col l4 ">
+                    <div class="w3-container w3-padding ">
+                        <h2>Recent Posts</h2>
+                    </div>
+                    <ul class="w3-ul w3-hoverable w3-white" >
+                        <a routerLink="/{{selectedCelebrity}}" *ngFor="let celebrity of recentPost" (mouseenter)="onHoverCelebrity(celebrity)" (click)="onNavigate(celebrity)">
+                            <li class="w3-padding-16"  
+                                 animation="fadeInUp" delay="100"
+                                duration="500" offset="100" triggerOnce="true">
+                                <img *ngIf="celebrity.imgSrc" src="{{celebrity.imgSrc}}" alt="{{celebrity.name}}"
+                                    class="w3-left w3-margin-right" style="width:50px">
+                                <span *ngIf="!celebrity?.professionId">{{celebrity.name}}'s</span> <span
+                                    *ngIf="celebrity?.professionId">{{celebrity.name}}
+                                    ({{celebrity?.professionId}})</span><br>
+                                <span>Height, Weight, Age, <br>Family, Bio, Net Worth & More</span>
+                            </li>
+                        </a>
+                    </ul>
+                </div>
+                <hr style="visibility:hidden">
+                <div class="w3-col l4">
+                    <a routerLink="/{{selectedCelebrity}}" *ngFor="let item of selected" (mouseenter)="onHoverCelebrity(item)" (click)="onNavigate(item)">
+                        <div  animation="fadeIn"
+                            delay="10" duration="500" offset="70" triggerOnce="true">
+                            <div class="w3-margin w3-margin-top " *ngIf="item.name!=randomCelebrity.name"
+                                >
+                                <img src="{{item.imgSrc}}" style="width:100%; border-radius: 24px;" class="w3-card">
+                                <div class="w3-container w3-white w3-card"
+                                    style="padding-left: 1rem; border-radius: 14px;">
+                                    <h3 class="h3"><b>{{item.name}}'s Height, Weight, Age,<br> Family, Biography, Net Worth & More</b></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                    <hr style="visibility:hidden">
+                </div>
+            </div>
+        </div><br>
+    </div>
+    <app-footer></app-footer>
+</body>

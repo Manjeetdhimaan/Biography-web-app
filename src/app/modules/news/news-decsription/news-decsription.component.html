@@ -1,0 +1,87 @@
+<body class="w3-light-grey">
+    <div class="w3-content" style="max-width:1400px">
+        <header class="w3-container w3-center w3-padding-32">
+        </header>
+        <div class="container bioContainer">
+            <div class="w3-row">
+                <div class="w3-col l8 s12" style="text-align: center;">
+                    <div class="w3-card-4 w3-margin w3-white responsive" style="padding-top: 2rem; border-radius: 10px">
+                        <h1 class="celebrityHeading"><b>{{news?.title}}</b></h1>
+                        <img *ngIf="news.imgSrc" style="max-height: 100vh;" animation="fadeInUp" delay="100" duration="500" offset="110" triggerOnce="true" class="celebrityImg" [src]="news?.imgSrc!=''? news?.imgSrc: imgUrl" alt=" news?.name ">
+                        <div class="w3-container">
+                        </div>
+                        <div class="text-left">
+                            <ul class="factsUL" *ngFor="let otherFact of news?.otherFacts">
+                                <li *ngIf="!otherFact.instaLink" [innerHTML]="otherFact.fact"></li>
+                                <li *ngIf="otherFact.instaLink" [innerHTML]="otherFact.fact"></li>
+                                <li *ngIf="otherFact.instaSimpleLink"><a target="_blank" href="otherFact.instaSimpleLink"><strong><i>Click here </i></strong></a>for news?.name's Instragram account Link</li>
+                                <iframe *ngIf="otherFact.instaLink" class="instagram-media instagram-media-rendered  " id="instagram-embed-0" [src]="otherFact.instaLink | safe" allowtransparency="true" allowfullscreen="true" frameborder="0" height="882" data-instgrm-payload-id="instagram-media-payload-0"
+                                    scrolling="no" style="background: white;  width: 90.975%; border-radius: 3px; border: 1px solid rgb(219, 219, 219); box-shadow: none; display: block; margin: 0px 0px 12px; min-width: 100px; padding: 0px;">
+                                        </iframe>
+                                <div class="wp-caption" *ngIf="otherFact.imgSrc">
+                                    <img style="width: 96%;" [src]="otherFact.imgSrc" alt=" news?.name ">
+
+                                    <p *ngIf="otherFact.imgCaption" style="margin-top: 1rem;">otherFact.imgCaption</p>
+                                </div>
+                                <iframe *ngIf="otherFact.videoSrc" class="iframeYoutube" loading="lazy" title="Diljit Dosanjh Workout in Gym" width="1060" height="795" [src]="otherFact.videoSrc | safe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                    allowfullscreen=""></iframe>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="w3-col l4">
+                    <div class="w3-container w3-padding">
+                        <app-search ></app-search>
+                        <h1>Latest News</h1>
+                    </div>
+                    <ul class="w3-ul w3-hoverable w3-white" *ngFor="let latest of latestNews" (click)="onNavigate(latest)">
+                        <a>
+                        <li class="w3-padding-16"  animation="fadeInUp" delay="100" duration="500" offset="110" triggerOnce="false">
+                            <img *ngIf="latest.imgSrc" [src]="latest.imgSrc" alt="latest?.title" class="w3-left w3-margin-right" style="width:50px">
+                             <span *ngIf="!latest?.professionId">{{latest.professionId}}</span> <span >{{latest.title}} </span><br>
+                               <br>
+                        </li>
+                    </a>
+                    </ul>
+                </div>
+                <hr style="visibility:hidden">
+               
+                <div class="w3-col l4">
+                    <div style="text-align: center; margin-top: 3rem;">
+                        <h1>More News from Newsfarmers</h1>
+                        <!-- <h2 style="color: rgb(243, 18, 18);" >No Related post.</h2> -->
+                    </div>
+                    <div class=" w3-margin w3-margin-top" 
+                    *ngFor="let more of moreNews.slice(-6)">
+                    <a><div *ngIf="more?.id.toLowerCase() !== news?.id.toLowerCase()" animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="true"  (click)="onNavigate(more)">
+                            <img [src]="more?.imgSrc!=''? more?.imgSrc: ''" style="width:100%; border-radius: 24px;" class="w3-card">
+                            <div class="w3-container w3-white w3-card" style="padding-left: 1rem; border-radius: 14px">
+                                <a>
+                                    <h3 class="h3"><b>{{more.title}}</b></h3>
+                                </a>
+                            </div>
+
+                        </div>
+                    </a>
+                    </div>
+               
+                    <hr style="visibility:hidden">
+                    <!-- <div class="w3-card w3-margin">
+                        <div class="w3-container w3-padding">
+                            <h4>Tags</h4>
+                        </div>
+                        <div class="w3-container w3-white">
+                            <p><span class="w3-tag w3-black w3-margin-bottom">Travel</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">New York</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">London</span>
+                                <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">IKEA</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">NORWAY</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">DIY</span>
+                                <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Ideas</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Baby</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Family</span>
+                                <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">News</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Clothing</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Shopping</span>
+                                <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Sports</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Games</span>
+                            </p>
+                        </div>
+                    </div> -->
+                </div>
+            </div>
+        </div><br>
+    </div>
+    <app-footer></app-footer>
+</body>

@@ -1,0 +1,4 @@
+<div [ngClass]="{'in': showed }" class="backdrop" (click)="hideBackdrop()" >
+    <app-spinner *ngIf="isLoading" [border-color]="borderColor"></app-spinner>
+    <img *ngIf="!isLoading && isImg" class="imgSrc" [src]="imgSrc" alt="image" (click)="preventOnClick()">
+</div>

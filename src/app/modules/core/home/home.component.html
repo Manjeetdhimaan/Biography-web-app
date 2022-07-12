@@ -1,0 +1,291 @@
+
+<mat-progress-bar mode="indeterminate" *ngIf="isLoading"></mat-progress-bar>
+<!-- ======= Hero Section ======= -->
+<section id="hero" style="background: url({{selected[0]?.imgSrc}}) top center;">
+    <div class="hero-container" data-aos="zoom-in" data-aos-delay="100">
+        <h1>Welcome to Newsfarmers</h1>
+        <!-- <h2>We are team of talented designers making websites with Bootstrap</h2> -->
+        <a routerLink="category/biographies" (click)="onNavigateToBiographies()" class="btn-get-started">Biographies</a>
+    </div>
+</section>
+<!-- End Hero Section -->
+<!-- <div class="calendly-inline-widget" data-url="https://calendly.com/kartik-tiwari/15min" style="min-width:320px;height:630px;"></div> -->
+<main id="main">
+    <div class="overlay" [ngClass]="{'overlay':isToggleImage}">
+        <!-- ======= About Section ======= -->
+        <section id="about">
+            <div class="container" data-aos="fade-up">
+                <div class="row about-container">
+
+                    <div class="col-lg-6 content order-lg-1 order-2">
+                        <h2 class="title">Few Words About {{randomCelebrity?.name}}</h2>
+                        <p>
+                            {{randomCelebrity?.description}}
+                        </p>
+                        <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                            <div class="icon"><i class="bi bi-file-earmark-person"></i></div>
+                            <h4 class="title"><a>Profession</a></h4>
+                            <p class="description" [innerHTML]="randomCelebrity?.profession"></p>
+                        </div>
+                        <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
+                            <div class="icon"><i class="bi bi-arrow-up"></i></div>
+                            <h4 class="title"><a>Height</a></h4>
+                            <p class="description">{{randomCelebrity?.height}}</p>
+                        </div>
+                        <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
+                            <div class="icon"><i class="bi bi-binoculars"></i></div>
+                            <h4 class="title"><a>Weight</a></h4>
+                            <p class="description">{{randomCelebrity?.weight}}</p>
+                        </div>
+                        <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
+                            <h4 class="title "><a class="readMore" (click)="onNavigateTo(randomCelebrity)">Read more..</a></h4>
+                            <p class="description"></p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 background order-lg-2 order-1" style="background: url({{randomCelebrity?.imgSrc}}) center top no-repeat; " data-aos="fade-left" data-aos-delay="100"></div>
+                </div>
+            </div>
+        </section>
+        <!-- End About Section -->
+
+
+        <!-- ======= Services Section ======= -->
+        <!-- <section id="services">
+            <div class="container" data-aos="fade-up">
+                <div class="section-header">
+                    <h3 class="section-title">Services</h3>
+                    <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-6" data-aos="zoom-in">
+                        <div class="box">
+                            <div class="icon"><a><i class="bi bi-briefcase"></i></a></div>
+                            <h4 class="title"><a>Lorem Ipsum</a></h4>
+                            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6" data-aos="zoom-in">
+                        <div class="box">
+                            <div class="icon"><a><i class="bi bi-card-checklist"></i></a></div>
+                            <h4 class="title"><a>Dolor Sitema</a></h4>
+                            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6" data-aos="zoom-in">
+                        <div class="box">
+                            <div class="icon"><a><i class="bi bi-bar-chart"></i></a></div>
+                            <h4 class="title"><a>Sed ut perspiciatis</a></h4>
+                            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6" data-aos="zoom-in">
+                        <div class="box">
+                            <div class="icon"><a><i class="bi bi-binoculars"></i></a></div>
+                            <h4 class="title"><a>Magni Dolores</a></h4>
+                            <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6" data-aos="zoom-in">
+                        <div class="box">
+                            <div class="icon"><a><i class="bi bi-brightness-high"></i></a></div>
+                            <h4 class="title"><a>Nemo Enim</a></h4>
+                            <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6" data-aos="zoom-in">
+                        <div class="box">
+                            <div class="icon"><a><i class="bi bi-calendar4-week"></i></a></div>
+                            <h4 class="title"><a>Eiusmod Tempor</a></h4>
+                            <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section> -->
+
+        <!-- ======= Portfolio Section ======= -->
+        <section id="portfolio" class="portfolio">
+            <div class="container" data-aos="fade-up">
+                <div class="section-header">
+                    <h3 class="section-title">Categories</h3>
+                    <p class="section-description">Explore Categories</p>
+                </div>
+                <div class="row" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-12 d-flex justify-content-center">
+                        <ul id="portfolio-flters">
+                            <li (click)="showAll()" [ngClass]="{'filter-active' : isAll}">All</li>
+                            <li (click)="showSocialMedia()" [ngClass]="{'filter-active' : isSocialMedia}">Social Media Influencer</li>
+                            <li (click)="showSinger()" [ngClass]="{'filter-active' : isSinger}">Punjabi Singer</li>
+                            <!-- <li (click)="showLyricist()" [ngClass]="{'filter-active' : isLyricist}">Lyricist</li> -->
+                            <li (click)="showBollyWoodActor()" [ngClass]="{'filter-active' : isBollyWoodActor}">Bollywood Actor/Actress</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+                    <div class="col-lg-4 col-md-6 portfolio-item punjabi-singer s-hand" *ngFor="let celebrity of punjabiSingerCategory.slice(0,3)" animation="flipInY" delay="0" duration="1000" offset="100" triggerOnce="false">
+                        <div style="height: 300px; width: 100%; ">
+                            <img src="{{celebrity.imgSrc}}" class="img-fluid" alt="{{ celebrity?.name }}">
+                        </div>
+                        <div class="portfolio-info">
+                            <h4>{{celebrity?.name}}</h4>
+                            <p>{{celebrity.profession}}</p>
+                            <a data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="View Image"><i (click)="onToggleImage(celebrity.imgSrc);preventCloseOnClick()" class="bx bx-plus"></i></a>
+                            <a (mouseenter)="onGetSelectedCelebrity(celebrity)" routerLink="/{{selectedCelebrity}}" (click)="onNavigateTo(celebrity)" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 portfolio-item socialMedia s-hand" *ngFor="let celebrity of socialMediaCategory.slice(0,3)">
+                        <div style="height: 300px; width: 100%; ">
+                            <img src="{{celebrity.imgSrc}}" class="img-fluid" alt="{{ celebrity?.name }}">
+                        </div>
+                        <div class="portfolio-info">
+                            <h4>{{celebrity?.name}}</h4>
+                            <p>{{celebrity.profession}}</p>
+                            <a data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="View Image"><i (click)="onToggleImage(celebrity.imgSrc);preventCloseOnClick()" class="bx bx-plus"></i></a>
+                            <a (mouseenter)="onGetSelectedCelebrity(celebrity)" routerLink="/{{selectedCelebrity}}" (click)="onNavigateTo(celebrity)" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                        </div>
+                    </div>
+                    <!-- <div class="col-lg-4 col-md-6 portfolio-item  lyricist s-hand" *ngFor="let celebrity of lyricistCategory.slice(0,3)">
+                        <div style="height: 300px; width: 100%; ">
+                            <img src="{{celebrity.imgSrc}}" class="img-fluid" alt="{{ celebrity?.name }}">
+                        </div>
+                        <div class="portfolio-info">
+                            <h4>{{celebrity?.name}}</h4>
+                            <p>{{celebrity.profession}}</p>
+                            <a data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="View Image"><i (click)="onToggleImage(celebrity.imgSrc);preventCloseOnClick()" class="bx bx-plus"></i></a>
+                            <a (click)="onNavigateTo(celebrity)" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                        </div>
+                    </div> -->
+                    <div class="col-lg-4 col-md-6 portfolio-item  bollywood-actor s-hand" *ngFor="let celebrity of bollywoodCategory.slice(0,3)">
+                        <div style="height: 300px; width: 100%; ">
+                            <img src="{{celebrity.imgSrc}}" class="img-fluid" alt="{{ celebrity?.name }}">
+                        </div>
+                        <div class="portfolio-info">
+                            <h4>{{celebrity?.name}}</h4>
+                            <p>{{celebrity.profession}}</p>
+                            <a data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="View Image"><i (click)="onToggleImage(celebrity.imgSrc);preventCloseOnClick()" class="bx bx-plus"></i></a>
+                            <a (mouseenter)="onGetSelectedCelebrity(celebrity)" routerLink="/{{selectedCelebrity}}" (click)="onNavigateTo(celebrity)" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Portfolio Section -->
+
+        <!-- ======= Team Section ======= -->
+        <section id="team">
+            <div class="container" data-aos="fade-up">
+                <div class="section-header" style="margin: -55px auto 55px auto;">
+                    <h3 class="section-title">Latest News</h3>
+                    <p class="section-description">Explore latest news on <em>Newsfarmers</em></p>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3 col-md-6" *ngFor="let news of latestNews">
+                       <div class="member" data-aos="fade-up" data-aos-delay="100" >
+                        <a class="newsTitle" (mouseenter)="onHoverSelectedNews(news)" routerLink="news/{{hoveredNews}}" (click)="onNavigateToSelectedNews(news)">
+                            <div class="pic" style="background:#333"><img class="newsImg" src="{{news.imgSrc}}" alt="{{news.title}}" style=""></div>
+                            <!-- <h4>Walter White</h4> -->
+                          <span  [innerHTML]="news.title"></span>
+                        </a> 
+                            <div class="social">
+                                <a *ngIf="news.twitterSimpleLink" href="{{news.twitterSimpleLink}}" target="_blank"><i class="bi bi-twitter"></i></a>
+                                <a *ngIf="news.facebookSimpleLink" href="{{news.facebookSimpleLink}}" target="_blank"><i class="bi bi-facebook"></i></a>
+                                <a *ngIf="news.instaSimpleLink" href="{{news.instaSimpleLink}}" target="_blank"><i class="bi bi-instagram"></i></a>
+                                <a *ngIf="news.linkedinSimpleLink" href="{{news.linkedinSimpleLink}}" target="_blank"><i class="bi bi-linkedin"></i></a>
+                            </div>
+                        </div>
+                   
+                    </div>
+                </div>
+
+            </div>
+        </section>
+        <!-- End Team Section -->
+        <!-- ======= Contact Section ======= -->
+        <section id="contact">
+            <div class="container">
+                <div class="section-header">
+                    <h3 class="section-title">Reach Us</h3>
+                    <p class="section-description">If you want us to create your biography, contact!</p>
+                </div>
+            </div>
+
+            <!-- Uncomment below if you wan to use dynamic maps -->
+            <!-- <iframe src="https://www.google.com/maps/embed/v1/place?key=1140,+Sector+91,+Sahibzada+Ajit+Singh+Nagar,+Punjab+140307/@30.6966815,76.6856144,17z/data=!3m1!4b1!4m5!3m4!1s0x390feee28378c1c1:0xa824ce15c1dec8da!8m2!3d30.6966815!4d76.6878031" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe> -->
+
+            <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13722.59869080147!2d76.69901665!3d30.700131449999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m3!3e6!4m0!4m0!5e0!3m2!1sen!2sin!4v1647252949184!5m2!1sen!2sin" width="100%" height="380"
+                frameborder="0" style="border:0" allowfullscreen loading="lazy"></iframe> -->
+            <div class="container mt-5">
+                <div class="row justify-content-center">
+
+                    <div class="col-lg-3 col-md-4">
+                        <div class="info">
+                            <!-- <div>
+                                <i class="bi bi-geo-alt"></i>
+                                <p>Cabin-2, Basement, Plot no.-470, Major Towers,<br> Sector-74, Mohali, India</p>
+                            </div> -->
+
+                            <!-- <div>
+                                <i class="bi bi-envelope"></i>
+                                <p>info@younedia.com</p>
+                            </div> -->
+
+                            <!-- <div>
+                                <i class="bi bi-phone"></i>
+                                <p>+91 8253000032</p>
+                            </div> -->
+                        </div>
+                        <div class="social-links">
+                            <a href="https://twitter.com/TheNewsFarmers" target="_blank" rel="noopener" class="twitter social"><i class="bi bi-twitter"></i></a>
+                            <a href="https://www.facebook.com/newsfarmers/" target="_blank" rel="noopener" class="facebook social"><i class="bi bi-facebook"></i></a>
+                            <a href="https://www.instagram.com/newsfarmers/" target="_blank" rel="noopener" class="instagram social"><i class="bi bi-instagram"></i></a>
+                            <a href="mailto:info@newsfarmers.com" title="info@newsfarmers.com" class="linkedin social"><i class="bi bi-envelope"></i></a>
+                        </div>
+
+                    </div>
+
+                    <!-- <div class="col-lg-5 col-md-8">
+                    <div class="form">
+                        <form (ngSubmit)="onSubmit(contactForm)" #contactForm="ngForm" role="form" class="php-email-form">
+                            <div class="form-group">
+                                <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required ngModel #name="ngModel">
+                            </div>
+                            <div class="form-group mt-3">
+                                <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" ngModel required #email="ngModel">
+                            </div>
+                            <div class="form-group mt-3">
+                                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" ngModel required #subject="ngModel">
+                            </div>
+                            <div class="form-group mt-3">
+                                <textarea class="form-control" name="message" rows="5" placeholder="Message" ngModel required #messages="ngModel"></textarea>
+                            </div>
+                            <div class="my-3">
+                                <div class="loading">Loading</div>
+                                <div class="error-message"></div>
+                                <div class="sent-message">Your message has been sent. Thank you!</div>
+                            </div>
+                            <div class="text-center"><button type="submit" value="Send">Send Message</button>
+                            </div>
+                        </form>
+                    </div>
+                </div> -->
+
+                </div>
+
+            </div>
+        </section>
+        <!-- End Contact Section -->
+    </div>
+</main>
+<!-- End #main -->
+
+<!-- ======= Footer ======= -->
+<app-footer *ngIf="!isLoading"></app-footer>
+<!-- <a class="close" *ngIf="isToggleImage"></a> -->
+<button *ngIf="isToggleImage" class="close " type="button"><div class=" "><svg aria-label="Close"  color="#ffffff" fill="#ffffff" height="24" role="img" viewBox="0 0 24 24" width="24"><polyline fill="none" points="20.643 3.357 12 12 3.353 20.647" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"></polyline><line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" x1="20.649" x2="3.354" y1="20.649" y2="3.354"></line></svg></div></button>
+<app-backdrop class="backdrop" *ngIf="isToggleImage" [imgSrc]="imgSrc" (event)="preventCloseOnClick()" [isLoading]="isLoading" [isImg]=isImg>
+</app-backdrop>
+<app-spinner *ngIf="isLoading" [border-color]="borderColor"></app-spinner>

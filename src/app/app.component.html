@@ -1,0 +1,7 @@
+
+<div appBlockCopyPaste class="disable-text-selection">
+    <app-header (callHomeScrollMethod)="scrollToContact('contact')" ></app-header>
+    <router-outlet></router-outlet>
+</div>
+<app-back-to-top [acceleration]="2" [animate]="true" [scrollDistance]="50" [speed]="120">
+</app-back-to-top>

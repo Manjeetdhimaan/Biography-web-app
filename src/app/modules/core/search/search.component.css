@@ -1,0 +1,130 @@
+.errspan {
+    float: left;
+    margin-left: 9px;
+    margin-top: -24.7px;
+    position: relative;
+    z-index: 2;
+}
+
+.responsiveImg {
+    width: 7%;
+}
+
+.page-item ::ng-deep .ngx-pagination .current {
+    position: relative;
+    margin-right: 0.3rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    min-width: 70px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 3rem;
+    height: 4rem;
+    font-weight: 400;
+    font-size: 1.4rem;
+    padding: 0 .3rem;
+    line-height: 1;
+    color: #c96;
+    border-radius: .3rem;
+    background-color: transparent;
+    border: .1rem solid #ebebeb;
+}
+
+.link ::ng-deep .ngx-pagination a,
+.ngx-pagination button {
+    position: relative;
+    margin-right: 0.3rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    min-width: 70px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 3rem;
+    height: 4rem;
+    font-weight: 400;
+    font-size: 1.4rem;
+    padding: 0 .3rem;
+    line-height: 1;
+    color: #706f6c;
+    border-radius: .3rem;
+    background-color: transparent;
+    border: .1rem solid transparent;
+}
+
+.link ::ng-deep .ngx-pagination a:hover,
+.ngx-pagination button:hover {
+    color: #c96;
+    transition: color 0.3s ease;
+    border: 1px solid #ebebeb;
+}
+
+.pagination ::ng-deep .ngx-pagination {
+    border-radius: 0;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.previous ::ng-deep .ngx-pagination .pagination-previous {
+    margin-right: 2rem;
+}
+
+.previous ::ng-deep .ngx-pagination .disabled {
+    margin-right: 3rem;
+    margin-left: 3rem;
+}
+
+.next ::ng-deep .ngx-pagination .pagination-next {
+    margin-left: 3rem;
+}
+
+@media only screen and (max-width: 1000px) {
+    .responsiveImg {
+        width: 15%;
+    }
+}
+
+@media only screen and (max-width: 751px) {
+    .responsiveImg {
+        width: 20%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .responsiveImg {
+        width: 30%;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .responsiveImg {
+        width: 60%;
+    }
+}
+
+@media only screen and (max-width: 475px) {
+    .responsiveImg {
+        width: 75%;
+    }
+}
+
+@media only screen and (max-width: 280px) {
+    .responsiveImg {
+        width: 110%;
+    }
+}
+.page-item ::ng-deep .ngx-pagination .current{
+    background-color:#D88408!important;
+}
+.w3-padding-32 {
+    padding-top: 0 !important;
+    padding-bottom: 12px !important;
+}
+li{
+    background-color:#ddd;
+    border-radius: 15px;
+}
+.search{
+    padding-left:0
+}

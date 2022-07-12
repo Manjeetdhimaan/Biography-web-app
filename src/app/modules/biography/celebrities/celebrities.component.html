@@ -1,0 +1,775 @@
+<mat-progress-bar mode="indeterminate" *ngIf="isLoading"></mat-progress-bar>
+
+<div class="marquee-text">
+    <marquee width="70%" direction="left" height="25px">
+        <h3>Quick Info about {{ celebrity?.name }} <i class="margin-right bi-arrow-right-circle"></i> Height: {{ celebrity?.height }} <span class="margin-right"></span> Weight: {{ celebrity?.weight }} <span class="margin-right"></span> Age: {{ getAge() }}</h3>
+    </marquee>
+</div>
+
+<body class="w3-light-grey" *ngIf="!isLoading">
+    <div class="w3-content" style="max-width:1400px">
+        <header class="w3-container w3-center w3-padding-32">
+        </header>
+        <div class="container bioContainer">
+            <div class="w3-row">
+                <div class="w3-col l8 s12" style="text-align: center;">
+                    <div class="w3-card-4 w3-margin w3-white responsive" style="padding-top: 2rem; border-radius: 10px">
+                        <h1 class="celebrityHeading"><b><span *ngIf="!celebrity?.professionId">{{ celebrity?.name
+                                    }}'s</span> <span *ngIf="celebrity?.professionId">{{ celebrity?.name }}
+                                    ({{celebrity?.professionId}})</span> Height, Weight, Age, <span
+                                    *ngIf="celebrity?.dod?.date || celebrity?.dod?.month || celebrity?.dod?.year">Death,</span>
+                                Family, Affairs,
+                                Biography, Net Worth &
+                                More</b></h1>
+                        <div>
+                            <img *ngIf="celebrity.imgSrc" animation="fadeInUp" delay="100" duration="500" offset="110"
+                                triggerOnce="true" class="celebrityImg "
+                                [src]="celebrity?.imgSrc!=''? celebrity?.imgSrc: imgUrl" alt="{{ celebrity?.name }}">
+                        </div>
+
+                        <div class="w3-container">
+                        </div>
+                        <table class="table table-hover text-left">
+                            <thead>
+                                <tr class="row-1 odd">
+                                    <th colspan="2" animation="fadeInUp" delay="0" duration="500" offset="110"
+                                        triggerOnce="false" class="column-1"><span><strong>Bio</strong></span></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false">
+                                    <th scope="row">Popular Name</th>
+                                    <td>{{ celebrity?.name }}</td>
+                                </tr>
+                                <tr *ngIf="celebrity?.nickName" animation="fadeInUp" delay="0" duration="500"
+                                    offset="110" triggerOnce="false">
+                                    <th scope="row">Nick Name</th>
+                                    <td [innerHTML]="celebrity?.nickName"></td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.fullname">
+                                    <th scope="row">Real/Full Name</th>
+                                    <td [innerHTML]="celebrity?.fullname"></td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false">
+                                    <th scope="row">Profession</th>
+                                    <td colspan="2" [innerHTML]="celebrity?.profession"></td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.politicalParty">
+                                    <th scope="row">Political Party</th>
+                                    <td colspan="2"><img *ngIf="celebrity?.politicalPartyImgSrc"
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.politicalPartyImgSrc}}" alt="{{ celebrity?.name }}"><br
+                                            *ngIf="celebrity?.politicalPartyImgSrc">{{ celebrity?.politicalParty
+                                        }}
+                                    </td>
+                                </tr>
+                                <tr class="row-4 even">
+                                    <th colspan="2" animation="fadeInUp" delay="0" duration="500" offset="110"
+                                        triggerOnce="false" class="column-1"><span><strong>Physical
+                                                Stats</strong></span></th>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="!celebrity?.dod?.date || !celebrity?.dod?.month || !celebrity?.dod?.year">
+                                    <th scope="row">Age(as of {{currentYear}})</th>
+                                    <td> {{getAge()}}</td>
+                                    <!-- {{getExactAge(celebrity.dob.year+'-'+celebrity.dob.month+'-'+celebrity.dob.date)}} -->
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false">
+                                    <th scope="row">Height (approx.)</th>
+                                    <td>{{ celebrity?.height }}</td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false">
+                                    <th scope="row">Weight (approx.)</th>
+                                    <td>{{ celebrity?.weight }}</td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false">
+                                    <th scope="row">Eye color</th>
+                                    <td [innerHTML]="celebrity?.eyeColor"></td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false">
+                                    <th scope="row">Hair color</th>
+                                    <td [innerHTML]="celebrity?.hairColor"></td>
+                                </tr>
+                                <tr class="row-4 even"
+                                    *ngIf="celebrity?.debut.lyrical || celebrity?.debut.tv || celebrity?.debut.singles || celebrity?.debut.punjabiAlbum || celebrity?.debut.bollywoodFilm || celebrity?.debut.musicVideo || celebrity?.debut.punjabiFilm || celebrity?.debut.musicDirection || celebrity?.debut.filmDirector || celebrity?.debut.webSeries || celebrity?.debut.production || celebrity?.debut.filmWriter || celebrity?.debut.tamilFilm || celebrity?.debut.hollywoodFilm || celebrity?.debut.filmDirection || celebrity?.debut.kannadaFilm || celebrity?.debut.tollywoodFilm">
+                                    <th colspan="2" animation="fadeInUp" delay="0" duration="500" offset="110"
+                                        triggerOnce="false" class="column-1"><span><strong>Debut</strong></span></th>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.debut.lyrical">
+                                    <th scope="row"><strong>As Lyricist:</strong></th>
+                                    <td> <img *ngIf="celebrity?.debut.lyricalImgSrc"
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.debut.lyricalImgSrc}}" alt="{{ celebrity?.name }}"><br
+                                            *ngIf="celebrity?.debut.lyricalImgSrc"> {{ celebrity?.debut.lyrical
+                                        }}
+                                    </td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.debut.musicVideo">
+                                    <th scope="row"><strong>Music Video:</strong></th>
+                                    <td> <img *ngIf="celebrity?.debut.musicVideoFilmImgSrc"
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.debut.musicVideoFilmImgSrc}}"
+                                            alt="{{ celebrity?.name }}"><br
+                                            *ngIf="celebrity?.debut.musicVideoFilmImgSrc"> {{
+                                        celebrity?.debut.musicVideo }}
+                                    </td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.debut.punjabiFilm">
+                                    <th scope="row"><strong>Punjabi Film:</strong></th>
+                                    <td> <img *ngIf="celebrity?.debut.punjabiFilmImgSrc"
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.debut.punjabiFilmImgSrc}}" alt="{{ celebrity?.name }}"><br
+                                            *ngIf="celebrity?.debut.punjabiFilmImgSrc"> {{ celebrity?.debut.punjabiFilm
+                                        }}
+                                    </td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.debut.bollywoodFilm">
+                                    <th scope="row"><strong>Bollywood Film:</strong> </th>
+                                    <td>
+
+                                        <img *ngIf="celebrity?.debut.bollywoodFilmImgSrc"
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.debut.bollywoodFilmImgSrc}}" alt="{{ celebrity?.name }}">
+                                        <br *ngIf="celebrity?.debut.bollywoodFilmImgSrc"><span
+                                            [innerHTML]="celebrity?.debut.bollywoodFilm"></span>
+                                    </td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.debut.hollywoodFilm">
+                                    <th scope="row"><strong>Hollywood Film:</strong> </th>
+                                    <td><img *ngIf="celebrity?.debut.hollywoodFilmImgSrc"
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.debut.hollywoodFilmImgSrc}}" alt="{{ celebrity?.name }}">
+                                        <br *ngIf="celebrity?.debut.hollywoodFilmImgSrc"><span
+                                            [innerHTML]="celebrity?.debut.hollywoodFilm"></span>
+                                    </td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.debut.tollywoodFilm">
+                                    <th scope="row"><strong>Tollywood Film:</strong> </th>
+                                    <td><img *ngIf="celebrity?.debut.tollywoodFilmImgSrc"
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.debut.tollywoodFilmImgSrc}}" alt="{{ celebrity?.name }}">
+                                        <br *ngIf="celebrity?.debut.tollywoodFilmImgSrc"><span
+                                            [innerHTML]="celebrity?.debut.tollywoodFilm"></span>
+                                    </td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.debut.tamilFilm">
+                                    <th scope="row"><strong>Tamil Film:</strong> </th>
+                                    <td><img *ngIf="celebrity?.debut.tamilFilmImgSrc"
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.debut.tamilFilmImgSrc}}" alt="{{ celebrity?.name }}"> <br
+                                            *ngIf="celebrity?.debut.tamilFilmImgSrc"><span
+                                            [innerHTML]="celebrity?.debut.tamilFilm"></span>
+                                    </td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.debut.kannadaFilm">
+                                    <th scope="row"><strong>Kannada Film:</strong> </th>
+                                    <td><img *ngIf="celebrity?.debut.kannadaFilmImgSrc"
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.debut.kannadaFilmImgSrc}}" alt="{{ celebrity?.name }}">
+                                        <br *ngIf="celebrity?.debut.kannadaFilmImgSrc"><span
+                                            [innerHTML]="celebrity?.debut.kannadaFilm"></span>
+                                    </td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.debut.punjabiAlbum">
+                                    <th scope="row"><strong> Punjabi Album:</strong> </th>
+                                    <td><img *ngIf="celebrity?.debut.punjabiAlbumImgSrc"
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.debut.punjabiAlbumImgSrc}}"
+                                            alt="{{ celebrity?.name }}"><br
+                                            *ngIf="celebrity?.debut.punjabiAlbumImgSrc"><span
+                                            [innerHTML]="celebrity?.debut.punjabiAlbum"></span>
+                                    </td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.debut.hindiAlbum">
+                                    <th scope="row"><strong> Hindi Album:</strong> </th>
+                                    <td><img *ngIf="celebrity?.debut.hindiAlbumImgSrc"
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.debut.hindiAlbumImgSrc}}" alt="{{ celebrity?.name }}"><br
+                                            *ngIf="celebrity?.debut.hindiAlbumImgSrc">{{ celebrity?.debut.hindiAlbum
+                                        }}
+                                    </td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.debut.filmWriter">
+                                    <th scope="row"><strong> Film Writer:</strong> </th>
+                                    <td><img *ngIf="celebrity?.debut.filmWriterImgSrc"
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.debut.filmWriterImgSrc}}" alt="{{ celebrity?.name }}"><br
+                                            *ngIf="celebrity?.debut.filmWriterImgSrc">{{ celebrity?.debut.filmWriter
+                                        }}
+                                    </td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.debut.webSeries">
+                                    <th scope="row"><strong> Web Series:</strong> </th>
+                                    <td><img *ngIf="celebrity?.debut.webSeriesImgSrc"
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.debut.webSeriesImgSrc}}" alt="{{ celebrity?.name }}"><br
+                                            *ngIf="celebrity?.debut.webSeriesImgSrc">{{ celebrity?.debut.webSeries
+                                        }}
+                                    </td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.debut.production">
+                                    <th scope="row"><strong> Production:</strong> </th>
+                                    <td><img *ngIf="celebrity?.debut.productionImgSrc"
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.debut.productionImgSrc}}" alt="{{ celebrity?.name }}"><br
+                                            *ngIf="celebrity?.debut.productionImgSrc"><span
+                                            [innerHTML]="celebrity?.debut.production"></span>
+                                    </td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.debut.singles">
+                                    <th scope="row"><strong>Song:</strong> </th>
+                                    <td><img *ngIf="celebrity?.debut.singlesImgSrc"
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.debut.singlesImgSrc}}" alt="{{ celebrity?.name }}"> <br
+                                            *ngIf="celebrity?.debut.singlesImgSrc">{{ celebrity?.debut.singles
+                                        }} </td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.debut.musicDirection">
+                                    <th scope="row"><strong>Music Direction:</strong> </th>
+                                    <td><img *ngIf="celebrity?.debut.musicDirectionImgSrc"
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.debut.musicDirectionImgSrc}}" alt="{{ celebrity?.name }}">
+                                        <br *ngIf="celebrity?.debut.musicDirectionImgSrc">{{
+                                        celebrity?.debut.musicDirection }}
+                                    </td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.debut.filmDirection">
+                                    <th scope="row"><strong>Film Direction:</strong> </th>
+                                    <td><img *ngIf="celebrity?.debut.filmDirectionImgSrc"
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.debut.filmDirectionImgSrc}}" alt="{{ celebrity?.name }}">
+                                        <br *ngIf="celebrity?.debut.filmDirectionImgSrc">{{
+                                        celebrity?.debut.filmDirection }}
+                                    </td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.debut.tv">
+                                    <th scope="row"><strong>TV:</strong> </th>
+                                    <td><img *ngIf="celebrity?.debut.tvImgSrc" class="responsiveImages parentsImages"
+                                            src="{{celebrity?.debut.tvImgSrc}}" alt="{{ celebrity?.name }}"> <br
+                                            *ngIf="celebrity?.debut.tvImgSrc"><span
+                                            [innerHTML]="celebrity?.debut.tv"></span></td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.debut.lastSong">
+                                    <th scope="row"><strong>Last Song:</strong> </th>
+                                    <td><img *ngIf="celebrity?.debut.lastSongImgSrc"
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.debut.lastSongImgSrc}}" alt="{{ celebrity?.name }}"> <br
+                                            *ngIf="celebrity?.debut.lastSongImgSrc"><span
+                                            [innerHTML]="celebrity?.debut.lastSong"></span></td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.debut.lastFilm">
+                                    <th scope="row"><strong>Last Film:</strong> </th>
+                                    <td><img *ngIf="celebrity?.debut.lastFilmImgSrc"
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.debut.lastFilmImgSrc}}" alt="{{ celebrity?.name }}"> <br
+                                            *ngIf="celebrity?.debut.lastFilmImgSrc"><span
+                                            [innerHTML]="celebrity?.debut.lastFilm"></span></td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.awards?.length>0">
+                                    <th colspan="2" animation="fadeInUp" delay="0" duration="500" offset="110"
+                                        triggerOnce="false" scope="row" class="column-1">Awards, Achievements</th>
+                                </tr>
+                                <tr class="row-10 even" *ngIf="celebrity?.awards?.length>0">
+                                    <th>Awards, Achievements</th>
+                                    <div *ngFor="let award of celebrity?.awards">
+                                        <td *ngIf="award.award" class="column-2"><strong>{{award.year}}</strong> <span
+                                                *ngIf="award.year">:</span>
+                                            <span [innerHTML]="award.award"></span>
+                                        </td>
+                                        <img *ngIf="award.imgSrc" class="responsiveImages parentsImages"
+                                            src="{{award.imgSrc}}" alt="{{ celebrity?.name }}">
+                                    </div>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false">
+                                    <th colspan="2" animation="fadeInUp" delay="0" duration="500" offset="110"
+                                        triggerOnce="false" scope="row" class="column-1">Personal Life</th>
+                                </tr>
+                                <tr *ngIf="celebrity?.dob.date || celebrity?.dob.month || celebrity?.dob.year"
+                                    animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false">
+                                    <th scope="row">Date of Birth</th>
+                                    <td>{{celebrity?.dob.date}} {{celebrity?.dob.month}} {{celebrity?.dob.year}} </td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false">
+                                    <th scope="row">Birth Place</th>
+                                    <td>{{celebrity?.birthPlace}}</td>
+                                </tr>
+                                <tr *ngIf="celebrity?.dod?.date || celebrity?.dod?.month || celebrity?.dod?.year"
+                                    animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false">
+                                    <th scope="row">Date of Death</th>
+                                    <td>{{celebrity?.dod?.date}} {{celebrity?.dod?.month}} {{celebrity?.dod?.year}}
+                                    </td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.dod?.date || celebrity?.dod?.month || celebrity?.dod?.year">
+                                    <th scope="row">Age(at the time of death)</th>
+                                    <td> {{getAgeAtTimeOfDeath()}}</td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.deathCause">
+                                    <th scope="row">Death Cause</th>
+                                    <td [innerHTML]="celebrity?.deathCause"></td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.placeOfDeath">
+                                    <th scope="row">Place Of Death</th>
+                                    <td [innerHTML]="celebrity?.placeOfDeath"></td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false">
+                                    <th scope="row">Nationality</th>
+                                    <td>{{celebrity?.nationality}}</td>
+                                </tr>
+                                <tr *ngIf="celebrity?.hometown" animation="fadeInUp" delay="0" duration="500"
+                                    offset="110" triggerOnce="false">
+                                    <th scope="row">Hometown</th>
+                                    <td [innerHTML]="celebrity?.hometown"></td>
+                                </tr>
+
+                                <tr *ngIf="celebrity?.school" animation="fadeInUp" delay="0" duration="500" offset="110"
+                                    triggerOnce="false">
+                                    <th scope="row">School</th>
+                                    <td [innerHTML]="celebrity?.school"></td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.collegeUniversity">
+                                    <th scope="row">College/University</th>
+                                    <td [innerHTML]="celebrity?.collegeUniversity"></td>
+                                </tr>
+                                <tr *ngIf="celebrity?.qualification" animation="fadeInUp" delay="0" duration="500"
+                                    offset="110" triggerOnce="false">
+                                    <th scope="row">Educational Qualification</th>
+                                    <td [innerHTML]="celebrity?.qualification"></td>
+                                </tr>
+                                <tr *ngIf="celebrity?.religion" animation="fadeInUp" delay="0" duration="500"
+                                    offset="110" triggerOnce="false">
+                                    <th scope="row">Religion</th>
+                                    <td [innerHTML]="celebrity?.religion"></td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.zodiacSign">
+                                    <th scope="row">Zodiac Sign</th>
+                                    <td [innerHTML]="celebrity?.zodiacSign"></td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.bloodGroup">
+                                    <th scope="row">Blood Group</th>
+                                    <td>{{celebrity?.bloodGroup}}</td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.foodHabit">
+                                    <th scope="row">Food Habit</th>
+                                    <td [innerHTML]="celebrity?.foodHabit"></td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.address">
+                                    <th scope="row">Address</th>
+                                    <td [innerHTML]="celebrity?.address"></td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.hobbies">
+                                    <th scope="row">Hobbies</th>
+                                    <td [innerHTML]="celebrity?.hobbies"></td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.controversies.length>0">
+                                    <th>Controversy</th>
+                                    <div *ngFor="let controversy of celebrity?.controversies;let i=index">
+                                        <td class="column-2"><strong *ngIf="controversy.title">{{controversy.title}}
+                                                <span>:</span> </strong> <span *ngIf="!controversy.title">• </span>
+                                            <span [innerHtml]="controversy.controversy"></span>
+                                        </td>
+                                    </div>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    class="row-4 even">
+                                    <th colspan="2" animation="fadeInUp" delay="0" duration="500" offset="110"
+                                        triggerOnce="false" class="column-1"><span><strong>Relationships</strong></span>
+                                    </th>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false">
+                                    <th scope="row">Marital Status</th>
+                                    <td>{{celebrity?.maritalStatus}}</td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.gender.toLowerCase()=='male' && (celebrity?.maritalStatus.toLowerCase()=='married' || celebrity?.maritalStatus.toLowerCase()=='divorced')">
+                                    <th scope="row">Wife</th>
+                                    <td><img *ngIf='celebrity?.wifeOrHusbandImgSrc'
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.wifeOrHusbandImgSrc}}" alt="{{ celebrity?.name }}"> <br
+                                            *ngIf='celebrity?.wifeOrHusbandImgSrc'> <span
+                                            [innerHTML]="celebrity?.wifeOrHusband"></span></td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.gender.toLowerCase()=='female' && (celebrity?.maritalStatus.toLowerCase()=='married' || celebrity?.maritalStatus.toLowerCase()=='divorced')">
+                                    <th scope="row">Husband</th>
+                                    <td><img *ngIf='celebrity?.wifeOrHusbandImgSrc'
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.wifeOrHusbandImgSrc}}" alt="{{ celebrity?.name }}">
+                                        <br><span [innerHTML]="celebrity?.wifeOrHusband"></span>
+                                    </td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.fiance">
+                                    <th scope="row">Fiance</th>
+                                    <td><span [innerHTML]="celebrity?.fiance"></span><img
+                                            *ngIf='celebrity?.fianceImgSrc' class="responsiveImages fianceClass"
+                                            src="{{celebrity?.fianceImgSrc}}" alt="{{ celebrity?.name }}">
+                                        <br>
+                                    </td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.affairs">
+                                    <th scope="row">Affairs</th>
+                                    <td> <img *ngIf="celebrity?.affairsImgSrc" class="responsiveImages affairs"
+                                            src="{{celebrity?.affairsImgSrc}}" alt="{{ celebrity?.name }}"> <br
+                                            *ngIf="celebrity?.affairsImgSrc"> <span
+                                            [innerHTML]="celebrity?.affairs"></span></td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    class="row-4 even">
+                                    <th colspan="2" animation="fadeInUp" delay="0" duration="500" offset="110"
+                                        triggerOnce="false" class="column-1"><span><strong>Family</strong></span></th>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false">
+                                    <th scope="row">Parents</th>
+                                    <td><img *ngIf="celebrity?.parents.fatherImgSrc"
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.parents.fatherImgSrc}}" alt="{{ celebrity?.name }}"> <br
+                                            *ngIf="celebrity?.parents.fatherImgSrc"><strong>Father:</strong>
+                                        <span [innerHTML]="celebrity?.parents.father"></span>
+                                    </td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false">
+                                    <th></th>
+                                    <td>
+                                        <img *ngIf="celebrity?.parents.motherImgSrc"
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.parents.motherImgSrc}}" alt="{{ celebrity?.name }}"> <br
+                                            *ngIf="celebrity?.parents.motherImgSrc">
+                                        <strong>Mother:</strong><span [innerHTML]="celebrity?.parents.mother"></span>
+                                    </td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="(celebrity?.children.son || celebrity?.children.sonImgSrc || celebrity?.children.daughter || celebrity?.children.daughterImgSrc)">
+                                    <th scope="row">Children</th>
+                                    <td *ngIf="celebrity?.children.son">
+                                        <strong>Son(s):</strong><span [innerHTML]="celebrity?.children.son"></span>
+                                        <br><img *ngIf="celebrity?.children.sonImgSrc"
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.children.sonImgSrc}}" alt="{{ celebrity?.name }}">
+                                        <br *ngIf="celebrity?.children.sonImgSrc">
+                                        <br>
+                                        <img *ngIf="celebrity?.children.sonImgSrc1"
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.children.sonImgSrc1}}" alt="{{ celebrity?.name }}"> <br
+                                            *ngIf="celebrity?.children.sonImgSrc1">
+                                    </td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.children.daughter">
+                                    <th></th>
+                                    <td>
+                                        <img *ngIf="celebrity?.children.daughterImgSrc"
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.children.daughterImgSrc}}" alt="{{ celebrity?.name }}">
+                                        <br *ngIf="celebrity?.children.daughterImgSrc">
+                                        <strong>Daughter(s):</strong><span
+                                            [innerHTML]="celebrity?.children.daughter"></span>
+                                    </td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.siblings.brother || celebrity?.siblings.brotherImgSrc || celebrity?.siblings.sisterImgSrc || celebrity?.siblings.sister">
+                                    <th scope="row">Siblings</th>
+                                    <td><img *ngIf="celebrity?.siblings.brotherImgSrc"
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.siblings.brotherImgSrc}}"
+                                            alt="{{ celebrity?.name }}'s brother"> <br
+                                            *ngIf="celebrity?.siblings.brotherImgSrc"><strong>Brother:</strong><span
+                                            [innerHTML]="celebrity?.siblings.brother"></span>
+                                    </td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.siblings.sister">
+                                    <th></th>
+                                    <td>
+                                        <img *ngIf="celebrity?.siblings.sisterImgSrc"
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.siblings.sisterImgSrc}}"
+                                            alt="{{ celebrity?.name }}'s sister"> <br
+                                            *ngIf="celebrity?.siblings.sisterImgSrc">
+                                        <strong>Sister:</strong><span [innerHTML]="celebrity?.siblings.sister"></span>
+                                    </td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false">
+                                    <th colspan="2" animation="fadeInUp" delay="0" duration="500" offset="110"
+                                        triggerOnce="false" scope="row" class="column-1"
+                                        *ngIf="celebrity?.favourites.destination || celebrity?.favourites.dress || celebrity?.favourites.sportsman || celebrity?.favourites.sports || celebrity?.favourites.colour || celebrity?.favourites.fashionBrand || celebrity?.favourites.film || celebrity?.favourites.song || celebrity?.favourites.singer || celebrity?.favourites.actress || celebrity?.favourites.actor || celebrity?.favourites.beverages || celebrity?.favourites.food || celebrity?.favourites.poet || celebrity?.favourites.rapper || celebrity?.favourites.fruit || celebrity?.favourites.director">
+                                        Favourite Things</th>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.favourites.food">
+                                    <th scope="row">Food(s)</th>
+                                    <td [innerHtml]="celebrity?.favourites.food"><br>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.favourites.fruit">
+                                    <th scope="row">Food(s)</th>
+                                    <td> {{celebrity?.favourites.fruit}}<br>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.favourites.beverages">
+                                    <th scope="row">Beverages(s)</th>
+                                    <td> {{celebrity?.favourites.beverages}}<br>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.favourites.actor">
+                                    <th scope="row">Actor</th>
+                                    <td [innerHtml]="celebrity?.favourites.actor"> <br>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.favourites.actress">
+                                    <th scope="row">Actress</th>
+                                    <td [innerHtml]="celebrity?.favourites.actress"> <br>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.favourites.director">
+                                    <th scope="row">Director</th>
+                                    <td [innerHtml]="celebrity?.favourites.director"> <br>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.favourites.singer">
+                                    <th scope="row">Singers(s)/Musician(s)</th>
+                                    <td [innerHtml]="celebrity?.favourites.singer"><br>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.favourites.poet">
+                                    <th scope="row">Poet(s)</th>
+                                    <td [innerHtml]="celebrity?.favourites.poet"><br>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.favourites.rapper">
+                                    <th scope="row">Rapper(s)</th>
+                                    <td [innerHtml]="celebrity?.favourites.rapper"><br>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.favourites.song">
+                                    <th scope="row">Song(s)</th>
+                                    <td [innerHtml]="celebrity?.favourites.song"><br>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.favourites.film">
+                                    <th scope="row">Film(s)</th>
+                                    <td [innerHtml]="celebrity?.favourites.film"><br>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.favourites.fashionBrand">
+                                    <th scope="row">Fashion Brand</th>
+                                    <td> {{celebrity?.favourites.fashionBrand}}<br>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.favourites.colour">
+                                    <th scope="row">Colour</th>
+                                    <td> {{celebrity?.favourites.colour}}<br>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.favourites.sports">
+                                    <th scope="row">Sports</th>
+                                    <td> {{celebrity?.favourites.sports}}<br>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.favourites.sportsman">
+                                    <th scope="row">Sports Person</th>
+                                    <td [innerHTML]="celebrity?.favourites.sportsman"><br>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.favourites.dress">
+                                    <th scope="row">Dress</th>
+                                    <td> {{celebrity?.favourites.dress}}<br>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.favourites.destination">
+                                    <th scope="row">Holiday Destination</th>
+                                    <td> {{celebrity?.favourites.destination}}<br>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.styleQoutient.carsCollection || celebrity?.styleQoutient.imgSrc">
+                                    <th colspan="2" animation="fadeInUp" delay="0" duration="500" offset="110"
+                                        triggerOnce="false" scope="row" class="column-1">Style Quotient</th>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.styleQoutient.carsCollection">
+                                    <th scope="row">Cars Collection</th>
+                                    <td> {{celebrity?.styleQoutient.carsCollection}} <br><img
+                                            *ngIf="celebrity?.styleQoutient.imgSrc"
+                                            class="responsiveImages parentsImages"
+                                            src="{{celebrity?.styleQoutient.imgSrc}}" alt="{{ celebrity?.name }}"></td>
+                                </tr>
+                                <tr *ngIf="celebrity?.moneyFactor.earning || celebrity?.moneyFactor.netWorth || celebrity?.moneyFactor.imgSrc"
+                                    animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false">
+                                    <th colspan="2" animation="fadeInUp" delay="0" duration="500" offset="110"
+                                        triggerOnce="false" scope="row" class="column-1">Money Factor</th>
+                                </tr>
+                                <tr *ngIf="celebrity?.moneyFactor.earning" animation="fadeInUp" delay="0" duration="500"
+                                    offset="110" triggerOnce="false">
+                                    <th scope="row">Earning(approx.)</th>
+                                    <td [innerHTML]="celebrity?.moneyFactor.earning"></td>
+                                </tr>
+                                <tr *ngIf="celebrity?.moneyFactor.netWorth" animation="fadeInUp" delay="0"
+                                    duration="500" offset="110" triggerOnce="false">
+                                    <th scope="row">Net Worth(approx.)</th>
+                                    <td [innerHTML]="celebrity?.moneyFactor.netWorth"><br></td>
+                                    <br>
+                                </tr>
+                                <tr *ngIf="celebrity?.moneyFactor.imgSrc" animation="fadeInUp" delay="0" duration="500"
+                                    offset="110" triggerOnce="false">
+                                    <th></th>
+                                    <td> <img style="width: 96%;" [src]="celebrity?.moneyFactor.imgSrc"
+                                            alt="{{celebrity?.name}}"></td>
+                                </tr>
+                                <tr animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false"
+                                    *ngIf="celebrity?.tattoos.length>0">
+                                    <th colspan="2" scope="row" class="column-1">Tattoo(s)</th>
+                                </tr>
+                                <tr *ngIf="celebrity?.tattoos.length>0">
+                                    <th class="thInvisible"></th>
+                                    <td>
+                                        <div class="text-left">
+                                            <ul *ngFor="let tattoo of celebrity?.tattoos">
+                                                <li *ngIf="tattoo.tattoo" class="responsiveImages"
+                                                    [innerHTML]="tattoo.tattoo"></li>
+                                                <div class="wp-caption" style="text-align:left;"
+                                                    *ngIf="tattoo.tattooImgSrc">
+                                                    <img class="responsiveImages parentsImages" style="width: 96%;"
+                                                        src="{{tattoo.tattooImgSrc}}" alt="{{ celebrity?.name }}">
+                                                    <p *ngIf="tattoo.imgCaption" style="margin-top: 1rem;"
+                                                        [innerHTML]="tattoo.imgCaption"></p>
+                                                </div>
+                                                <hr style="visibility:hidden">
+                                            </ul>
+                                        </div><br>
+                                </tr>
+                                <tr class="row-4 even">
+                                    <th colspan="2" animation="fadeInUp" delay="0" duration="500" offset="110"
+                                        triggerOnce="false" class="column-1"><span><strong>Some Lesser Known Facts About
+                                                {{celebrity?.name}}</strong></span></th>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <div class="text-left">
+                            <ul animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="false">
+                                <li>Does {{celebrity?.name}} smoke? {{celebrity?.facts.smoke}}</li>
+                                <li>Does {{celebrity?.name}} drink alcohol? {{celebrity?.facts.alcoholic}}
+                                </li>
+                            </ul>
+                            <ul class="factsUL" *ngFor="let otherFact of celebrity?.otherFacts">
+                                <li *ngIf="!otherFact.instaLink" [innerHtml]="otherFact.fact"></li>
+                                <li *ngIf="otherFact.instaLink">{{celebrity?.name}}'s Instagram</li>
+                                <li *ngIf="otherFact.instaSimpleLink"><a target="_blank"
+                                        href="{{otherFact.instaSimpleLink}}"><strong><i>Click here </i></strong></a>for
+                                    {{celebrity?.name}}'s Instragram account Link</li>
+                                <iframe *ngIf="otherFact.instaLink" class="instagram-media instagram-media-rendered  "
+                                    id="instagram-embed-0" [src]="otherFact.instaLink | safe" allowtransparency="true"
+                                    allowfullscreen="true" frameborder="0" height="882"
+                                    data-instgrm-payload-id="instagram-media-payload-0" scrolling="no"
+                                    style="background: white;  width: 90.975%; border-radius: 3px; border: 1px solid rgb(219, 219, 219); box-shadow: none; display: block; margin: 0px 0px 12px; min-width: 100px; padding: 0px;">
+                                </iframe>
+                                <div class="wp-caption" *ngIf="otherFact.imgSrc">
+                                    <img style="width: 96%;" src="{{otherFact.imgSrc}}" alt="{{ celebrity?.name }}">
+
+                                    <p *ngIf="otherFact.imgCaption" style="margin-top: 1rem;">{{otherFact.imgCaption}}
+                                    </p>
+                                </div>
+                                <iframe *ngIf="otherFact.videoSrc" class="iframeYoutube" loading="lazy" width="1060"
+                                    height="795" [src]="otherFact.videoSrc | safe" frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                    allowfullscreen></iframe>
+                                <!-- <hr style="visibility:hidden"> -->
+                            </ul>
+                        </div>
+                    </div>
+                    <hr style="visibility:hidden">
+                </div>
+                <div class="w3-col l4">
+                    <div class="w3-container w3-padding">
+                        <h1>Recent Posts</h1>
+                    </div>
+                    <ul class="w3-ul w3-hoverable w3-white" *ngFor="let celebrity of recentPost">
+                        <a routerLink="/{{selectedCelebrity}}">
+                            <li class="w3-padding-16" (mouseenter)="onGetSelectedCelebrity(celebrity)"
+                                (click)="onNavigate(celebrity)" animation="fadeInUp" delay="100" duration="500"
+                                offset="110" triggerOnce="false">
+                                <img *ngIf="celebrity.imgSrc" src="{{celebrity.imgSrc}}" alt="{{celebrity?.name}}"
+                                    class="w3-left w3-margin-right" style="width:50px">
+                                <span *ngIf="!celebrity?.professionId">{{celebrity.name}}'s</span> <span
+                                    *ngIf="celebrity?.professionId">{{celebrity.name}}
+                                    ({{celebrity?.professionId}})</span><br>
+                                <span>Height, Weight, Age, Family, <br>Affairs, Bio, Net Worth & More</span>
+                            </li>
+                        </a>
+                    </ul>
+                </div>
+                <hr style="visibility:hidden">
+                <div class="w3-col l4">
+                    <div style="text-align: center; margin-top: 3rem;">
+                        <h1>Related Posts</h1>
+                        <h2 style="color: rgb(243, 18, 18);" *ngIf="relatedPostArray.length<=1">No Related post.</h2>
+                    </div>
+                    <div class=" w3-margin w3-margin-top"
+                        *ngFor="let relatedCelebrity of relatedPostArray.slice(0,13).reverse()"
+                        (mouseenter)="onGetSelectedCelebrity(relatedCelebrity)" (click)="onNavigate(relatedCelebrity)">
+                        <a routerLink="/{{selectedCelebrity}}">
+                            <div *ngIf="relatedCelebrity?.name.toLowerCase() !== celebrity.name.toLowerCase()"
+                                animation="fadeInUp" delay="0" duration="500" offset="110" triggerOnce="true">
+                                <img src="{{relatedCelebrity.imgSrc}}" style="width:100%; border-radius: 24px;"
+                                    class="w3-card">
+                                <div class="w3-container w3-white w3-card"
+                                    style="padding-left: 1rem; border-radius: 14px">
+                                    <h3 class="h3"><b>{{relatedCelebrity.name}}'s Height, Weight, Age,<br> Family,
+                                            Biography, Net Worth & More</b></h3>
+                                </div>
+
+                            </div>
+                        </a>
+                    </div>
+                    <hr style="visibility:hidden">
+                    <!-- <div class="w3-card w3-margin">
+                        <div class="w3-container w3-padding">
+                            <h4>Tags</h4>
+                        </div>
+                        <div class="w3-container w3-white">
+                            <p><span class="w3-tag w3-black w3-margin-bottom">Travel</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">New York</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">London</span>
+                                <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">IKEA</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">NORWAY</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">DIY</span>
+                                <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Ideas</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Baby</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Family</span>
+                                <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">News</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Clothing</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Shopping</span>
+                                <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Sports</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Games</span>
+                            </p>
+                        </div>
+                    </div> -->
+                </div>
+            </div>
+        </div><br>
+    </div>
+    <app-footer></app-footer>
+</body>
+<app-spinner *ngIf="isLoading" [border-color]="borderColor"></app-spinner>

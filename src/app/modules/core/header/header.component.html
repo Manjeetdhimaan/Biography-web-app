@@ -1,0 +1,65 @@
+<header id="header" (click)="preventCloseSearchOnClick()" class="fixed-top d-flex align-items-center" [ngClass]="{'header-scrolled' : isSticky}">
+    <div class="container d-flex justify-content-between align-items-center">
+        <div id="logo" [@appearInOut]="animationState">
+            <a (click)="onNavigateHome()"><img class="logoImg" src="assets/logo/logo2.png" alt="logo"></a>
+        </div>
+        <nav [@appearInOut]="animationState" id="navbar" class="navbar" [ngClass]="{ 'navbar-mobile' : isToggleMenu}">
+            <div  class="search-container" *ngIf="!isToggleMenu && isInput" >
+                <input #search1 class="form-control mr-sm-2" (ngModelChange)="onLoading()" style="float: right;" [(ngModel)]="searchText" type="search" name="search" autocomplete="off" placeholder="&#xF002; Start searching for celebrities..." style="font-family:Arial, FontAwesome"
+                />
+                <mat-icon *ngIf="searchText" role="img" class="mat-icon notranslate material-icons mat-icon-no-color ng-star-inserted" aria-hidden="true" data-mat-icon-type="font" (click)="onClearSearchText()"> close </mat-icon>
+            </div>
+            <ul class="categoryUl" (click)="preventCloseOnClick()">
+                <li><a class="nav-link scrollto" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}" routerLink="/" (click)="onNavigateHome()">Home</a></li>
+                <li><a class="nav-link scrollto" routerLinkActive="active" routerLink="/category/biographies" (click)="onNavigateToBiographies()">Biographies</a></li>
+                <li class="dropdown"><a class="nav-link" (click)="onToggleDropDown()" routerLinkActive="active" [ngClass]="{'active' : isActiveCategoryComponent}" ><span>Categories</span> <i  id="new" class="bi bi-chevron-down " [ngClass]="{'active2' : isActiveClass}"></i></a>
+                    <ul (mouseenter)="isActiveClass=true" (mouseleave)="isActiveClass=false" class="ul" [ngClass]="{'dropdown-active' : isDropDownToggle}">
+                        <li > <button class="dropdown-item " value="punjabi singer" (click)="onGetCategory($event)">Punjabi Singers</button></li>
+                        <button class="dropdown-item " routerLinkActive="active" value="director" (click)="onGetCategory($event)">Director</button>
+                        <button class="dropdown-item" value="Social Media Influencer" (click)="onGetCategory($event)">Social Media Influencer</button>
+                        <button class="dropdown-item" value="Lyricist" (click)="onGetCategory($event)">Lyricist</button>
+                        <button class="dropdown-item" value="Punjabi Actor" (click)="onGetCategory($event)">Punjabi Actors</button>
+                        <button class="dropdown-item" value="Punjabi Actress" (click)="onGetCategory($event)">Punjabi Actress</button>
+                        <button class="dropdown-item" value="Bollywood Actor" (click)="onGetCategory($event)">Bollywood Actors</button>
+                        <button class="dropdown-item" value="Bollywood Actress" (click)="onGetCategory($event)">Bollywood Actress</button>
+                        <!-- <button class="dropdown-item" value="Politician" (click)="onGetCategory($event)">Politician</button> -->
+                        <!-- <button class="dropdown-item" value="Poet" (click)="onGetCategory($event)">Poet</button> -->
+                        <!-- <button class="dropdown-item" value="All" (click)="onGetCategory($event)">All</button> -->
+                    </ul>
+                </li>
+                <li><a routerLink="/news" (click)="onNavigateNews()" routerLinkActive="active" class="nav-link scrollto">News</a></li>
+                <li><a [routerLink]="['/']"  fragment="contact" (click)="onNavigateToContact()" class="nav-link scrollto">Contact</a></li>
+            </ul>
+            <i [@appearInOut]="animationState" #namebutton class="bi bi-list mobile-nav-toggle" (click)="toggleMenu(); preventCloseOnClick()"></i>
+        </nav>
+        <!-- .navbar ends-->
+    </div>
+</header>
+<!-- search container -->
+<div (click)="preventCloseSearchOnClick()" class="container margin " [ngClass]="{'mat-elevation-z5' : true, 'stickySearchBar ' : isStickySearchBar}" [ngClass]="{'mat-elevation-z5' : true, 'less ' : isSticky}">
+    <div class="row">
+        <div>
+            <app-spinner *ngIf="isLoading && searchText.length<=3" [border-color]="borderColor" [isDarkBackground]="isDarkBackground"></app-spinner>
+            <mat-progress-bar style="position: fixed; width: 100%;" class="progress-bar" mode="indeterminate" *ngIf="isLoading && searchText.length<=5"></mat-progress-bar>
+        </div>
+        <ul id="overlay">
+            <div class="overlay-content" *ngIf="searchText">
+                <div>
+                    <!-- animation="fadeInUp" delay="0" duration="500" offset="100" triggerOnce="false" -->
+                    <h1  class="w3-padding-16 results" *ngIf="searchText && (celebrities | filter: searchText.trim()).length > 0">Total results founded for <em style="color: #F91;">{{ searchText }}</em> : ({{ (celebrities | filter: searchText.trim()).length }})</h1>
+                    <li  class="w3-padding-16 li" *ngFor="let celebrity of celebrities | filter:searchText.trim()" (click)="onNavigate(celebrity)">
+                        <img src="{{celebrity.imgSrc}}" alt="Image" class="w3-left w3-margin-right" style="width:60px" >
+                        <span >{{celebrity.name}}'s</span><br>
+                        <span >Height, Weight, Age, <br>Family, Bio & More</span>
+                    </li>
+                </div>
+                <hr *ngIf="searchText" style="visibility: hidden;">
+                <mat-list-item  *ngIf="(celebrities | filter: searchText.trim()).length === 0">
+                    <mat-icon animation="fadeInUp" delay="0" duration="500" offset="90000" triggerOnce="false" mat-list-avatar>error</mat-icon>
+                    <div  animation="fadeInUp" delay="0" duration="500" offset="90000" triggerOnce="false"mat-line>Oops...! No matching results for: <em>{{searchText}}</em> </div>
+                    <hr style="visibility: hidden;">
+                </mat-list-item>
+            </div>
+        </ul>
+    </div>
+</div>

@@ -1,0 +1,25 @@
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" />
+<mat-progress-bar mode="indeterminate" *ngIf="isLoading"></mat-progress-bar>
+<div class="w3-light-grey">
+</div>
+<h1 *ngIf="celebrities?.length==1 || category.toLowerCase()=='all'" class="text-center">{{category}}</h1>
+<h1 *ngIf="celebrities.length>1 && category.toLowerCase()!=='all' && category.toLowerCase()!=='punjabi actress' && category.toLowerCase()!=='bollywood actress' && category.toLowerCase()!=='tik tok'" class="text-center">{{category}}S</h1>
+<h1 *ngIf="celebrities.length>1  && (category.toLowerCase()=='punjabi actress' || category.toLowerCase()=='bollywood actress')" class="text-center">{{category}}ES</h1>
+<h1 *ngIf="celebrities.length>1  && category.toLowerCase()=='tik tok'" class="text-center">{{category}}ERS</h1>
+<h1 *ngIf="celebrities.length<=0" class="text-center">{{category}}</h1>
+<div class="hero-section" *ngIf="celebrities.length>0 && !isLoading">
+    <div class="card-grid" *ngIf="!isLoading">
+        <a class="card" *ngFor="let celebrity of celebrities"  (mouseenter)="onGetSelectedCelebrity(celebrity)" routerLink="/{{selectedCelebrity}}" (click)="onNavigate(celebrity)">
+            <div class="card__background" style="background-image: url({{celebrity.imgSrc}})"></div>
+            <div class="card__content">
+                <p class="card__category" [innerHTML]="celebrity.profession"></p>
+                <h3 class="card__heading">{{celebrity.name}}</h3>
+            </div>
+        </a>
+    </div>
+</div>
+<div *ngIf="celebrities.length<=0" class="text-center noCategory ">
+    <h1 class="">No celebrities for this category</h1>
+</div>
+<app-footer *ngIf="!isLoading"></app-footer>
+<app-spinner *ngIf="isLoading" [border-color]="borderColor"></app-spinner>
