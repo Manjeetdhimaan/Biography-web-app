@@ -63,7 +63,7 @@ export class CelebritiesService {
 
   celebrities: any[] = [
     {
-      id: 'ab1',
+      id: 'ce1',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'punjabi actor', 'actor', 'Punjabi singer'],
       categoryId: ['Punjabi Artist', 'Punjabi Actor/Actress, Model'],
       name: 'Diljit Dosanjh',
@@ -302,7 +302,7 @@ export class CelebritiesService {
        He is recognised as one of the leading artists in the Indian music industry.`
     },
     {
-      id: 'ab2',
+      id: 'ce2',
       category: ['Pollywood', 'punjabi', 'Instagram', 'Acting', 'model', 'Social Media Influencer', 'Tik tok'],
       categoryId: ['social media influencer'],
       name: 'Ashleen Kaur',
@@ -421,7 +421,7 @@ export class CelebritiesService {
       description: `Ashleen comes from Punjab and she is social media influencer. She was born on 31 August in Punjab, India. She belongs to a Hindu family.`
     },
     {
-      id: 'ab3',
+      id: 'ce3',
       category: ['Pollywood', 'punjabi', 'Instagram', 'Acting', 'model', 'Social Media Influencer', 'Tik tok'],
       categoryId: ['social media influencer'],
       name: 'Harmanjot Kaur',
@@ -541,7 +541,7 @@ export class CelebritiesService {
        So let us tell you about Harmanjot Kaur Age, Height, Hobbies, Boyfriend, Family, Biography, and More.`
     },
     {
-      id: 'ab4',
+      id: 'ce4',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'Social Media Influencer', 'Tik tok'],
       name: 'Manpreet Kaur',
       categoryId: ['social media influencer'],
@@ -660,7 +660,7 @@ export class CelebritiesService {
         Manpreet Kaur\'s weight is 196 lbs."`
     },
     {
-      id: 'ab5',
+      id: 'ce5',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actress', 'actress'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Sruishty Mann',
@@ -816,7 +816,7 @@ export class CelebritiesService {
        give so many auditions in many advertisements & serials.`
     },
     {
-      id: 'ab6',
+      id: 'ce6',
       category: ['Pollywood', 'Tik tok', 'Instagram', 'model', 'social media influencer'],
       categoryId: ['social media influencer'],
       name: 'K jatti',
@@ -919,7 +919,7 @@ export class CelebritiesService {
        She has huge fan following on Instagram Account`
     },
     {
-      id: 'ab7',
+      id: 'ce7',
       category: ['Pollywood', 'Tik tok', 'Instagram', 'model', 'social media influencer'],
       categoryId: ['social media influencer'],
       name: 'Shivani Dhiman',
@@ -1050,7 +1050,7 @@ export class CelebritiesService {
       description: `Shivani Dhiman is a Social Media Personality and Model associated with the Music Industry. She was born on 25 November 1998 and her birthplace is Chandigarh`
     },
     {
-      id: 'ab8',
+      id: 'ce8',
       category: ['Pollywood', 'Tik tok', 'Instagram', 'model', 'social media influencer'],
       categoryId: ['social media influencer'],
       name: 'Prabh Kaur',
@@ -1175,7 +1175,7 @@ export class CelebritiesService {
       description: `Prabhjot Kaur Ramgarhia, also known as “Prabh Kaur,” is a famous Tik-Tok actress, Instagram celebrity, and Punjabi model. In Punjab and North India, she has a large fan base on Tik-Tok and Instagram. She creates funny, song lip-syncs, and motivational videos on Mojapp, Instagram Reels, and Tik-Tok (Banned in India).`
     },
     {
-      id: 'ab9',
+      id: 'ce9',
       category: ['Pollywood', 'Tik tok', 'Instagram', 'model', 'social media influencer'],
       categoryId: ['social media influencer'],
       name: 'Jaskirat Maan',
@@ -1308,7 +1308,7 @@ export class CelebritiesService {
       description: `Jaskirat Maan is a popular Instagram celebrity and Model from Ludhiana, Punjab, India. Jaskirat Maan was born on 16 February 1996. He is known for his creative and different types of videos on Instagram reels. He is mainly known for her transformation and lip-syncs videos on Instagram. He is also famous for his handsome looks and having an amazing personality. He is a social media influencer and having a huge fan following on social media.`
     },
     {
-      id: 'ab10',
+      id: 'ce10',
       category: ['Pollywood', 'Tik tok', 'Instagram', 'model', 'social media influencer'],
       categoryId: ['social media influencer'],
       name: 'Nishan Khehra',
@@ -1446,7 +1446,7 @@ export class CelebritiesService {
       description: `Nishan Khehra is a Tik-Tok star, an Instagram celebrity, and a good model. He debuts his career in singing with his song Case 26 in 2018. His second song Don't care (Shera Parwah) crossed 452k views on youtube`
     },
     {
-      id: 'ab11',
+      id: 'ce11',
       category: ['Pollywood', 'Tik tok', 'Instagram', 'model', 'social media influencer'],
       categoryId: ['social media influencer'],
       name: 'Simmu Butter',
@@ -1580,7 +1580,7 @@ export class CelebritiesService {
       description: `Simmu Butter is an Instagram celebrity, and a good model. He is a handsome guy, many Instagram users love to watch his videos.`
     },
     {
-      id: 'ab12',
+      id: 'ce12',
       category: ['Pollywood', 'Tik tok', 'Instagram', 'model', 'social media influencer'],
       categoryId: ['social media influencer'],
       name: 'Dhillon Preet',
@@ -1709,7 +1709,7 @@ export class CelebritiesService {
       description: `Dhillon Preet is a Punjabi model, actor and Police constable. He basically a instagram celebrity. Dhillon Preet is famous for his awesome pictures which he used to post on Instagram. Damanpreet Singh aka Dhillon preet was born in Pakhoke village which is situated in Tarantaran district in Punjab. He was born in the 1990s.Dhillon preet was very good in sports in his childhood. He used to play many sports like Kabbadi, Cricket etc. He got support from his family and now he is a police constable. Usually we don't know about the studies of Dhillon preet but we know he is a graduate and now working in Punjab Police. `
     },
     {
-      id: 'ab13',
+      id: 'ce13',
       category: ['Pollywood', 'Tik tok', 'Instagram', 'model', 'social media influencer'],
       categoryId: ['social media influencer'],
       name: 'Bir Ramgarhia',
@@ -1842,7 +1842,7 @@ export class CelebritiesService {
       in Ludhiana, Punjab.`
     },
     {
-      id: 'ab14',
+      id: 'ce14',
       category: ['Pollywood', 'Tik tok', 'Instagram', 'model', 'social media influencer'],
       categoryId: ['social media influencer'],
       name: 'Gauri Virdi',
@@ -1971,7 +1971,7 @@ export class CelebritiesService {
       description: `Gagandeep Kaur or Gauri Virdi is a famous TikTok Star. She has million of followers on TikTok Account. She was also featured in many Punjabi Songs. Gagandeep Kaur has huge fan following on Instagram Account`
     },
     {
-      id: 'ab15',
+      id: 'ce15',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'social media influencer'],
       categoryId: ['social media influencer'],
       name: 'Muskan Ballu',
@@ -2096,7 +2096,7 @@ export class CelebritiesService {
       in Punjab, India.`
     },
     {
-      id: 'ab16',
+      id: 'ce16',
       category: ['Pollywood', 'Instagram', 'model', 'punjabi actress', 'actress'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Maahi Sharma',
@@ -2219,7 +2219,7 @@ export class CelebritiesService {
       description: `Mahi Sharma is a Punjabi Actress and Model associated with Punjabi Music Industry. She was born in on 17 August 1997 and his birthplace in Nurpur, Himachal Pradesh, India and her hometown is Amritsar, Punjab, India. Her height is about 5′ 6”.`
     },
     {
-      id: 'ab17',
+      id: 'ce17',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', , 'model', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Shipra Goyal',
@@ -2360,7 +2360,7 @@ export class CelebritiesService {
       description: `Shipra Goyal is an Indian singer, who is popularly known for her Bollywood and Pollywood songs. She belongs to a Punjabi family. However, she was born and brought up in Delhi. Shipra Goyal was among the bright student in school and topped in her 12th standard Board Exams. Music has always been her passion and interest. Her parents, Subhash and Anju Goyal are renowned singers from Delhi. She started singing at a very early age and gained huge experience while attending her parents’ concert. While she was in 6th standard she won 1st prize in State-level music competition.`
     },
     {
-      id: 'ab18',
+      id: 'ce18',
       category: ['Pollywood', 'Instagram', 'model', 'social media influencer'],
       categoryId: ['social media influencer'],
       name: 'Karmita Kaur',
@@ -2485,7 +2485,7 @@ export class CelebritiesService {
       in Ludhiana, Punjab, India.`
     },
     {
-      id: 'ab19',
+      id: 'ce19',
       category: ['Pollywood', 'Instagram', 'Tik tok', 'model', 'social media influencer'],
       categoryId: ['social media influencer'],
       name: 'Jaskaran Dhillon',
@@ -2607,7 +2607,7 @@ export class CelebritiesService {
       description: `Jaskaran dhillon is Punjabi Actor and Social media Star. He Started making videos With Gursharan Sandhu in Intial days. He belong to Sangrur Moga. Jaskaran's Height is 5 “8”`
     },
     {
-      id: 'ab20',
+      id: 'ce20',
       category: ['Pollywood', 'Instagram', 'Tik tok', 'model', 'social media influencer'],
       categoryId: ['social media influencer'],
       name: 'Gursharn Sandhu',
@@ -2735,7 +2735,7 @@ export class CelebritiesService {
       description: `Gursharn Sandhu is Punjabi Actor and Comedian who is popular Social Media. He belongs to Village Noorpur Hakeema Moga. His Height is 5 ”8”. Gursharan Sndhu was famous on TikTok by name “sandhuhoni22”. He makes funny Videos and Meaningful videos with His Mother.`
     },
     {
-      id: 'ab21',
+      id: 'ce21',
       category: ['Pollywood', 'Instagram', 'Tik tok', 'model', 'social media influencer'],
       categoryId: ['social media influencer'],
       name: 'Balkaran Sandhu',
@@ -2857,10 +2857,11 @@ export class CelebritiesService {
       description: `Balkaran Sandhu is Punjabi Actor and Comedian who is popular Social Media. He belongs to Village Noorpur Hakeema Moga. His height is 5 ”8”. Balkaran Sndhu was famous on TikTok by name “sandhuhoni22”. He makes funny Videos and Meaningful videos with His Mother.`
     },
     {
-      id: 'ab22',
+      id: 'ce22',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'model', 'lyricist', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Karan Aujla',
+      otherName:`KaranAujla, Karan gharala, Karan Ghurala`,
       fullname: 'Jaskaran Singh Aujla',
       height: "in feet inches - 5\'9\" ",
       age: '24',
@@ -3017,7 +3018,7 @@ export class CelebritiesService {
       description: `Jaskaran Singh "Karan" Aujla (born 18 January 1997) is an Indian singer, lyricist, and rapper known for his work in Punjabi music. He is best known for his many single tracks, 14 of which have been featured in the UK Asian chart by Official Charts Company, while seven have featured in the Global YouTube music chart. His debut album Bacthafucup peaked at 20th on Billboard Canadian Albums chart and 34th on New Zealand albums chart. He is one of Most Popular Artists in Punjabi Music Industry at Today's date.`
     },
     {
-      id: 'ab23',
+      id: 'ce23',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'model', 'lyricist', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Khan Bhaini',
@@ -3143,7 +3144,7 @@ export class CelebritiesService {
       description: `Khan Bhaini is a Punjabi Singer, Lyricist, and Music Composer associated with Punjabi Music Industry. He was born on 13 August 1995 and his birthplace is Village Bhaini Mehraj, Barnala, Punjab. His height is about 5′ 8”. He completed his schooling at Government Public School, Mehraj, and did his graduation from Patiala. Khan Bhaini's real name is Bishwas Khan Bhaini.`
     },
     {
-      id: 'ab24',
+      id: 'ce24',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'model', 'punjabi actor', 'actor', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Ammy Virk',
@@ -3288,7 +3289,7 @@ export class CelebritiesService {
       description: `Amninderpal Singh Virk, better known as Ammy Virk, is an Indian singer, actor and producer who works in Punjabi and Hindi films.[2] He started the production house Villagers Film Studio and a distribution company In House Group. He is best known for playing the role of Nikka in Nikka Zaildar series, Shivjit in Qismat & Qismat 2, Harjeet Singh in Harjeeta, and Haakam in Angrej.`
     },
     {
-      id: 'ab25',
+      id: 'ce25',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'model', 'punjabi actress', 'actress', 'Punjabi singer'],
       categoryId: ['Punjabi Artist', 'Punjabi Actor/Actress, Model'],
       name: 'Nimrat Khaira',
@@ -3473,7 +3474,7 @@ export class CelebritiesService {
       description: `Nimrat Khaira (born 08 august 1992) is an Indian singer, and actress known for her work in Punjabi- language music and films.`
     },
     {
-      id: 'ab26',
+      id: 'ce26',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'model', 'punjabi actor', 'actor', 'lyricist', 'Punjabi singer'],
       categoryId: ['Punjabi Artist', 'Punjabi Actor/Actress, Model'],
       name: 'Tarsem Jassar',
@@ -3643,7 +3644,7 @@ export class CelebritiesService {
       description: `Tarsem Jassar is an Indian singer-songwriter and actor associated with Punjabi films and music. He is well known for his work in movies Rabb Da Radio and Rabb Da Radio 2.`
     },
     {
-      id: 'ab27',
+      id: 'ce27',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'model', 'punjabi actor', 'actor', 'Punjabi singer'],
       categoryId: ['Punjabi Artist', 'Punjabi Actor/Actress, Model'],
       name: 'Gippy Grewal',
@@ -3841,7 +3842,7 @@ export class CelebritiesService {
       His single "Phulkari" was very successful in the Punjabi music industry. He made his acting debut in the 2010 movie, Mel Karade Rabba, and which he followed with Carry On Jatta, Lucky Di Unlucky Story, Bhaji in Problem and Jatt James Bond. He revived "PTC Best Actor Award" in 2011 for his performance in the 2011 film Jihne Mera Dil Luteya. He received the "PIFAA Best Actor Award" in 2012 along with Diljit Dosanjh and received "PTC Best Actor Award" in 2015 for Jatt James Bond along with Diljit Dosanjh.`
     },
     {
-      id: 'ab28',
+      id: 'ce28',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'model', 'lyricist', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Jass Manak',
@@ -3981,7 +3982,7 @@ export class CelebritiesService {
       description: `Jass Manak (born 12 February 1999) is an Indian playback singer-songwriter. He is known predominantly for the songs "Prada", "Suit Punjabi", "Lehanga", "Viah" and "Boss". His single "Lehanga" has featured on the UK Asian Music Chart and also the Global YouTube weekly chart.`
     },
     {
-      id: 'ab29',
+      id: 'ce29',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'model', 'punjabi actor', 'actor', 'Punjabi singer'],
       categoryId: ['Punjabi Artist', 'Punjabi Actor/Actress, Model'],
       name: 'Jassie Gill',
@@ -4133,7 +4134,7 @@ export class CelebritiesService {
       description: `Jasdeep Singh Gill (born 26 November 1988) is an Indian singer and actor associated with Punjabi and Hindi-language music and films. He debuted in Punjabi cinema with the 2014 film Mr & Mrs 420 and in Hindi cinema with the 2018 film Happy Phirr Bhag Jayegi.`
     },
     {
-      id: 'ab30',
+      id: 'ce30',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'punjabi actor', 'actor', 'model', 'Punjabi singer', 'Video Director', 'Director'],
       categoryId: ['Punjabi Artist', 'Punjabi Actor/Actress, Model'],
       name: 'Parmish verma',
@@ -4341,7 +4342,7 @@ export class CelebritiesService {
       description: `Parmish Verma, is an Indian singer, director and actor associated with the Punjabi Music and Punjabi Film Industry. He started his career as a video director then singer, and later debuted as an actor with the film Rocky Mental.`
     },
     {
-      id: 'ab31',
+      id: 'ce31',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Acting', 'punjabi actor', 'actor', 'model', 'Punjabi singer'],
       categoryId: ['Punjabi Artist', 'Punjabi Actor/Actress, Model'],
       name: 'Ranjit Bawa',
@@ -4534,7 +4535,7 @@ export class CelebritiesService {
           a semi-biographical film about the 1980s Punjabi activist Shaheed Bhai Jugraj Singh Toofan.`
     },
     {
-      id: 'ab32',
+      id: 'ce32',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Acting', 'punjabi actor', 'actor', 'model', 'Punjabi singer'],
       categoryId: ['Punjabi Artist', 'Punjabi Actor/Actress, Model'],
       name: 'Rajwir Jawandha',
@@ -4707,7 +4708,7 @@ export class CelebritiesService {
       description: `Rajvir Jawanda is a Punjabi Singer and Actor associated with Punjabi Music Industry. He is born in a Sikh family in 1990 and his birthplace is Village Pona, Jagraon, Ludhiana, Punjab. His height is about 5′ 10”. He did his schooling at Sanmati Vimal Jain School, Jagraon, Punjab, and completed his graduation from DAV College, Jagraon, Punjab, and post-graduate from Punjabi University, Patiala. His Father's name is Karam Singh Jawanda and his Mother's name is Paramjeet Kaur.`
     },
     {
-      id: 'ab33',
+      id: 'ce33',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Acting', 'punjabi actor', 'actor', 'model', 'Punjabi singer'],
       categoryId: ['Punjabi Artist', 'Punjabi Actor/Actress, Model'],
       name: 'Gurnam Bhullar',
@@ -4863,7 +4864,7 @@ export class CelebritiesService {
       description: `Gurnam Bhullar is an Indian singer, actor and lyricist associated with Punjabi language music and films. He is best known for his single Diamond released in 2018`
     },
     {
-      id: 'ab34',
+      id: 'ce34',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Acting', 'punjabi actor', 'actor', 'model', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Mankirat Aulakh',
@@ -5066,7 +5067,7 @@ export class CelebritiesService {
       description: `Mankirt Aulakh is a Punjabi Singer, Actor, and Music Producer associated with Punjabi Music Industry. He is born in a Sikh family on 02 October 1990 and his birthplace is Village Behbalpur, Fatehabad, Haryana, India. His height is about 6′. He did his schooling from Fatehabad and completed his graduation from DAV College, Chandigarh, India. His Father’s name is Nishant Singh Aulakh and his brother’s name is Ravsher Singh Aulakh.`
     },
     {
-      id: 'ab35',
+      id: 'ce35',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Acting', 'punjabi actor', 'actor', 'model', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Ninja',
@@ -5276,7 +5277,7 @@ export class CelebritiesService {
       description: `Ninja is an Indian playback singer and actor associated with punjabi music and punjabi cinema. He is Best known for his songs like Aadat, Oh Kyu Ni Jan Sake, Roii Na, Thokda Reha and Gall Jattan Wali. He made his acting debut with the movie Channa Mereya for which he received Filmfare Best Debut Male Award.`
     },
     {
-      id: 'ab36',
+      id: 'ce36',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Acting', 'Songwriter', 'lyricist', 'punjabi actor', 'actor', 'model', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Garry Sandhu',
@@ -5460,7 +5461,7 @@ export class CelebritiesService {
       description: `Gurmukh Singh "Garry" Sandhu is an Indian singer, songwriter and actor known for his work in Punjabi music. He made his singing debut in 2010 with song "Main Ni Peenda" and acting debut with the film Romeo Ranjha (2014). He has released songs including Illegal Weapon, Yeah Baby, Banda Ban Ja, Excuses etc. He also owns his record label Fresh Media Records. In 2019, his song "Yeah Baby" was released in a bollywood film De De Pyaar De as "Hauli Hauli". He has been nominated for many awards at PTC Punjabi Music Awards. On December 14, Business Today reported that Sandhu's song Illegal Weapon 2.0 was one among top YouTube music videos in India.`
     },
     {
-      id: 'ab37',
+      id: 'ce37',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Acting', 'punjabi actor', 'actor', 'model', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Jordan Sandhu',
@@ -5655,7 +5656,7 @@ export class CelebritiesService {
       description: `Jordan Sandhu is an Indian singer and actor. He is best known for his songs "Teeje Week", "Muchh Rakhi Aa" and "Handsome Jatta" from Ashke. He is also known for collaborating with lyricist Sharanjeet Singh Chohalla Wala on most of his songs. He made his singing debut with "Muchh Phut Gabruu" and acting debut in Subedar Joginder Singh released in 2018. He had also won Punjabi Music Best Debut vocalist (Male) Award in 2016 at PTC Punjabi Music Awards.`
     },
     {
-      id: 'ab38',
+      id: 'ce38',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Acting', 'lyricist', 'writer', 'Song writer', 'punjabi actor', 'actor', 'model', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Sharry Maan',
@@ -5860,7 +5861,7 @@ export class CelebritiesService {
       description: `Surinder Singh Mann, better known as Sharry Mann, is an Indian Punjabi playback singer, lyricist, and film actor, vocalist.`
     },
     {
-      id: 'ab39',
+      id: 'ce39',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'politician', 'lyricist', 'writer', 'Song writer', 'punjabi actor', 'actor', 'model', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Sidhu Moosewala',
@@ -6122,7 +6123,7 @@ export class CelebritiesService {
       description: `Shubhdeep Singh Sidhu (11 June 1993 – 29 May 2022), better known by his stage name Sidhu Moose Wala, was an Indian singer, rapper, actor and politician associated with Punjabi music and Punjabi cinema. He started his career as a songwriter for the song "License" by Ninja, and began his singing career on a duet song titled "G Wagon". Following his debut, he collaborated with Brown Boyz for various tracks which were released by Humble Music. On 29 May 2022, Sidhu Moose Wala was shot dead in his Thar jeep in the village Jawaharke of Mansa district in Punjab by unidentified assailants when he was going to meet his relatives.`
     },
     {
-      id: 'ab40',
+      id: 'ce40',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'punjabi actor', 'actor', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Dilpreet Dhillon',
@@ -6332,7 +6333,7 @@ export class CelebritiesService {
       description: `Amrinder Singh, better known as Dilpreet Dhillon, is a Punjabi singer, actor, and lyricist. He came into the spotlight with the punjabi song 'Gunday no. 1'`
     },
     {
-      id: 'ab41',
+      id: 'ce41',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'lyricist', 'writer', 'Song writer', 'model', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Prem Dhillon',
@@ -6476,7 +6477,7 @@ export class CelebritiesService {
       description: `Premjeet Singh Dhillon is an Indian singer and lyricist associated with Punjabi music. He started his singing career in 2018 with single "Chan Milondi". Dhillon is best known for singles "Boot Cut","Old Skool" and "Majha Block" .`
     },
     {
-      id: 'ab42',
+      id: 'ce42',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'lyricist', 'writer', 'Song writer', 'Punjabi singer', 'Poet', 'Composer', 'punjabi actor', 'actor'],
       categoryId: ['Punjabi Artist'],
       name: 'Satinder Sartaaj',
@@ -6660,7 +6661,7 @@ export class CelebritiesService {
       description: `Satinder Pal Singh, popularly known as Satinder Sartaaj, is an Punjabi singer, songwriter, actor and poet of Punjabi language films and songs. He is a famous punjabi singer since 1999. Since then he has performed around the world. He made his film debut as Maharaja Duleep Singh in The Black Prince in 2017.`
     },
     {
-      id: 'ab43',
+      id: 'ce43',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'lyricist', 'writer', 'Song writer', 'Punjabi singer', 'Composer'],
       categoryId: ['Punjabi Artist'],
       name: 'G Khan',
@@ -6808,7 +6809,7 @@ export class CelebritiesService {
       description: `G Khan was born in Barnala, Punjab, India. he is the most popular Punjabi Singer, Writer, Producer of Punjabi songs and movies. His real name is Gulshan Khan.`
     },
     {
-      id: 'ab44',
+      id: 'ce44',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'lyricist', 'writer', 'Song writer', 'Punjabi singer', 'Composer', 'Music Composer'],
       categoryId: ['Punjabi Artist'],
       name: 'Jaani',
@@ -7004,7 +7005,7 @@ export class CelebritiesService {
       description: `Jaani (born 25 May 1989) is an Indian songwriter and music composer associated with Punjabi and Hindi language songs. His notable songs "Naah", "Kya Baat Ay", "Pachtaoge" , "Filhall", "Titliyaan", "Baarish Ki Jaaye" and "Filhaal2 Mohabbat".`
     },
     {
-      id: 'ab45',
+      id: 'ce45',
       category: ['Pollywood', 'Singer', 'punjabi', 'punjabi actor', 'actor', 'Instagram', 'lyricist', 'writer', 'Song writer', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Amrit Maan',
@@ -7176,7 +7177,7 @@ export class CelebritiesService {
       description: `Amrit Maan is an Indian singer, lyricist and actor associated with Punjabi film and music. He rose to fame after the release of his debut, Desi Da Drum in 2015. He is also known for his debut film Channa Mereya.`
     },
     {
-      id: 'ab46',
+      id: 'ce46',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'lyricist', 'writer', 'Song writer', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Simar Doraha',
@@ -7326,7 +7327,7 @@ export class CelebritiesService {
       description: `Mansimaran Singh is better Known as Simar Doraha, is a Punjabi lyricist, Composer and Singer. On 8 August 2017, He debut to sing his career song Phla Phla Pyaar but he limelight with Pahla Wale (17 July 2020).`
     },
     {
-      id: 'ab47',
+      id: 'ce47',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'lyricist', 'writer', 'Song writer', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Korala Maan',
@@ -7482,7 +7483,7 @@ export class CelebritiesService {
       description: `Korala Maan is Punjabi Singer who started his singing career in 2019 with the song "Dadke Nanke". The song he has sung with Gurlej Akhtar, in which modelling by Prabh Grewal who is a famous model in Pollywood industry.`
     },
     {
-      id: 'ab48',
+      id: 'ce48',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'lyricist', 'writer', 'Song writer', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'R nait',
@@ -7631,7 +7632,7 @@ export class CelebritiesService {
       description: `R Nait was born on 28 October,1989 in his village Dharampura, Mansa, Punjab, India. His real name is Nait Ram but his reel name is R Nait. He is a very famous Punjabi singer and lyricist.`
     },
     {
-      id: 'ab49',
+      id: 'ce49',
       category: ['Pollywood', 'Singer', 'punjabi', 'punjabi actress', 'actress', 'model', 'Instagram', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Sunanda Sharma',
@@ -7810,7 +7811,7 @@ export class CelebritiesService {
       description: `Sunanda Sharma (born 30 January 1992) is an Indian playback singer and film actress. She made her debut with the song "Billi Akh". Sharma began her acting career with the film Sajjan Singh Rangroot with co-stars Diljit Dosanjh and Yograj Singh. Sunanda started her Bollywood career with "Tere Naal Nachna" song`
     },
     {
-      id: 'ab50',
+      id: 'ce50',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'lyricist', 'punjabi actor', 'actor', 'writer', 'Song writer', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Jass Bajwa',
@@ -7953,7 +7954,7 @@ export class CelebritiesService {
       description: `Jass Bajwa is an Indian-Punjabi singer, songwriter and actor. He started his singing career in September 2014 with his album Chakvi Mandeer and made his acting debut in Thug Life released in 2017.`
     },
     {
-      id: 'ab51',
+      id: 'ce51',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'lyricist', 'punjabi actor', 'actor', 'writer', 'Song writer', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Babbu Maan',
@@ -8197,7 +8198,7 @@ export class CelebritiesService {
       He has crazy fan following in Punjab from many years which no other Punjabi artist has.`
     },
     {
-      id: 'ab52',
+      id: 'ce52',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'lyricist', 'writer', 'Song writer', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Kulbrir Jhinjer',
@@ -8344,7 +8345,7 @@ export class CelebritiesService {
       description: `Kulbir Jhinjer is a Punjabi Singer and Lyricist associated with Punjabi Music Industry. He was born on 15 January 1987 and his birthplace is Kharora, Fatehgarh Sahib, Punjab. His height is about 5′ 7”. He completed his graduation from Mata Gujri College, Fatehgarh Sahib.`
     },
     {
-      id: 'ab53',
+      id: 'ce53',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Prabh Gill',
@@ -8515,7 +8516,7 @@ export class CelebritiesService {
       description: `Prabh Gill is a Punjabi Singer, Lyricist, and Actor associated with Punjabi Industry. He is well known for his songs like ‘Haan Karde’, ‘Hostel 1’, and ‘Notorious Jatt’. He also debuts in the Punjabi movie Yaar Annmulle Returns 2021.`
     },
     {
-      id: 'ab54',
+      id: 'ce54',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'punjabi actor', 'actor', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Sippy Gill',
@@ -8679,7 +8680,7 @@ export class CelebritiesService {
       description: `Sippy Gill is a Punjabi Singer, Actor, Lyricist, and Producer associated with Punjabi Music Industry. He was born on o21 May 1982 and his birthplace is Village Rauli, Moga, Ludhiana, Punjab. His height is about 5′ 9”. He completed his schooling from home town school and completed his graduation from D.M.`
     },
     {
-      id: 'ab55',
+      id: 'ce55',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'lyricist', 'writer', 'Song writer', 'Punjabi singer', 'rapper', 'music producer'],
       categoryId: ['Punjabi Artist'],
       name: 'AP Dhillon',
@@ -8864,7 +8865,7 @@ export class CelebritiesService {
       description: `Amritpal Singh Dhillon, known popularly as AP Dhillon, is an Indian singer, rapper, songwriter and record producer associated with Punjabi music. Five of his singles have peaked on the Official Charts Company UK Asian and Punjabi charts, while "Majhail" and "Brown Munde" have topped the chart.`
     },
     {
-      id: 'ab56',
+      id: 'ce56',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'model'],
       categoryId: ['Punjabi Artist'],
       name: 'Baani Sandhu',
@@ -9072,7 +9073,7 @@ export class CelebritiesService {
       description: `Baani Sandhu is a Punjabi Singer associated with Punjabi Music Industry. She was born on 18 December 1993 and his birthplace is Mohali, Punjab India. Her height is about 5′ 8”. She completed his schooling from Govt. Model Sr Sec School, Sector 37-D, Chandigarh.  Baani Sandhu’s real name is Rupinder Kaur Sandhu.`
     },
     {
-      id: 'ab57',
+      id: 'ce57',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'model'],
       categoryId: ['Punjabi Artist'],
       name: 'Himmat Sandhu',
@@ -9280,7 +9281,7 @@ export class CelebritiesService {
       description: `Himmat Singh Sandhu is a Punjabi singer and model. He came into the spotlight with his Punjabi song \"Saab\". Himmat Sandhu was born in 1997 in Lakhimpur, Uttar Pradesh. His family has its roots in Tarantaran, Punjab.`
     },
     {
-      id: 'ab58',
+      id: 'ce58',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'model', 'lyricist', 'writer', 'Song writer'],
       categoryId: ['Punjabi Artist'],
       name: 'Jassa Dhillon',
@@ -9440,7 +9441,7 @@ export class CelebritiesService {
       description: `Jassa Dhillon is an Indian singer, lyricist and composer who is associated with the Punjabi music industry. His song "Talja" has featured on the UK Asian Music Chart and also the Global YouTube weekly chart`
     },
     {
-      id: 'ab59',
+      id: 'ce59',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'model', 'lyricist', 'writer', 'Song writer'],
       categoryId: ['Punjabi Artist'],
       name: 'Happy Raikoti',
@@ -9614,7 +9615,7 @@ export class CelebritiesService {
       description: `Happy Raikoti is an Indian singer , lyricist and actor associated with Punjabi music. He made his singing debut with the song "Jaan" in 2014. His album "7 Knaalan" was released in 2015. He is one of leading lyricists in Punjabi Music .`
     },
     {
-      id: 'ab60',
+      id: 'ce60',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'model',],//'lyricist', 'writer', 'Song writer'
       categoryId: ['Punjabi Artist'],
       name: 'Kulwinder Billa',
@@ -9762,7 +9763,7 @@ export class CelebritiesService {
       description: `Kulwinder Billa is a famous singer, writer as well as actor. As we know that Kulwinder Billa became famous with his first song named ‘Kale Rang Da Yaar’.`
     },
     {
-      id: 'ab61',
+      id: 'ce61',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'model', 'lyricist', 'writer', 'Song writer'],//'lyricist', 'writer', 'Song writer'
       categoryId: ['Punjabi Artist'],
       name: 'Kambi',
@@ -9944,7 +9945,7 @@ export class CelebritiesService {
       description: `The birth name of this Singer, Lyricist is Kambi. The nickname is Kambi Rajpuriya. He has Indian citizenship. his home town is Village Rajpur Bhayian, Hoshiarpur, Punjab, India. He is the followers of Sikhism.`
     },
     {
-      id: 'ab62',
+      id: 'ce62',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'model', 'lyricist', 'writer', 'Song writer'],//'lyricist', 'writer', 'Song writer'
       categoryId: ['Punjabi Artist'],
       name: 'Harf Cheema',
@@ -10086,7 +10087,7 @@ export class CelebritiesService {
       description: `Harf Cheema is a Singer and Lyricist associated with Punjabi Music Industry. He was born in a Sikh family on 13 September 1987 and his birthplace is Village Cheema, Sangrur, Punjab, India. His height is about 5′ 7”. He did his schooling at Government Public School and did his graduation from Chandigarh Group of Colleges, Landran, Mohali.`
     },
     {
-      id: 'ab63',
+      id: 'ce63',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'model', 'Music Composer'],//'lyricist', 'writer', 'Song writer', 'Music Composer'
       categoryId: ['Punjabi Artist'],
       name: 'Maninder Buttar',
@@ -10234,7 +10235,7 @@ export class CelebritiesService {
       description: `Maninderjeet Singh Buttar is an Indian singer and songwriter known for his work in Punjabi music. He is best known for songs "Yaari", "Sakhiyaan", "Ik Tera", "Pani Di Gal"and "Laare".`
     },
     {
-      id: 'ab64',
+      id: 'ce64',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Music Producer', 'Punjabi singer', 'model', 'Music Composer', 'lyricist', 'writer', 'Song writer',],//'lyricist', 'writer', 'Song writer', 'Music Composer'
       categoryId: ['Punjabi Artist'],
       name: 'Singga',
@@ -10420,7 +10421,7 @@ export class CelebritiesService {
       description: `Singga is an Indian singer, songwriter and music producer who mainly works in the Punjabi music industry. Singga was born as \"Manpreet Singh\" in the year 1992 in the Ludhiana city of Punjab.`
     },
     {
-      id: 'ab65',
+      id: 'ce65',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'model'],//'lyricist', 'writer', 'Song writer', 'Music Composer'
       categoryId: ['Punjabi Artist'],
       name: 'Jazzy B',
@@ -10636,7 +10637,7 @@ export class CelebritiesService {
       description: `Jazzy B was born in Jalandhar, Punjab, India. When he was five years old, his family moved to Surrey, British Columbia, Canada. His first album Gugiyan Da Jora was released in 1993. The rhythm was played by Sukhshinder Shinda who suggested that he move to England if he wanted a prominent career in Punjabi music.[2] He is a big fan of the late singer Kuldeep Manak, which is one of the reasons why Jazzy's album, Maharajas, released in 2011, with Kuldeep's son, Yudhvir, also a singer, is a tribute to Kuldeep Manak, with some of Kuldeep's original vocals retained, and many other songs sung by Jazzy and Yudhvir, are also a tribute to Kuldeep Manak.`
     },
     {
-      id: 'ab66',
+      id: 'ce66',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'lyricist', 'writer', 'Song writer', 'Music Composer'],//'lyricist', 'writer', 'Song writer', 'Music Composer'
       categoryId: ['Punjabi Artist'],
       name: 'Veet Baljit',
@@ -10784,7 +10785,7 @@ export class CelebritiesService {
       description: `Veet Baljit is a Punjabi Singer and Lyricist associated with Punjabi Music Industry. He was born on 15 June 1983 and his birthplace is Village Kaunke Kalan, Ludhiana, Punjab, India. His height is about 5′ 8”.`
     },
     {
-      id: 'ab67',
+      id: 'ce67',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'lyricist', 'punjabi actor', 'actor', 'writer', 'Song writer', 'Music Composer'],//'lyricist', 'writer', 'Song writer', 'Music Composer'
       categoryId: ['Punjabi Artist'],
       name: 'Vadda Grewal',
@@ -10939,7 +10940,7 @@ export class CelebritiesService {
       description: `Vadda Grewal was born on (06 January 1991) In Kammo Majra Kalan, in the state of Punjab, India. He is a Singer, Lyricist, and Actor..`
     },
     {
-      id: 'ab68',
+      id: 'ce68',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'lyricist', 'writer', 'Song writer', 'Music Composer'],//'lyricist', 'writer', 'Song writer', 'Music Composer'
       categoryId: ['Punjabi Artist'],
       name: 'Kaka ji',
@@ -11111,7 +11112,7 @@ export class CelebritiesService {
       description: `Kaka is an Indian singer, lyricist and composer who is associated with the Punjabi music industry. He is known for his songs "Keh Len De", "Temporary Pyar" and "Libaas".`
     },
     {
-      id: 'ab69',
+      id: 'ce69',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'lyricist', 'writer', 'Song writer', 'Music Composer'],//'lyricist', 'writer', 'Song writer', 'Music Composer'
       categoryId: ['Punjabi Artist'],
       name: 'Nirvair Pannu',
@@ -11271,7 +11272,7 @@ export class CelebritiesService {
       description: `Nirvair Pannu is an Indian singer, lyricist and model, associated with Punjabi Music. On 21 December 2018, He started his music career with a solo song “Pistol“,  but he limelight with his song “Bandook” (15 June 2020).`
     },
     {
-      id: 'ab70',
+      id: 'ce70',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'lyricist', 'writer', 'Song writer', 'Music Composer'],//'lyricist', 'writer', 'Song writer', 'Music Composer'
       categoryId: ['Punjabi Artist'],
       name: 'Navaan Sandhu',
@@ -11407,7 +11408,7 @@ export class CelebritiesService {
       description: `Navaan Sandhu is a Punjabi singer and songwriter who is known for his work in the Punjabi music industry. In the year 1995, he was born into a Sikh household in Amritsar, Punjab, India.`
     },
     {
-      id: 'ab71',
+      id: 'ce71',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'model'],//'lyricist', 'writer', 'Song writer', 'Music Composer'
       categoryId: ['Punjabi Artist'],
       name: 'Akhil',
@@ -11561,7 +11562,7 @@ export class CelebritiesService {
       description: `Akhil Pasreja, known mononymously as Akhil, is an Indian Punjabi playback singer, songwriter and music performer. He made his Bollywood singing debut in Luka Chuppi (2019). He was born in an Arora family in Jalandhar, Punjab.`
     },
     {
-      id: 'ab72',
+      id: 'ce72',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'music director', 'music composer'],//'lyricist', 'writer', 'Song writer', 'Music Composer'
       categoryId: ['Punjabi Artist'],
       name: 'B Praak',
@@ -11770,7 +11771,7 @@ export class CelebritiesService {
       description: `Pratik Bachan, best known by his stage name B Praak (formerly Prakky B), is an Indian singer and music director associated with the Punjabi and Hindi music industry. He started his career as a music producer, and later debuted as a singer with the song Mann Bharrya .[1] He is a frequent collaborator of lyricist Jaani, and has since entered into Hindi cinema in 2019 with two songs as singer in the films Kesari and Good Newwz starring Akshay Kumar, and as a guest composer in the satire Bala.`
     },
     {
-      id: 'ab73',
+      id: 'ce73',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer'
       categoryId: ['Punjabi Artist'],
       name: 'Kaur B',
@@ -11930,7 +11931,7 @@ export class CelebritiesService {
       description: `Kaur B was born on 5 July 1991 (age 28 years; as in 2019) in Patran, Sangrur, Punjab. Her zodiac sign is Cancer. Her hometown is Nawagaon, District Sangrur, Punjab. She graduated in Arts. Kaur B was good at co-curricular activities in her school days and often used to participate in singing and dance competitions.`
     },
     {
-      id: 'ab74',
+      id: 'ce74',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer'
       categoryId: ['Punjabi Artist'],
       name: 'Afsana Khan',
@@ -12090,7 +12091,7 @@ export class CelebritiesService {
       description: `Afsana Khan (born 13 June 1994) is an Indian Punjabi playback singer. She started her career as a participant in the singing reality show, Voice of Punjab Season 3 in 2012. She is known for her tracks "Titliaan" written by Jaani and "Dhakka" with Sidhu Moosewala`
     },
     {
-      id: 'ab75',
+      id: 'ce75',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer'
       categoryId: ['Punjabi Artist'],
       name: 'Hardy Sandhu',
@@ -12256,7 +12257,7 @@ export class CelebritiesService {
       description: `Hardavinder Singh Sandhu (Hardy Sandhu) is an Indian singer, actor and former cricketer. His first song was Tequilla Shot, and he gained popularity with Soch (2013) and Joker (2014), which were written by Jaani and music composed by B Praak . Sandhu made his acting debut in Yaaran Da Katchup (2014). His song "Soch" was remade for the 2016 Bollywood film Airlift. His song "Naah" was remade for the film Bala as "Naah Goriye" with singer Swasti Mehul. He is a notable alumnus of The British Co-Ed High school, Patiala.`
     },
     {
-      id: 'ab76',
+      id: 'ce76',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'lyricist', 'music composer', 'composer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer'
       categoryId: ['Punjabi Artist'],
       name: 'Sajjan Adeeb',
@@ -12422,7 +12423,7 @@ export class CelebritiesService {
       description: `Sajjan Adeeb is a Singer, Lyricist, and Composer associated with Punjabi Music Industry. He was born in a Sikh family in 1989 and his birthplace is Village Bhagta Bhai ka, Bathinda, Punjab. His height is about 5′ 8”. He did his graduation from Punjabi University, Patiala.`
     },
     {
-      id: 'ab77',
+      id: 'ce77',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer'
       categoryId: ['Punjabi Artist'],
       name: 'Zora Randhawa',
@@ -12583,7 +12584,7 @@ export class CelebritiesService {
       He learned singing from the signer Kaka Bhaniawala who is died. Zora Randhawa raised to fame with his songs “Inch”, “22Da”, “Wonderland” and “Faaltu” etc. And he is the member of the Desi Rockstars Tour Aus/Nz 2011 with Sharry Mann, Neeru Bajwa, Gippy Grewal, Geeta Zaildar.`
     },
     {
-      id: 'ab78',
+      id: 'ce78',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'lyricist', 'writer', 'Song writer', 'Music Composer', 'composer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer'
       categoryId: ['Punjabi Artist'],
       name: 'Arjan Dhillon',
@@ -12725,7 +12726,7 @@ export class CelebritiesService {
       description: `Arjan Dhillon is a Punjabi Singer and Lyricist associated with Punjabi Music Industry. He was born in a Sikh family in 1996 and his birthplace is Barnala, Punjab, India. His height is about 170cm. He completed his schooling from Barnala and did his graduation from Punjabi University, Patiala.`
     },
     {
-      id: 'ab79',
+      id: 'ce79',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer'
       categoryId: ['Punjabi Artist'],
       name: 'Harnoor',
@@ -12867,7 +12868,7 @@ export class CelebritiesService {
       description: `Harnoor is Punjabi Singer who is best known for his Punjabi Single Track Walian. He becomes famous with his one Punjabi song Walian and Moonlight. This Talented Punjabi Singer is born in Tarn Taran Sahib Punjab and raised in Canada. His higher Education is from Canada and currently, he is living in the USA.`
     },
     {
-      id: 'ab80',
+      id: 'ce80',
       category: ['Pollywood', 'punjabi', 'Instagram', 'lyricist', 'writer', 'Song writer', 'Producer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Bunty Bains',
@@ -13009,7 +13010,7 @@ export class CelebritiesService {
       description: `Bunty Bains is a Punjabi Lyricist, Composer, and Producer associated with the Punjabi Music Industry. He is well known for his lyrics like Heavy Weight Bhangra, Sucha Soorma, Chete Kareya, Classmate, Dhillon Da Munda, and more. Bunty Bains has launched many singers like Jenny Johal, Jordan Sandhu, Ranjit Bawa, Gitaz Bindrakhia, Kaur B, and more.`
     },
     {
-      id: 'ab81',
+      id: 'ce81',
       category: ['Pollywood', 'punjabi', 'Punjabi singer', 'Singer', 'Instagram', 'lyricist', 'writer', 'Song writer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Varinder Brar',
@@ -13163,7 +13164,7 @@ export class CelebritiesService {
       description: `Varinder Brar is a Punjabi singer and Lyricist associated with the Punjabi Music Industry. He was born on 16 September 1995 and her birthplace Ferozepur, Punjab, India. His height is about 170cm. He did his schooling at Dasmesh Public School and completed his graduation from Manitoba, Canada.`
     },
     {
-      id: 'ab82',
+      id: 'ce82',
       category: ['Pollywood', 'punjabi', 'Punjabi singer', 'Singer', 'Instagram', 'lyricist', 'writer', 'Song writer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Satvir Aujla',
@@ -13325,7 +13326,7 @@ export class CelebritiesService {
       Satbir has sung numerous Punjabi tunes like ‘Jutti’, ‘Housewife’, and so forth.He came into the spotlight in 2019 in the wake of singing the tune ‘Tom And Jerry’.`
     },
     {
-      id: 'ab83',
+      id: 'ce83',
       category: ['Pollywood', 'punjabi', 'Punjabi singer', 'Singer', 'Instagram', 'lyricist', 'writer', 'Song writer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Sabi Bhinder',
@@ -13479,7 +13480,7 @@ export class CelebritiesService {
       description: `Sabi Bhinder is a singer, lyricist, composer, associated with Punjabi Music Industry. on October 2019, He started his career as a lyricist, song LongLife, which sang by Punjabi singer Harnoor. On 17 February 2020, he debuts his career as a singer with solo 5 Golliyan, Label Jatt Life Studios. on 6 July 2020,  Sabi limelight with his duet Song Probhited. After that, he gives many hits like Dollar, Cadilac, etc.`
     },
     {
-      id: 'ab84',
+      id: 'ce84',
       category: ['Pollywood', 'punjabi', 'Punjabi singer', 'Singer', 'Instagram', 'lyricist', 'writer', 'Song writer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Shree Brar',
@@ -13633,7 +13634,7 @@ export class CelebritiesService {
       description: `Shree Brar is a Punjabi Singer and Lyricist associated with Punjabi Music Industry. He was born in a Sikh family in 1992 and his birthplace is Village Silwala Khurd, Hanumangarh, Rajasthan. His height is about 5′ 6”. He completed his schooling from D.A.V. Public School, Patiala, Punjab, and did his graduation from Government College of Art, Chandigarh. Shree Brar’s real name is Pawan Deep Singh.`
     },
     {
-      id: 'ab85',
+      id: 'ce85',
       category: ['Pollywood', 'punjabi', 'Punjabi singer', 'Singer', 'Instagram', 'lyricist', 'writer', 'Song writer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Deep Chahal',
@@ -13769,7 +13770,7 @@ export class CelebritiesService {
       description: `Deep Chahal is a Punjabi Singer and Lyricist associated with Punjabi Music Industry. He is born in a Sikh family in 2000 and his birthplace is Rampura Jawaharwala, Sangrur, Punjab. His height is about 5′ 7”. He completed his graduation from Chandigarh University.`
     },
     {
-      id: 'ab86',
+      id: 'ce86',
       category: ['Pollywood', 'punjabi', 'Punjabi singer', 'Singer', 'Instagram'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Amar Sehmbi',
@@ -13935,7 +13936,7 @@ export class CelebritiesService {
       description: `Amar Sehmbi is a Punjabi Singer associated with the Punjabi Music Industry. He was born on 08 March 1998 and his birthplace is Shimlapuri, Ludhiana, Punjab. His height is about 5′ 11”. He did his schooling at Shaheed Bhagat Singh School, Ludhiana till 8th standard and 9th to 12th from Teja Singh Sutantar Memorial Senior Secondary School, Ludhiana, and completed his graduation from S.C.D. Government College, Ludhiana.`
     },
     {
-      id: 'ab87',
+      id: 'ce87',
       category: ['Pollywood', 'punjabi', 'Punjabi singer', 'Singer', 'Instagram'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Gulab Sidhu',
@@ -14083,7 +14084,7 @@ export class CelebritiesService {
       description: `Gulab Sidhu is a Punjabi Singer and Lyricist associated with Punjabi Music Industry. He was born in a Sikh family in 1993 and his birthplace is Village Pharwahi, Barnala, Punjab. His height is about 5′ 8”. He completed his schooling at Punjab School Education Board and did his Education till High School. Gulab Sidhu’s wife’s name is Ravinder Kaur.`
     },
     {
-      id: 'ab88',
+      id: 'ce88',
       category: ['Pollywood', 'punjabi', 'Punjabi singer', 'Singer', 'Instagram', 'lyricist', 'writer', 'Song writer', 'Music Composer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Hardeep Grewal',
@@ -14247,7 +14248,7 @@ export class CelebritiesService {
       description: `Hardeep Grewal is a Punjabi Singer and Lyricist associated with Punjabi Music Industry. He belongs to the Sikh family born on 21 September 1988 and his birthplace is Village Jamalpur, Ludhiana, Punjab. His height is about 5′ 9”. He did his schooling at Sacred Heart Convert School, Ludhiana, and completed his graduation from the Regional Institute of Management and Technology, Gobindgarh, Punjab in Mechanical Engineering.`
     },
     {
-      id: 'ab89',
+      id: 'ce89',
       category: ['Pollywood', 'punjabi', 'Punjabi singer', 'Singer', 'Instagram', 'lyricist', 'writer', 'Song writer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Hustinder',
@@ -14401,7 +14402,7 @@ export class CelebritiesService {
       description: `Hustinder is a Punjabi Singer and Lyricist associated with Punjabi Music. He was born in the Sikh family on 26 June 1991 and his birthplace is Village Bhadaur, Barnala, Punjab. His height is about 5′ 9”.`
     },
     {
-      id: 'ab90',
+      id: 'ce90',
       category: ['Pollywood', 'punjabi', 'Punjabi singer', 'Singer', 'Instagram', 'lyricist', 'writer', 'Song writer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Gurj Sidhu',
@@ -14573,7 +14574,7 @@ export class CelebritiesService {
       description: `Gurjeet Singh Sidhu better known as Gurj Sidhu is a singer, lyricist and model, associated with the Punjabi music Industry. He debuted his career In singing with the song Nazare, under the banner of Moviebox Record Label, on 16 July 2014. He also won the Best Uk Male Artist award from BritAsia Tv, in 2019.`
     },
     {
-      id: 'ab91',
+      id: 'ce91',
       category: ['Pollywood', 'punjabi', 'Punjabi singer', 'Singer', 'Instagram', 'lyricist', 'writer', 'Song writer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Karan Randhawa',
@@ -14715,7 +14716,7 @@ export class CelebritiesService {
       description: `Singer and Model Karan Randhawa, born Karan Singh Randhawa, is quite famous for making Punjabi Music. Born on December 21, 1998, he is 23 years old (as of now). His religion is Sikhism, and his sun sign is Capricorn.`
     },
     {
-      id: 'ab92',
+      id: 'ce92',
       category: ['Pollywood', 'punjabi', 'Punjabi singer', 'Singer', 'Instagram'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Guri',
@@ -14863,7 +14864,7 @@ export class CelebritiesService {
       description: `Guri Khattra is a Punjabi Singer and lyricist associated with Punjabi music. He is born in the Sikh family on 03 January 1992 and his birthplace is Patiala, Punjab, India. His Father’s name is Kuldeep Singh. His height is about 5′ 8”. He completed his schooling from Government Multipurpose Senior Secondary School, Patiala, and graduate from CGI Campus Jalvehra, Sirhind, Fatehgarh, Punjab. He is a fitness enthusiast and visits the gym regularly.`
     },
     {
-      id: 'ab93',
+      id: 'ce93',
       category: ['Pollywood', 'punjabi', 'Punjabi singer', 'Singer', 'Instagram'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Gurjazz',
@@ -15000,7 +15001,7 @@ export class CelebritiesService {
       description: `Gurjazz is a Indian, Singer, Model. Gurjazz was born on 10 October at and Zodiac Sign is Virgo. Gurjazz hails from Patiala, Punjab, India, religion belongs to is Sikhism and nationality, Indian.`
     },
     {
-      id: 'ab94',
+      id: 'ce94',
       category: ['Pollywood', 'punjabi', 'Punjabi singer', 'Singer', 'Instagram', 'lyricist', 'writer', 'Song writer', 'Music Composer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Romey Maan',
@@ -15148,7 +15149,7 @@ export class CelebritiesService {
       description: `Romey Maan is a Punjabi Singer and Lyricist associated with Punjabi Music Industry. He was born on September 1997 and his birthplace is Village Daula, Sri Muktsar Sahib, Punjab. He is best known for his songs like Jatt Wallon Sorry, Malwai, Weaponz, Gabru, and Straight Way.`
     },
     {
-      id: 'ab95',
+      id: 'ce95',
       category: ['Pollywood', 'punjabi', 'Punjabi singer', 'Singer', 'Instagram'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Barbie Maan',
@@ -15302,7 +15303,7 @@ export class CelebritiesService {
       description: `Jasmeet Kaur Maan, better known as Barbie Maan, is an Indian singer associated with Punjabi music. Maan is best known for singles "Teri Gali" written by Guru Randhawa.`
     },
     {
-      id: 'ab96',
+      id: 'ce96',
       category: ['Pollywood', 'punjabi', 'Punjabi singer', 'Singer', 'Instagram', 'lyricist', 'writer', 'Song writer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Aman Jaluria',
@@ -15438,7 +15439,7 @@ export class CelebritiesService {
       description: `Aman Jaluria is a Punjabi Singer and Lyricist associated with Punjabi Music Industry. He is born on 20 November 1994 and his birthplace is Bhikhi, Mansa, Punjab. His height is about 5′ 9”. He completed his schooling at home town school and graduate from Lovely Professional University, Jalandhar.`
     },
     {
-      id: 'ab97',
+      id: 'ce97',
       category: ['Pollywood', 'punjabi', 'Punjabi singer', 'Singer', 'Instagram', 'lyricist', 'writer', 'Song writer', 'rapper'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Sultaan',
@@ -15580,7 +15581,7 @@ export class CelebritiesService {
       description: `Sultaan Dhillon is a famous Punjabi rapper and founder of Punjabi trap music.Sultan was born in the Jalandhar district, Punjab. He was born into a middle-class family. At the age of 20, He went to Dubai to earn money.He used to drive trucks in Dubai, after which he came to Canada through PR with a driving passport. In Canada, his career began in rap and singing. In Canada, he met OG Ghuman and other artists such as Byg Bird and Sunny Malton.`
     },
     {
-      id: 'ab98',
+      id: 'ce98',
       category: ['Pollywood', 'punjabi', 'Punjabi singer', 'Singer', 'Instagram', 'Music Composer', 'Composer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Gur Sidhu',
@@ -15716,7 +15717,7 @@ export class CelebritiesService {
       description: `Gur Sidhu is a Punjabi Singer and Music Director associated with Punjabi Music Industry. He was born on 11 July 1997 and his birthplace is Village Chak Fateh Singh Wala, Bathinda, Punjab, India. His height is about 6′ 2”. He did his schooling at Mahindra Public School, Chak Fateh Singh Wala, and later moved to Canada for further studies. Gur Sidhu’s real name is Gursimran Singh Sidhu.`
     },
     {
-      id: 'ab99',
+      id: 'ce99',
       category: ['Pollywood', 'punjabi', 'Punjabi singer', 'Singer', 'Instagram', 'lyricist', 'writer', 'Song writer', 'Music Director', 'punjabi actor', 'actor', 'bollywood', 'hindi', 'bollywood singer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Millind Gabba',
@@ -15882,7 +15883,7 @@ export class CelebritiesService {
       description: `Millind Gaba is an Indian singer, songwriter, music producer and actor associated with Punjabi and Bollywood music. He is known for his songs "Nazar Lag Jayegi", "She Don't Know" and "Yaar Mod Do".`
     },
     {
-      id: 'ab100',
+      id: 'ce100',
       category: ['Pollywood', 'punjabi', 'Punjabi singer', 'Singer', 'Instagram', 'punjabi actress', 'actress', 'hindi singer', 'bollywood singer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Neha Kakkar',
@@ -16034,7 +16035,7 @@ export class CelebritiesService {
       description: `Neha Kakkar Singh (born 6 June 1988) is an Indian playback singer. She is the younger sister of playback singer Sonu Kakkar. She began performing at a very early age at religious events. In 2005, she participated in the second season of the singing reality show, Indian Idol. She made her Bollywood debut as a chorus singer in the film Meerabai Not Out. She rose to prominence with the release of the dance track "Second Hand Jawaani" from Cocktail, which was followed by several popular party songs including "Sunny Sunny" from Yaariyan and "London Thumakda" from Queen. Apart from playback singing, Kakkar has appeared in several music videos and as a judge on several television reality shows including "Indian Idol".`
     },
     {
-      id: 'ab101',
+      id: 'ce101',
       category: ['Pollywood', 'punjabi', 'Punjabi singer', 'Singer', 'Instagram', 'punjabi actor', 'actor'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Rohanpreet Singh',
@@ -16183,7 +16184,7 @@ export class CelebritiesService {
       description: `Rohanpreet Singh is a singer. He was born on 1 December 1994 in Patiala, Punjab. He is one of the popular contestants of Tv Rising Star 2 show which is aired on Colors. He took singing after the encouragement from his father. Rohanpreet Singh participated in Saregamapa Lil Champs where he came 1st Runner um in the 2007-08 season.`
     },
     {
-      id: 'ab102',
+      id: 'ce102',
       category: ['Pollywood', 'Punjabi singer', 'singer', 'Instagram', 'punjabi actor', 'actor', 'bollywood singer', 'lyricist', 'writer', 'Song writer', 'music composer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Guru Randhawa',
@@ -16343,7 +16344,7 @@ export class CelebritiesService {
       description: `Gursharanjot Singh Randhawa (born 30 August 1991) is an Indian rapper, singer, songwriter and music composer associated with Punjabi, Bhangra, Indi-pop and Bollywood music. He is known for songs like Lahore, High Rated Gabru, Ishare Tere", and "Tere Te". Guru Randhawa's debut single was Same Girl in collaboration with Arjun`
     },
     {
-      id: 'ab103',
+      id: 'ce103',
       category: ['Pollywood', 'Punjabi singer', 'singer', 'Instagram', 'bollywood singer',],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Simar Kaur',
@@ -16491,7 +16492,7 @@ export class CelebritiesService {
       Simar Kaur has a deep passion for singing and doing this from childhood. She started her career with the ‘Gadbad‘ song. `
     },
     {
-      id: 'ab104',
+      id: 'ce104',
       category: ['Pollywood', 'Punjabi singer', 'singer', 'Instagram'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Armaan Bedil',
@@ -16633,7 +16634,7 @@ export class CelebritiesService {
       description: `Armaan Bedil is a Punjabi Singer and Performer associated with Punjabi Music Industry. His birthplace is Sangrur, Punjab, India. His height is about 5′ 8”. He completed his schooling from home town school and completed his graduation from Chandigarh.`
     },
     {
-      id: 'ab105',
+      id: 'ce105',
       category: ['Pollywood', 'Punjabi singer', 'singer', 'Instagram'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Arsh Maini',
@@ -16805,7 +16806,7 @@ export class CelebritiesService {
       description: `Arsh Maini is a Punjabi Singer, Model, and Actor associated with Punjabi Music Industry. He is well known for his songs like Jatt In Hummer, Dil De Khulle, Sajna Da Shehar, Birthday, and Sass Da Jaya. Arsh has learned both classical and folk songs.`
     },
     {
-      id: 'ab106',
+      id: 'ce106',
       category: ['Pollywood', 'Punjabi singer', 'singer', 'Instagram', 'composer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Jaz Dhami',
@@ -16972,7 +16973,7 @@ export class CelebritiesService {
       description: `Jaswinder Singh Dhami (born 1 March 1986), better known as Jaz Dhami, is a British-Indian playback singer, music composer, music producer, and performer.`
     },
     {
-      id: 'ab107',
+      id: 'ce107',
       category: ['Pollywood', 'Punjabi singer', 'singer', 'Instagram'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Jugraj Sandhu',
@@ -17132,7 +17133,7 @@ export class CelebritiesService {
       description: `Jugraj Sandhu is the name of an Indian Punjabi Singer. Jugraj was born on 11 June 1993. He recently appears in his new song Mere Sardar Wala. This became hugely popular and received 1 million viewers within 2 days.`
     },
     {
-      id: 'ab108',
+      id: 'ce108',
       category: ['Pollywood', 'Punjabi singer', 'singer', 'Instagram', 'lyricist', 'writer', 'Song writer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Hunar Sidhu',
@@ -17274,7 +17275,7 @@ export class CelebritiesService {
       description: `Hunar Sidhu is a Punjabi Singer and Lyricist associated with Punjabi Music Industry. He is best known for his songs like Saade Siro, Gabru De Naa Karke, Gehne Naal Taur and Hun Vailpunna Chalu.`
     },
     {
-      id: 'ab109',
+      id: 'ce109',
       category: ['Pollywood', 'Punjabi singer', 'Instagram', 'singer', 'music director', 'music producer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Pav Dharia',
@@ -17428,7 +17429,7 @@ export class CelebritiesService {
       description: `Pav Dharia is an Indian singer, musician, music director and, choreographer. He comes from Sydney, Australia. He made his debut in the singing industry in 2012 with the song Bewafa.`
     },
     {
-      id: 'ab110',
+      id: 'ce110',
       category: ['Pollywood', 'Punjabi singer', 'Instagram', 'singer', 'lyricist', 'writer', 'Song writer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Harvy Sandhu',
@@ -17564,7 +17565,7 @@ export class CelebritiesService {
       description: `Harvy Sandhu is a Punjabi Singer and Lyricist associated with Punjabi Music Industry. He was born on 14 October and his birthplace is Village Saidupur Datta, Hoshiarpur, Punjab, India. His height is about 5′ 11”. He completed his graduation from Apeejay College of Fine Arts, Jalandhar.`
     },
     {
-      id: 'ab111',
+      id: 'ce111',
       category: ['Pollywood', 'Punjabi singer', 'singer', 'Instagram', 'Composer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Resham Anmol',
@@ -17724,7 +17725,7 @@ export class CelebritiesService {
       description: `Resham Singh Anmol is a multi talented singer as well as an excellent live performer. He is a lyricist, composer and producer of his music for some of the songs in his recent albums. Born and raised at village Nakatpur (Ambala), Anmol as always been passionate about music and singing from his childhood.`
     },
     {
-      id: 'ab112',
+      id: 'ce112',
       category: ['Pollywood', 'Punjabi singer', 'singer', 'Instagram', 'Music Composer', 'lyricist', 'writer', 'Song writer',],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Shivjot',
@@ -17896,7 +17897,7 @@ export class CelebritiesService {
       description: `Shivjot was born on 21 August 1993 in Hanumangarh, Rajasthan. His zodiac sign is Leo. He was a very sincere child in his childhood. He had a deep interest in music since childhood and gave his first singing performance when he was in his 3rd standard. After completing his schooling, Shivjot relocated to Chandigarh. He did his graduation from Chandigarh Group of Colleges, Landran, Mohali. He used to participate in various singing competitions in his college\'s annual function and youth festival.`
     },
     {
-      id: 'ab113',
+      id: 'ce113',
       category: ['Pollywood', 'Punjabi singer', 'singer', 'Instagram'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Gurlej Aktar',
@@ -18062,7 +18063,7 @@ export class CelebritiesService {
       description: `Gurlej Akhtar was born on 3 March in the Ludhiana City of Punjab. Her zodiac sign is Pisces. She did her schooling from Government Higher Secondary School, Silattur. She pursued her graduation from Punjabi University.`
     },
     {
-      id: 'ab114',
+      id: 'ce114',
       category: ['Pollywood', 'Punjabi singer', 'comedian', 'singer', 'punjabi actor', 'actor', 'Instagram'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Karamjit Anmol',
@@ -18236,7 +18237,7 @@ export class CelebritiesService {
       description: `Karamjit Anmol was born on 2 January, 1972 in Punjab, India, is an Actor, singer, comedian, producer.`
     },
     {
-      id: 'ab115',
+      id: 'ce115',
       category: ['Pollywood', 'Punjabi singer', 'singer', 'Instagram'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Geeta Zaildar',
@@ -18392,7 +18393,7 @@ export class CelebritiesService {
       description: `Geeta Zaildar is an Indian singer, lyricist, and actor, who is best known for his hit tracks “Kanian (Chitte Suit Te)”, “Seeti Maar Ke”, “Billo Nach Nach Ke”, “Sair”, “Heartbeat”, “Ranjhe”, “Nain”, “Underestimate”, “Bukal”, “Thumka”, and many more classics, most of which have been penned by Geeta Zaildar himself. He debuted into the punjabi industry with his first album “Dil Di Rani”, which became a favourite of many. Geeta Zaildar debuted into the Punjabi Movie Industry in 2012 with the movie “Pinky Moge Wali”, and his been onscreen in many movies since.`
     },
     {
-      id: 'ab116',
+      id: 'ce116',
       category: ['Pollywood', 'Punjabi singer', 'singer', 'Instagram', 'lyricist'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Amantej Hundal',
@@ -18530,7 +18531,7 @@ export class CelebritiesService {
       description: `Amantej Hundal is a Punjabi Singer and lyricist associated with Punjabi music. He is born in the Sikh family in 1994 and his birthplace is Khanna, Punjab, India. His height is about 5′ 9”. He completed his schooling from Government School and graduate from Sheridan College, Brampton, Canada.`
     },
     {
-      id: 'ab117',
+      id: 'ce117',
       category: ['Pollywood', 'Punjabi singer', 'singer', 'Instagram', 'lyricist'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Preet Harpal',
@@ -18692,7 +18693,7 @@ export class CelebritiesService {
       description: `Preet Harpal was born on 31 March 1975  in Gurdaspur, Punjab. His zodiac sign is Aries. He was a quiet and shy child. Preet had a deep interest in music since his childhood and when he was in his college, he used to write songs during mid-night while sitting in his drawing room.`
     },
     {
-      id: 'ab118',
+      id: 'ce118',
       category: ['Pollywood', 'Punjabi singer', 'singer', 'Instagram'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Harjot',
@@ -18842,7 +18843,7 @@ export class CelebritiesService {
       description: `Harjot best known for London De Laare is one of best Punjabi Vocalists. He entered the Punjabi Music Industry with album Izhaar. Album was based on Romantic genre. Harjot hails from Bathinda city, But now he lives in Chandigarh. His father is a government employee in health department and mother is a Govt school teacher. He has completed his basic school education from Bathinda.`
     },
     {
-      id: 'ab119',
+      id: 'ce119',
       category: ['Pollywood', 'Video Director', 'Director', 'Instagram'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Sukh Sanghera',
@@ -18998,7 +18999,7 @@ export class CelebritiesService {
       description: `Sukh Sanghera is a Canadian film and music video director associated with Punjabi-language films and music. He has directed over 300 Punjabi music videos. He has been nominated for various awards at PTC Punjabi Music Awards, winning one for his music video Diary sung by Amrinder Gill. In 2019, he directed Laiye Je Yaarian, for which he received PTC nomination for Best Debut Director.`
     },
     {
-      id: 'ab120',
+      id: 'ce120',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Rupinder Handa',
@@ -19148,7 +19149,7 @@ export class CelebritiesService {
       description: `Rupinder Handa is a Punjabi Singer associated with Punjabi Music Industry. She was born on 30 September 1985 and her birthplace is Sirsa, Haryana. Her height is about 5′ 2”. She completed her graduation from the National College Sirsa, Haryana, and Master of Arts from Panjab University, Chandigarh.`
     },
     {
-      id: 'ab121',
+      id: 'ce121',
       category: ['Pollywood', 'Singer', 'punjabi', 'politician', 'Instagram', 'Punjabi singer', 'lyricist', 'writer', 'Song writer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Anmol Gagan Maan',
@@ -19299,7 +19300,7 @@ export class CelebritiesService {
       description: `Anmol Gagan Maan was born on 26 February 1990 in Khilan Pind, Mansa, Punjab. Her zodiac sign is Pisces. Her hometown is Mohali. She was inclined towards music and dance since her childhood. At the age of 14, Anmol went to England and won the World Folk Dance Competition in 2014. She did her graduation in Psychology &amp; Music from Chandigarh\'s M.C.M. D.A.V. College. She actively participated in many folk singing and dance competitions in her college days and has won various prizes. In 2013, she was crowned the Miss Mohali Punjaban at Miss World Punjaban.`
     },
     {
-      id: 'ab122',
+      id: 'ce122',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'lyricist', 'writer', 'Song writer', 'Music Director'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Nachattar Gill',
@@ -19449,7 +19450,7 @@ export class CelebritiesService {
       description: `Nachhatar Gill (born Nachhatar Singh Gill) is a Punjabi musician and singer-songwriter. He was born to a Sikh family at their village Akaalgarh near Badesron, Tehsil Garhshankar, Punjab, India. Gill was very fond of music. His father was a kirtani (hymn singer at Sikh temple). He used to sing along with his father at their village's temple's annual program. Gill got popularity with his solo song "Dil Ditta Nahin Si". His two religious albums are Sahib Jinah Diyan Mane (2006), and Ardaas Karaan (2010). He appeared in his first movie, Gal Sun Ho Gaya in 2012. He has appeared in three more films since then, the latest one being Jugaadi Dot Com in 2015.`
     },
     {
-      id: 'ab123',
+      id: 'ce123',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'lyricist', 'writer', 'Song writer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Raj Ranjodh',
@@ -19581,7 +19582,7 @@ export class CelebritiesService {
       description: `Raj Ranjodh is a Punjabi Lyricist, Singer, Music Composer associated with Punjabi Music Industry. He was born on 09 August 1986 and his birthplace Amritsar, Punjab, India. His height is about 5′ 7”. Raj Ranjodh real name is Ranjodh Singh Cheema.`
     },
     {
-      id: 'ab124',
+      id: 'ce124',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'lyricist', 'writer', 'Song writer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist'],
       name: 'Jasmine Sandlas',
@@ -19738,7 +19739,7 @@ export class CelebritiesService {
       Sandlas, born in Jalandhar, Punjab, India and raised in Stockton, California always aspired to pursue a career in singing.`
     },
     {
-      id: 'ab125',
+      id: 'ce125',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actress', 'actress'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Jasmin Bajwa',
@@ -19906,7 +19907,7 @@ export class CelebritiesService {
       description: `Jasmin Bajwa is a Punjabi Actress and Model associated with Punjabi Flim Industry. She was born in a Sikh family on 26 September 1996. Her height is about 5′ 6”. She did her schooling from Secret Heart Sen. Sec. School BRS Nagar, Ludhiana, and completed her graduation from Sri Aurobindo College of Commerce and Management, Ludhiana, Punjab in Bachelor of Business Administration.`
     },
     {
-      id: 'ab126',
+      id: 'ce126',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'punjabi actor', 'actor'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer'
       categoryId: ['Punjabi Artist', 'Punjabi Actor/Actress, Model'],
       name: 'Yuvraj Hans',
@@ -20062,7 +20063,7 @@ export class CelebritiesService {
       description: `Yuvraj Hans is a Punjabi actor who has worked in one of the popular Punjabi comedy movies and is liked by audiences. He is Born in 13th June 1987 in Jalandhar, Punjab, he showed a keen interest in sports, acting and singing alike. He has an elder brother who is also a good singer and actor. . He is the son of singer-turned politician and Bharatiya Janata Party MP Hans Raj Hans.`
     },
     {
-      id: 'ab127',
+      id: 'ce127',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'Music Composer', 'music director', 'lyricist', 'writer', 'Song writer', 'Record Producer'],//'lyricist', 'writer', 'Song writer', 'Music Composer' ,'music director', 'music composer', 'Punjabi singer', 'Singer', 'Record Producer'
       categoryId: ['Punjabi Artist'],
       name: 'Aman Hayer',
@@ -20236,7 +20237,7 @@ export class CelebritiesService {
       Aman Hayer is a Punjabi Bhangra artist. He is known for his albums Reminisce & Groundshaker I & II.`
     },
     {
-      id: 'ab128',
+      id: 'ce128',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'punjabi actress', 'actress', 'model'],
       categoryId: ['Punjabi Artist'],
       name: 'Miss Pooja',
@@ -20417,7 +20418,7 @@ export class CelebritiesService {
       It was surprisingly announced over her social media on October 31, 2021, that she has a son with her Producer husband Romi Tahli named Aalaap Singh Tahli whom she married in 2010.`
     },
     {
-      id: 'ab129',
+      id: 'ce129',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actress', 'actress'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Prabh Grewal',
@@ -20569,7 +20570,7 @@ export class CelebritiesService {
       description: `Prabh Grewal is an Actress, and Model associated with the Punjabi Flim Industry. She was born on 12 December 1992 and her birthplace is village Kila Raipur, Ludhiana, Punjab, India. Her height is about 5′ 6”. She completed her graduation from GNIMT, Ludhiana, Punjab in Business Administration. Her father’s name is Harpal Singh and her brother’s name is Sandeep Singh Grewal.`
     },
     {
-      id: 'ab130',
+      id: 'ce130',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actor', 'actor'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Dev Kharoud',
@@ -20724,7 +20725,7 @@ export class CelebritiesService {
       description: `Dev Kharoud is a Punjabi Actor and Comedian associated with Punjabi Flim Industry. He was born in a Sikh family on 22 April 1990 and his birthplace is Patiala, Punjab, India. He completed his graduation from Punjabi University, Patiala. Dev Kharoud is unmarried.`
     },
     {
-      id: 'ab131',
+      id: 'ce131',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actress', 'actress'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Aman Hundal',
@@ -20869,7 +20870,7 @@ export class CelebritiesService {
       description: `Aman Hundal is an Indian actress and model known for her work in Punjabi-language music videos and films. She debuted in the music video Tera Time alongside Jass Bajwa and Chakvi Mandeer. She was first noticed for her appearance in Wakhra Swag with Navv Inder and rapper and singer Badshah. She debuted in films as the female lead in the feature film Dulla Bhatti alongside famous comedy genre actor Binnu Dhillon and Sardar Sohi.`
     },
     {
-      id: 'ab132',
+      id: 'ce132',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actress', 'actress'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Tania',
@@ -21064,7 +21065,7 @@ export class CelebritiesService {
       description: `Tania was born on 6 May in Jamshedpur, India to parents from Punjab. Brought up in Amritsar, she has one younger sister Tamannah. She attended Guru Nanak Dev University and BBK DAV College for Women, Amritsar where she won the "Best Actor of the Year" award each year from 2012 to 2016. She has a degree in Interior Designing and Project management. She is also a Classical dancer and National level participant.`
     },
     {
-      id: 'ab133',
+      id: 'ce133',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actress', 'actress'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Isha Sharma',
@@ -21207,7 +21208,7 @@ export class CelebritiesService {
       description: `Isha Sharma is an Actress, and Model associated with Punjabi Music Industry. She was born in 1994 and her birthplace is Dharamshala, Himachal Pradesh, India. She completed her schooling from home town school and graduated from Chandigarh University, SAS Nagar.`
     },
     {
-      id: 'ab134',
+      id: 'ce134',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actress', 'actress'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Sara Gurpal',
@@ -21362,7 +21363,7 @@ export class CelebritiesService {
       description: `Sara Gurpal is an Indian singer, model and actress. She is known for her contribution in Punjabi music industry. She also appeared in the most popular television reality show Bigg Boss 14 as a contestant.`
     },
     {
-      id: 'ab135',
+      id: 'ce135',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'model'],
       categoryId: ['Punjabi Artist'],
       name: 'Tanishq Kaur',
@@ -21511,7 +21512,7 @@ export class CelebritiesService {
       description: `Tanishq Kaur is a Punjabi Singer and Performer associated with Punjabi Music Industry. She was born in 1998 and her birthplace is Ludhiana, Punjab, India. Her height is about 5′ 3”. She did her schooling at Guru Nanak Public Senior Secondary School, Ludhiana, and completed her graduation from Ramgarhia Girls College, Ludhiana. Her father’s name is Charanjit Singh and her mother’s name is Gurinder Kaur.`
     },
     {
-      id: 'ab136',
+      id: 'ce136',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actress', 'actress'],
       categoryId: ['Punjabi Artist'],
       name: 'Sweetaj Brar',
@@ -21666,7 +21667,7 @@ export class CelebritiesService {
       description: `Sweetaj Brar is a Punjabi Singer and Actress associated with Punjabi Music Industry. She was born in a Sikh family on 25 September 1998 and her birthplace is Mohali, Punjab, India. Her height is about 5′ 9”.`
     },
     {
-      id: 'ab137',
+      id: 'ce137',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actress', 'actress'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Oshin Brar',
@@ -21809,7 +21810,7 @@ export class CelebritiesService {
       description: `Oshin Brar is Actress, and Model associated with the Punjabi Flim and Music Industry. She was born on 04 November 1993 and her birthplace is Chandigarh, India. Her height is about 5′ 5”. She did her schooling at Lawrence Public Senior Secondary School, Chandigarh, and did her Diploma in Acting from Anupam Kher’s Actor Academy and Fashion Designing from Ontario College of Art & Design.`
     },
     {
-      id: 'ab138',
+      id: 'ce138',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actress', 'actress'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Japji Khaira',
@@ -21952,7 +21953,7 @@ export class CelebritiesService {
       description: `Japji Khaira is an Indian Australian actress. She won the title 'Miss World Punjaban 2006' held on 16 December at Ludhiana. she became first NRI Punjaban to win this title.After winning the title of Miss World Punjaban, Japji Khaira made her debut in the movie Mitti Wajaan Maardi (2007) opposite Harbhajan Maan. She was in Fer Mamla Gadbad Gadbad in the lead role. She had a cameo role in Dharti (2011). She also appeared in Singh vs Kaur.`
     },
     {
-      id: 'ab139',
+      id: 'ce139',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actress', 'actress'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Sawan Rupowali',
@@ -22095,7 +22096,7 @@ export class CelebritiesService {
       description: `Sawan Rupowali is an Indian television and film actress. She is popularly known for playing lead role in Ammy starring sports-drama film Harjeeta in year 2018. She has also worked in films like Chandigarh Kare Aashiqui (2021), Jaddi Sardar (2019), Saab Bahadar (2017), and Sikander 2 (2019).`
     },
     {
-      id: 'ab140',
+      id: 'ce140',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actor', 'actor'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Kartar Cheema',
@@ -22250,7 +22251,7 @@ export class CelebritiesService {
       description: `Kartar Cheema is a Punjabi Actor, Model, and Theatre Artist associated with Punjabi Flim Industry. He is well known for his outstanding performance in the Punjabi movie ‘Sikander’ (2013). Cheema has worked for a decade in the Flim Industry and worked in Punjabi and Hindi movies. He is also a fitness freak and has been covered in Health Magazine of India.`
     },
     {
-      id: 'ab141',
+      id: 'ce141',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actress', 'actress', "Producer"],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Neeru Bajwa',
@@ -22422,7 +22423,7 @@ export class CelebritiesService {
       description: `Neeru Bajwa (born 26 August 1980) is an Indo-Canadian actress, director and producer who has mainly worked in Punjabi and Hindi films. She started her career in 1998 with Dev Anand's Bollywood film Main Solah Baras Ki and then moved on to working in Hindi soap operas and Punjabi-language films.`
     },
     {
-      id: 'ab142',
+      id: 'ce142',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actress', 'actress'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Rubina Bajwa',
@@ -22572,7 +22573,7 @@ export class CelebritiesService {
       description: `Rubina Bajwa (born 24 February 1986) is an Indian-Canadian actress who works in Punjabi films. She started her career in 2017 in Sargi, and went on to win the Best Female Actress Debut in 2018 in the PTC Punjabi Film Awards.`
     },
     {
-      id: 'ab143',
+      id: 'ce143',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actress', 'actress'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Sargun Mehta',
@@ -22732,7 +22733,7 @@ export class CelebritiesService {
       description: `Sargun Mehta (born 6 September 1988) is an Indian actress, model and television host. She has received three PTC Punjabi Film Awards and two Filmfare Awards Punjabi for her work in Punjabi Cinema.`
     },
     {
-      id: 'ab144',
+      id: 'ce144',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actress', 'actress'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Simi Chahal',
@@ -22901,7 +22902,7 @@ export class CelebritiesService {
       description: `Simi Chahal is a Punjabi Actress associated with Punjabi Flim Industry. She was born in a Sikh family on 09 May 1992 and her birthplace is Ambala Cantt, Haryana, India. Her height is about 5′ 4”. She did her schooling at a Government public school, Ambala. Simi Chahal’s real name is Simarpreet Kaur Chahal.`
     },
     {
-      id: 'ab145',
+      id: 'ce145',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actress', 'actress', 'bollywood', 'hindi'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Wamiqa Gabbi',
@@ -23082,7 +23083,7 @@ export class CelebritiesService {
       description: `Wamiqa Gabbi (born 29 September 1993) is an Indian actress, who works in Punjabi, Hindi, Malayalam, Tamil and Telugu films. She made her screen debut in the Hindi film Jab We Met (2007) with a small role. But her major success came with Tu Mera 22 Main Tera 22 (2013) alongside Yo Yo Honey Singh and Amrinder Gill.`
     },
     {
-      id: 'ab146',
+      id: 'ce146',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actress', 'actress'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Roopi Gill',
@@ -23235,7 +23236,7 @@ export class CelebritiesService {
       description: `Roopi Gill is a Canadian actress and model. She rose to fame with her performance in the music video for the song "Diamond", by Gurnam Bhullar. She started her acting career with Ashke (2018), for which she received a PTC Punjabi Film Awards nomination for Best Supporting Actress.`
     },
     {
-      id: 'ab147',
+      id: 'ce147',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actress', 'actress', 'Singer'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Nisha Bano',
@@ -23392,7 +23393,7 @@ export class CelebritiesService {
       description: `Nisha Bano is a Punjabi film actor and singer.She was born in Mansa, Punjab. She completed her schooling at Yogesh Memorial public school in Mansa, Punjab. She was very active in art & cultural activities during her school days. She has completed her graduation from SD College, Mansa. She has won many prizes in giddha during college youth festivals. She was first appeared in Punjabi television series with Bhagwant Mann. Meanwhile, Bano worked along with Binu Dhillon and Karamjit Anmol on various stages all around the world.`
     },
     {
-      id: 'ab148',
+      id: 'ce148',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'bollywood', 'punjabi actress', 'actress', 'Singer'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Shehnaaz Gill',
@@ -23573,7 +23574,7 @@ export class CelebritiesService {
       description: `Shehnaaz Gill (born 27 January 1993) is an Indian actress, model and singer who works in television and films. She began her modelling career with the 2015 music video, Shiv Di Kitaab. In 2017, she debuted as an actress in Punjabi film Sat Shri Akaal England. In 2019, she participated in the reality show Bigg Boss 13 where she finished in third place.`
     },
     {
-      id: 'ab149',
+      id: 'ce149',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actress', 'actress'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Kanika Mann',
@@ -23742,7 +23743,7 @@ export class CelebritiesService {
       description: `Kanika Mann (born 7 October 1993) is an Indian Television actress and Model. She is known for playing the role of ‘Guddan‘ in the Zee TV’s Guddan Tumse Na Ho Payega.`
     },
     {
-      id: 'ab150',
+      id: 'ce150',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actress', 'actress'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Sonia Mann',
@@ -23913,7 +23914,7 @@ export class CelebritiesService {
       description: `Sonia Mann is an Indian actress and model. She appeared in films and music videos.Mann was born on 10 September 1986 in Haldwani to Baldev Singh Mann and Paramjit Kaur. Her father was a left wing activist. He was killed by militants in Amritsar on 26 September 1986 when he was on his way to see his new-born daughter. She was brought up in Amritsar. She completed her school life from Holy Heart Presidency School. Then she completed her college life from BBK DAV College for Women, Amritsar.`
     },
     {
-      id: 'ab151',
+      id: 'ce151',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actress', 'actress'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Ginni Kapoor',
@@ -24072,7 +24073,7 @@ export class CelebritiesService {
       description: `Ginni Kapoor is an Indian actress and model. She generally works in the Hindi and Punjabi music industry and also works as a model in the industry. She is mainly known for her Punjabi song Black Suit in the year 2014 and Hindi song Kar Hausla in the year 2017.`
     },
     {
-      id: 'ab152',
+      id: 'ce152',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actress', 'actress'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Rumman Ahmed',
@@ -24231,7 +24232,7 @@ export class CelebritiesService {
       description: `Rumman Ahmed who was born on 30 November 1994 in Delhi, India is a model  who is famous for appearing in many music videos like Hanju, Khaab, Busy Jatt, Haa Karti, Bachalo, and much more. `
     },
     {
-      id: 'ab153',
+      id: 'ce153',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actor', 'actor'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Jagjeet Sandhu',
@@ -24456,7 +24457,7 @@ export class CelebritiesService {
       description: `Jagjeet Sandhu is an Indian film actor and theatre artist who works in Punjabi cinema. He started his career with biography film Rupinder Gandhi in 2015. Sandhu is best known for his role of "Bhola" in Rupinder Gandhi film series and "Romi Gill" in Dakuaan Da Munda and his role as "Tarsem" in Sufna is considered his best role till date.`
     },
     {
-      id: 'ab154',
+      id: 'ce154',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actor', 'actor'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Pukhraj Bhalla',
@@ -24621,7 +24622,7 @@ export class CelebritiesService {
       description: `Pukhraj Bhalla is an Indian-Punjabi actor and singer. He is the son of comedian-actor Jaswinder Bhalla. He is best known for the web-series Yaar Jigree Kasooti Degree directed by Rabby Tiwana.`
     },
     {
-      id: 'ab155',
+      id: 'ce155',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actress', 'actress'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Sonam Bajwa',
@@ -24804,7 +24805,7 @@ export class CelebritiesService {
       description: `Sonampreet Kaur Bajwa (born 16 August 1989) is an Indian model and actress who predominantly appears in Punjabi language films, alongside few Hindi films. She participated in the Femina Miss India contest in 2012. Sonam Bajwa started her acting career in 2013 with the Punjabi film Best Of Luck. She played the leading female role in the 2014 film Punjab 1984. She won the PTC Punjabi Film Awards for Best Actress in 2020 for Ardab Mutiyaran.`
     },
     {
-      id: 'ab156',
+      id: 'ce156',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actress', 'actress'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Mahira Sharma',
@@ -24969,7 +24970,7 @@ export class CelebritiesService {
       description: `Mahira Sharma (born 25 November 1997) is an Indian television actress and model. She is known for participating in the Indian game reality show “Bigg Boss 13”.Mahira Sharma was born and brought up in Jammu & Kashmir, India. She was born into a Brahmin Family. She has an elder brother named Akash Sharma. After completing her education she moved to Mumbai to pursue a career in acting and modeling.`
     },
     {
-      id: 'ab157',
+      id: 'ce157',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actor', 'actor', 'comedian'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Binnu Dhillon',
@@ -25125,7 +25126,7 @@ export class CelebritiesService {
       description: `Binnu Dhillon is an Indian actor who is known for his roles in Punjabi cinema.Dhillon hails from Dhuri, Sangrur, Punjab, where he did his schooling from Guru Teg Bahadur Public School. He did his post-graduate degree in theatre and television from Punjabi University, Patiala.`
     },
     {
-      id: 'ab158',
+      id: 'ce158',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Jenny Johal',
@@ -25295,7 +25296,7 @@ export class CelebritiesService {
       description: `Jenny Johal is a Punjabi singer. She was born on 18 April 1993 and her birthplace is Jalandhar, Punjab, India. Her height is 5′ 5” or 165cm. She completed her schooling from MGN Public School, Jalandhar and graduated from Hans Raj Mahila Maha Vidyalaya, Jalandhar in Masters in Music Vocal. Her father is a farmer and her mother’s name is Rajinder Kaur Johal (Fashion Designer). Jenny started learning singing at the age of 4 from Guru Bhupinder Singh Ustad. She got fame from her super hit debut song “Yaari Jatti Di” (2015).`
     },
     {
-      id: 'ab159',
+      id: 'ce159',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'lyricist', 'writer', 'Song writer'],
       categoryId: ['Punjabi Artist'],
       name: 'Nishawn Bhullar',
@@ -25453,7 +25454,7 @@ export class CelebritiesService {
       description: `Nishawn Bhullar is a Punjabi Singer and Lyricist associated with Punjabi Music Industry. He was born in a Sikh family on 21 July 1985 and his birthplace is Patiala, Punjab, India. His height is about 5′ 11”. He did his schooling at home town school and completed his graduation from Punjabi University, Patiala.`
     },
     {
-      id: 'ab160',
+      id: 'ce160',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'lyricist', 'writer', 'Song writer', 'music director'],
       categoryId: ['Punjabi Artist'],
       name: 'Preet Hundal',
@@ -25599,7 +25600,7 @@ export class CelebritiesService {
       description: `Preet Hundal is a Punjabi Lyricist, Music Director, and Singer associated with Punjabi Music Industry. He was born in a Sikh family on 24 July 1989 and his birthplace is Mohali, Punjab, India. His height is about 5′ 11”. He did his schooling at Saint Soldier International Convent School, Mohali, and Government model senior secondary school 3b1, Mohali. His Father’s name is Sardool Singh Hundal. Preet Hundal’s real name is Gaganpreet Singh Hundal.`
     },
     {
-      id: 'ab161',
+      id: 'ce161',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Upkar Sandhu',
@@ -25757,7 +25758,7 @@ export class CelebritiesService {
       description: `Upkar Sandhu was born on November 21, 1992 in Ludhiana. The name of the village is "Mane Singh Vala" of the district of Ferozepur. He graduated from College Landran's CGC Chandigarh group.`
     },
     {
-      id: 'ab162',
+      id: 'ce162',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Kamal Khaira',
@@ -25915,7 +25916,7 @@ export class CelebritiesService {
       description: `Kamal Khaira is a Punjabi Singer and Lyricist associated with Punjabi Music Industry. He was born in the Sikh family in 1992 and his birthplace is Patiala, Punjab, India. His height is about 5′ 7”. Kamal Khaira’s real name is Kamaljeet Singh and her brother’s name is Baljit Khaira. He completed his schooling from Government Public School and graduated from Punjabi University, Patiala.`
     },
     {
-      id: 'ab163',
+      id: 'ce163',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Surjit Bhullar',
@@ -26073,7 +26074,7 @@ export class CelebritiesService {
       description: `Surjit Bhullar is a well known Punjabi singer, model and actor from the Punjabi village of Tarn Taran who started his career with the help of the late famous Punjabi singer, Raj Brar. Surjit Bhullar's career in music was kickstarted in 2005 with the release of the album Ladli, and he has performed many duets with Sudesh Kumari, a well-known Punjabi singer.`
     },
     {
-      id: 'ab164',
+      id: 'ce164',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'punjabi actor', 'actor', 'Film Producer'],
       categoryId: ['Punjabi Artist'],
       name: 'Harbhajan Maan',
@@ -26255,7 +26256,7 @@ export class CelebritiesService {
       description: `Harbhajan Mann (born 30 December 1965) is an Indian-Canadian singer, actor and film producer associated with Punjabi music and cinema. His movies include Jee Aayan Nu (2002), Asa Nu Mann Watnan Da (2004), Heer Ranjha (2009) and Jag Jeondeyan De Mele (2009).`
     },
     {
-      id: 'ab165',
+      id: 'ce165',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'music composer'],
       categoryId: ['Punjabi Artist'],
       name: 'Harsimran',
@@ -26419,7 +26420,7 @@ export class CelebritiesService {
       description: `Harsimran is a Indian, Singer, Music Composer, Model, Entrepreneur. Harsimran was born on Wednesday, October 02, 1985 at Village Chak Fateh Singh Wala, Bathinda, Punjab, India and Zodiac Sign is Libra. Harsimran hails from Village Chak Fateh Singh Wala, Bathinda, Punjab, India, religion belongs to is Sikhism and nationality, Indian.`
     },
     {
-      id: 'ab166',
+      id: 'ce166',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actor', 'actor'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Hobby Dhaliwal',
@@ -26575,7 +26576,7 @@ export class CelebritiesService {
       description: `Hobby Dhaliwal is a Punjabi Actor, Singer, and Lyricist. He is best known for movies like Angrej (2015), Lahoriye (2017), Jora 10 Numbaria (2017), Ardaas Karaan (2019), and music videos like 'Bhabi' by Mankirt Aulakh.`
     },
     {
-      id: 'ab167',
+      id: 'ce167',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actor', 'actor'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Gurpreet Ghuggi',
@@ -26767,7 +26768,7 @@ export class CelebritiesService {
       description: `Gurpreet Singh Waraich (born 19 June 1971), commonly known as Gurpreet Ghuggi, is an Indian actor, comedian and politician. He is known for his works in Punjabi and Hindi films. Ghuggi began his career by acting in theatre in the early 1990s, after which he had recurring roles in television series such as Ronak Mela and the soap opera Parchhaven. He gained international public recognition with comedic leading roles through his videos Ghuggi Junction (2003) and Ghuggi Shoo Mantar (2004), before beginning his film career by starring as Patwari Jhilmil Singh in Asa Nu Maan Watna Da (2004). He starred in the film Carry On Jatta (2012), and was praised for his meaningful leading role in Ardaas (2015).`
     },
     {
-      id: 'ab168',
+      id: 'ce168',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actor', 'actor'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Yograj Singh',
@@ -26926,7 +26927,7 @@ export class CelebritiesService {
       He has worked in Bollywood movies like Teen Thay Bhai, Singh is Bling and Bhaag Milkha Bhaag.`
     },
     {
-      id: 'ab169',
+      id: 'ce169',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'model', 'punjabi actor', 'actor', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Babbal Rai',
@@ -27096,7 +27097,7 @@ export class CelebritiesService {
       description: `Babbal Rai is a Punjabi singer, lyricist, and actor associated with Punjabi Music and Flim Industry. He was born on 03 March 1985 and her birthplace is Samrala, Ludhiana, Punjab. His height is about 5′ 6”.`
     },
     {
-      id: 'ab170',
+      id: 'ce170',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actress', 'actress'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Kamal Khangura',
@@ -27252,7 +27253,7 @@ export class CelebritiesService {
       description: `Kamal Khangura was born as Kamaldeep Kaur Khangura on 17th December in Patiala in the state of Punjab, India. She is an Indian Film Actress, Model, Music Video Director`
     },
     {
-      id: 'ab171',
+      id: 'ce171',
       category: ['Pollywood', 'Instagram', 'Acting', 'punjabi actor', 'actor'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Rana Ranbir',
@@ -27419,7 +27420,7 @@ export class CelebritiesService {
       description: `Rana Ranbir Singh is an Indian actor working in Punjabi film industry.In 2000s, he started with comedies on Television with Bhagwant Maan like Jugnu Mast Mast and Naughty No. 1 alongside serious TV productions like Chitta Lahoo and Parchavain. He also became anchor of Zee Punjabi’s road show Excuse Me Please. He did many stage theatre plays like Khetan Da Putt.`
     },
     {
-      id: 'ab172',
+      id: 'ce172',
       category: ['Pollywood', 'Instagram', 'Acting', 'punjabi actor', 'actor'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Amrit Amby',
@@ -27588,7 +27589,7 @@ export class CelebritiesService {
       description: `Amrit Amby is a Punjabi Actor, Comedian, and Theatre Artist associated with Punjabi Flim Industry. He was born in a Sikh family on 20 January 1993`
     },
     {
-      id: 'ab173',
+      id: 'ce173',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'model', 'punjabi actor', 'actor', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Amrinder Gill',
@@ -27764,7 +27765,7 @@ export class CelebritiesService {
       description: `Amrinder Singh Gill is a Punjabi singer, songwriter, actor and film producer. He started his singing career in 2000 with the album "Apni Jaan Ke". Gill was raised in Boorchand, Amritsar, Punjab. He has studied at Khalsa College, Amritsar.`
     },
     {
-      id: 'ab174',
+      id: 'ce174',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Manmohan Waris',
@@ -27940,7 +27941,7 @@ export class CelebritiesService {
       description: `Manmohan Waris (born 3 August 1967) is an Indian Punjabi folk/pop singer. He is the elder brother of record producer Sangtar and singer Kamal Heer. Waris is considered one of the most gifted singers of Punjabi folk music.`
     },
     {
-      id: 'ab175',
+      id: 'ce175',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'lyricist', 'writer', 'Song writer'],
       categoryId: ['Punjabi Artist'],
       name: 'Kanwar Grewal',
@@ -28116,7 +28117,7 @@ export class CelebritiesService {
       description: `Kanwar Grewal is a Punjabi Sufi Singer and Lyricist associated with Punjabi Music Industry. He was born in a Sikh family and his birthplace is Village Mehma Sawai, Bathinda, Punjab. His height is about 5′ 11”.`
     },
     {
-      id: 'ab176',
+      id: 'ce176',
       category: ['Pollywood', 'Singer', 'punjabi', 'Model', 'Instagram', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Gitaz Bindrakhia',
@@ -28267,7 +28268,7 @@ export class CelebritiesService {
       description: `Gitaz Bindrakhia is an Indian singer. He is also known by his other professions such as model. He was born on 3rd of July 1986 in Village Bindrakh, Ropar, Punjab, India. He belongs to Indian nationality and Sikhism religion. His father name is Late Surjit Bindrakhia, who is a singer by profession, and mother name is Preet Kamal.`
     },
     {
-      id: 'ab177',
+      id: 'ce177',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Kamal Heer',
@@ -28431,7 +28432,7 @@ export class CelebritiesService {
       `
     },
     {
-      id: 'ab178',
+      id: 'ce178',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Gagan Kokri',
@@ -28606,7 +28607,7 @@ export class CelebritiesService {
       description: `Gagan Kokri is a Punjabi Singer and Businessman associated with Punjabi Music Industry. He was born on 03 April 1986 and his birthplace is Kokri Kalan, Moga, Punjab. His height is about 5′ 8”. He did his schooling at a government public school, Kokri Kalan, and completed his graduation from G.H.G. Khalsa College, Gurusar Sadhar, Ludhiana in hospitality management.`
     },
     {
-      id: 'ab179',
+      id: 'ce179',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'lyricist', 'writer', 'Song writer', 'Punjabi singer', 'Punjabi Actor', 'composer', 'music composer'],
       categoryId: ['Punjabi Artist'],
       name: 'Gurdas Maan',
@@ -28836,7 +28837,7 @@ export class CelebritiesService {
       description: `Gurdas Maan (born 4 January 1957) is an Indian playback singer, songwriter and actor mainly associated with Punjabi and Hindi language music and films. He gained national attention in 1980 with the song "Dil Da Mamla Hai". Since then, he has gone on to record over 34 albums and has written over 305 songs. In 2015 he performed on the song "Ki Banu Dunia Da" with Diljit Dosanjh in MTV Coke studio India that was aired in season 4 episode 5 (16 August 2015) on MTV India.`
     },
     {
-      id: 'ab180',
+      id: 'ce180',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Virasat Sandhu',
@@ -28999,7 +29000,7 @@ export class CelebritiesService {
       description: `Virasat Sandhu is a Punjabi Singer and lyricist associated with Punjabi music. He is born in the Sikh family on 24 October 1989 and his birthplace is Dharamkot, Moga, Punjab, India. His Father’s name is Kuldeep Singh and his Mother’s name is Ranjeet Kaur and his brother’s name is Jagraj Singh.`
     },
     {
-      id: 'ab181',
+      id: 'ce181',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'lyricist', 'writer', 'Song writer', 'Punjabi singer', 'Punjabi Actor', 'composer', 'music composer'],
       categoryId: ['Punjabi Artist'],
       name: 'Debi Makhsoospuri',
@@ -29151,7 +29152,7 @@ export class CelebritiesService {
       description: `Makhsoospuri is punjabi singer and lyricits (born on 10 June 1966) in Makhsoospur, a village in the Hoshiarpur district of Punjab. He currently resides in Canada with his family, including his three daughters.`
     },
     {
-      id: 'ab182',
+      id: 'ce182',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Master Saleem',
@@ -29333,7 +29334,7 @@ export class CelebritiesService {
       description: `Master Saleem was born as Saleem (Saleem Shahzada), in Shahkot, near Jalandhar, Punjab He is the son of the famous Sufi singer Ustad Puran Shah Koti, who was also the guru of folk singers, Hans Raj Hans, Jasbir Jassi and Sabar Koti , Diljaan At the age of six Saleem also became his disciple and started learning singing.`
     },
     {
-      id: 'ab183',
+      id: 'ce183',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Deep Karan',
@@ -29485,7 +29486,7 @@ export class CelebritiesService {
       description: `Deep Karan was born on 19-09-1993 in Patiala in the state of Punjab, India. He is an Indian Singer & Musician.`
     },
     {
-      id: 'ab184',
+      id: 'ce184',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'Rapper', 'Music Producer'],
       categoryId: ['Punjabi Artist'],
       name: 'Gupz Sehra',
@@ -29637,7 +29638,7 @@ export class CelebritiesService {
       description: `Gupz Sehra is Rapper, Musician, Music Producer, Singer. Gupz Sehra was born on Tuesday, September 20, 1988 at Dehli, India. Gupz Sehra hails from Dehli, India and belongs to Sikhism religion.`
     },
     {
-      id: 'ab185',
+      id: 'ce185',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'Producer', 'lyricist', 'writer', 'Song writer'],
       categoryId: ['Punjabi Artist'],
       name: 'Angrej Ali',
@@ -29801,7 +29802,7 @@ export class CelebritiesService {
       description: `Angrej Ali is Singer, Song Writer, Punjabi Record Producer. Angrej Ali was born on Tuesday, February 12, 1974 at Village Mansoor Deva, Zira, District Ferozepur, Punjab, India. Angrej Ali hails from Nottingham, England and belongs to Islam religion.`
     },
     {
-      id: 'ab186',
+      id: 'ce186',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'lyricist', 'writer', 'Song writer', 'Punjabi Actor'],
       categoryId: ['Punjabi Artist'],
       name: 'Sarbjit Cheema',
@@ -29970,7 +29971,7 @@ export class CelebritiesService {
       description: `Sarbjit Cheema is a Indian, Singer, Songwriter, Lyricist, Actor. Sarbjit Cheema was born on 14 June 1968. Sarbjit Cheema hails from Village Cheema Kalan, Jalandhar, Punjab`
     },
     {
-      id: 'ab187',
+      id: 'ce187',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'Anchor', 'Model'],
       categoryId: ['Punjabi Artist'],
       name: 'Ravneet Singh',
@@ -30121,7 +30122,7 @@ export class CelebritiesService {
       description: `Ravneet Singh is a Punjabi Anchor, Singer, and Model associated with Punjabi Music Industry. He was born in a Sikh family on 17 February 1992 and his birthplace is Chandigarh, India. His height is about 5′ 11”. He completed his schooling at Delhi’s Don Bosco School and Birla Vidya Niketan and graduated from Punjabi University, Patiala in Mass Communication. His Father’s name is Sardar Avtar Singh (Professor). His Mother is also a Professor and his brother named Shubhneet Singh.`
     },
     {
-      id: 'ab188',
+      id: 'ce188',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'Punjabi Actor'],
       categoryId: ['Punjabi Artist'],
       name: 'Harjit Harman',
@@ -30285,7 +30286,7 @@ export class CelebritiesService {
       Harman released his solo album Zanjeeri in 2002. He has since produced several albums including Panjebaan, Mundri and Hoor. In 2011, his album Shaan-E-Quam (Pride of the Nation) was nominated for the Global Indian Music Awards in the category "Best Folk Album".`
     },
     {
-      id: 'ab189',
+      id: 'ce189',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Aarsh Benipal',
@@ -30448,7 +30449,7 @@ export class CelebritiesService {
       description: `Aarsh Benipal is a Punjabi Singer and lyricist associated with Punjabi music. He is born in the Sikh family on 17 October 1992 and his birthplace is Malakpur Village, Khanna, Ludhiana, Punjab, India. His father's name is Amarjit Singh and his brother's name is Jass Benipal and his height is about 5′ 8”.`
     },
     {
-      id: 'ab190',
+      id: 'ce190',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'Punjabi Actor'],
       categoryId: ['Punjabi Artist'],
       name: 'Ravinder Grewal',
@@ -30605,7 +30606,7 @@ export class CelebritiesService {
       description: `Ravinder Grewal is an punjabi singer and actor. He has produced a Punjabi-language film, Raula Pai Gaya, through his own production house. In 2015, he featured in the legal comedy Judge Singh LLB. His most popular songs include "Lovely V/s PU" and "Jatt Karjai", lyrics of both are penned by Preet Sanghreri.`
     },
     {
-      id: 'ab191',
+      id: 'ce191',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Elly Mangat',
@@ -30794,7 +30795,7 @@ export class CelebritiesService {
       description: `Elly Mangat is a Punjabi Singer associated with Punjabi Music Industry. He was born on 20 August 1990 and his birthplace is Village Doraha, Ludhiana, Punjab. His height is about 5′ 11”. He did his schooling in Punjab and graduated from Canada, Elly Mangat's real name is Harkirat Singh Mangat.`
     },
     {
-      id: 'ab192',
+      id: 'ce192',
       category: ['Pollywood', 'punjabi', 'Instagram', 'Lyricist', 'writer', 'Song writer'],
       categoryId: ['Punjabi Artist'],
       name: 'Narinder Batth',
@@ -30957,7 +30958,7 @@ export class CelebritiesService {
       description: `Narinder Batth is punjabi lyricist of Punjabi music. His first hit was Jassi Gill's single "Lancer" in 2013. Batth was born in a small village, Batthan Kalan, Punjab, India. His father was a farmer and Batth also started farming after completing his studies.`
     },
     {
-      id: 'ab193',
+      id: 'ce193',
       category: ['Pollywood', 'punjabi', 'Instagram', 'Punjabi singer', 'singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Joban Sandhu',
@@ -31120,7 +31121,7 @@ export class CelebritiesService {
       description: `Joban Sandhu is a Punjabi Singer. Joban Sandhu was born on 17 July 1987. Joban Sandhu hails from Talwandi Malik, Samana, Patiala, Punjab, India, religion belongs to is Sikhism`
     },
     {
-      id: 'ab194',
+      id: 'ce194',
       category: ['Pollywood', 'punjabi', 'Instagram', 'Lyricist', 'writer', 'Song writer'],
       categoryId: ['Punjabi Artist'],
       name: 'Vicky Dhaliwal',
@@ -31283,7 +31284,7 @@ export class CelebritiesService {
       description: `Tarandeep Singh Dhaliwal, known professionally as Vicky Dhaliwal is an Indian-Punjabi lyricist, singer and former Kabaddi player. He rose to fame after release of "Diamond" by Gurnam Bhullar. He had played Kabaddi at national level but left due to injury in his shoulder.`
     },
     {
-      id: 'ab195',
+      id: 'ce195',
       category: ['Pollywood', 'punjabi', 'Instagram', 'Punjabi singer', 'singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Inderjit Nikku',
@@ -31446,7 +31447,7 @@ export class CelebritiesService {
       description: `Inderjit singh, popularly known as Nikku, is Punjabi Singer from Ludhiana, Punjab.`
     },
     {
-      id: 'ab196',
+      id: 'ce196',
       category: ['Pollywood', 'punjabi', 'Instagram', 'Punjabi singer', 'singer',],
       categoryId: ['Punjabi Artist'],
       name: 'Navv Inder',
@@ -31597,7 +31598,7 @@ export class CelebritiesService {
       description: `Navv Inder is an Indian singer from Gurusar Sudhar, Ludhiana. In collaboration with rapper Badshah, Inder's song "Wakhra Swag" won the 2016 Punjabi Music Awards for best duo/group and most popular song of the year. "Wakhra Swag" had more than 260 million hits on YouTube in may 2020. Navv Inder has a Master of Business Administration in finance from Chandigarh University.[citation needed] Wakhra song has been recreated for the film Judgementall Hai Kya. The song sung by him along with Lisa Mishra and Raja Kumari features the lead characters Kangana Ranaut and Rajkumar Rao. The song marks his debut as a playback singer for Hindi films.`
     },
     {
-      id: 'ab197',
+      id: 'ce197',
       category: ['Pollywood', 'punjabi', 'Instagram', 'Punjabi singer', 'singer',],
       categoryId: ['Punjabi Artist'],
       name: 'Gill Ranjodh',
@@ -31743,7 +31744,7 @@ export class CelebritiesService {
       description: `Gill Ranjodh is punjabi singer. He has began his singing career in year 2013 with song "Prem Kahani". He became popular through by his superhit song "Ki faida" released in year 2014`
     },
     {
-      id: 'ab198',
+      id: 'ce198',
       category: ['Pollywood', 'punjabi', 'Instagram', 'Lyricist', 'writer', 'Song writer'],
       categoryId: ['Punjabi Artist'],
       name: 'Jassi Lohka',
@@ -31906,7 +31907,7 @@ export class CelebritiesService {
       description: `Jassi Lohka is a Punjabi Lyricist and Singer associated with Punjabi Music Industry. He is well-known as a lyricist for his popular written songs like 8 Parche, Hostel, Affair, Rang Sanwala, Sarpanchi, and more. He is one of the renowned lyricists in the Punjabi music industry, who gave his lyrics to famous singers like Gippy Grewal, Aarsh Benipal, Ninja, Sharry Mann, Baani Sandhu, Gurnam Bhullar, and many more. `
     },
     {
-      id: 'ab199',
+      id: 'ce199',
       category: ['Pollywood', 'punjabi', 'Instagram', 'Punjabi singer', 'singer',],
       categoryId: ['Punjabi Artist'],
       name: 'Sarthi K',
@@ -32063,7 +32064,7 @@ export class CelebritiesService {
       description: `Sarthi K is a Indian, Singer, Model, Actor. Sarthi K was born on 10 September 1987. Sarthi K hails from District Nabha, Patiala, Punjab, India, religion belongs to is Hinduism.`
     },
     {
-      id: 'ab200',
+      id: 'ce200',
       category: ['Pollywood', 'punjabi', 'Instagram', 'Punjabi singer', 'singer',],
       categoryId: ['Punjabi Artist'],
       name: 'Feroz Khan',
@@ -32220,7 +32221,7 @@ export class CelebritiesService {
       description: `Feroz Khan was born on 12-12-1982 in Phagwara in the state of Punjab, India. He is an Indian Playback Singer, Singer, Television Personality & Film Actor.`
     },
     {
-      id: 'ab201',
+      id: 'ce201',
       category: ['Pollywood', 'Instagram', 'Acting', 'punjabi actor', 'actor', 'Punjabi Singer', 'lyricist', 'writer', 'Song writer'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Karan Sandhawalia',
@@ -32375,7 +32376,7 @@ export class CelebritiesService {
       description: `Karan Sandhawalia is a Punjabi Actor, Singer, and Lyricist associated with Punjabi Flim Industry. He was born in a Sikh family in 1996 and his birthplace is Jalandhar, Punjab, India. His height is about 5′ 7”.`
     },
     {
-      id: 'ab202',
+      id: 'ce202',
       category: ['Pollywood', 'Instagram', 'Acting', 'punjabi actor', 'actor', 'Punjabi Singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Roshan Prince',
@@ -32543,7 +32544,7 @@ export class CelebritiesService {
       description: `Roshan Prince is an Indian singer, producer, musician, songwriter and actor known for his Punjabi-language Bhangra songs. He was born on June 09 1981.`
     },
     {
-      id: 'ab203',
+      id: 'ce203',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'lyricist', 'writer', 'Song writer', 'Rapper'],
       categoryId: ['Punjabi Artist'],
       name: 'Bohemia',
@@ -32726,7 +32727,7 @@ export class CelebritiesService {
       description: `Roger David, better known by his stage name Bohemia, is a Pakistani-American rapper and record producer.Bohemia was born on October 15, 1979, in Karachi, Sindh and did his schooling in Peshawar, Pakistan. At the age of 13, he moved to the United States with his family. Bohemia is married to Sunny David.`
     },
     {
-      id: 'ab204',
+      id: 'ce204',
       category: ['Pollywood', 'punjabi', 'Instagram', 'Director', 'Screenwriter', 'Dialogue writer', 'Film director'],
       categoryId: ['Punjabi Artist'],
       name: 'Jagdeep Sidhu',
@@ -32889,7 +32890,7 @@ export class CelebritiesService {
       description: `Jagdeep Sidhu is an Indian film director, dialogue writer, and screenwriter associated with Punjabi Flim Industry. He is born in the Sikh family on 02 January 1988 and his birthplace is Mohali, Punjab, India. His height is about 5′ 8”. He completed his graduation from Punjabi University, Patiala.`
     },
     {
-      id: 'ab205',
+      id: 'ce205',
       category: ['Pollywood', 'Singer', 'Bollywood', 'Bollywood Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'lyricist', 'writer', 'Song writer', 'Rapper'],
       categoryId: ['Punjabi Artist'],
       name: 'Badshah',
@@ -33097,7 +33098,7 @@ export class CelebritiesService {
       description: `Aditya Prateek Singh Sisodia, known by his stage name Badshah, is an Indian rapper, singer, film producer and businessman known for his Hindi, Haryanvi, and Punjabi songs. He started his career in 2006 alongside Yo Yo Honey Singh in his Hip Hop group Mafia Mundeer. He split from Honey in 2012 and released his independent Haryanvi song Kar Gayi Chull, which was later adopted into the 2016 Bollywood movie, Kapoor & Sons. His music has been featured in Bollywood soundtracks for films such as 2014 films Humpty Sharma Ki Dulhania and Khoobsurat. He is also considered one of the highest-paid artists and also a controversial rapper of India, for his songs like Genda Phool and Pagal.`
     },
     {
-      id: 'ab206',
+      id: 'ce206',
       category: ['Pollywood', 'Bollywood', 'Bollywood Singer', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'lyricist', 'writer', 'Song writer', 'Rapper'],
       categoryId: ['Punjabi Artist'],
       name: 'Yo Yo Honey Singh',
@@ -33262,7 +33263,7 @@ export class CelebritiesService {
       description: `Hirdesh Singh (born 15 March 1983), known professionally as Yo Yo Honey Singh or simply Honey Singh, is an Indian music producer, composer, rapper, pop singer, lyricist and a film actor. He started out in 2003 as a session and recording artist, and became a bhangra and hip hop music producer. Later, he became successful with his own songs and started making songs for Bollywood films.`
     },
     {
-      id: 'ab207',
+      id: 'ce207',
       category: ['Pollywood', 'Punjabi', 'Singer', 'Instagram', 'Punjabi Singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Kamal Grewal',
@@ -33419,7 +33420,7 @@ export class CelebritiesService {
       description: `Kamal Grewal is punjabi singer born village Gaddowal, Ludhiana, Punjab, India`
     },
     {
-      id: 'ab208',
+      id: 'ce208',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'lyricist', 'writer', 'Song writer', 'Rapper', 'producer', 'record producer'],
       categoryId: ['Punjabi Artist'],
       name: 'Gurinder Gill',
@@ -33584,7 +33585,7 @@ export class CelebritiesService {
       description: `Gurinder Gill is an Indian singer, rapper, songwriter, and record producer associated with Punjabi music. Four of his singles have peaked on UK Asian and Punjabi charts by Official Charts Company; "Majhail" and "Brown Munde" have topped the charts. Gill released his debut EP Not By Chance in December 2020.`
     },
     {
-      id: 'ab209',
+      id: 'ce209',
       category: ['Pollywood', 'Punjabi', 'Singer', 'Instagram', 'Punjabi Singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Lakhwinder Wadali',
@@ -33741,7 +33742,7 @@ export class CelebritiesService {
       description: `Lakhwinder Wadali is an Indian musician and singer, who hails from a family of musicians from Punjab, India.His grandfather Thakur Dass Wadali was a renowned vocalist and his father and uncle formed a Sufi qawwali duo, the Wadali brothers. Lakhwinder received extensive training and guidance in classical music from his father Puran Chand Wadali. His songs blend classical and current trends in music. His repertoire includes renditions of Sufi Saints, romantic, Folk numbers, ghazals, bhajans and bhangra. Alaaps and taans are the vital aspects of his music.`
     },
     {
-      id: 'ab210',
+      id: 'ce210',
       category: ['Pollywood', 'Punjabi', 'Singer', 'Instagram', 'Punjabi Singer', "actor", 'Bollywood Singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Mika Singh',
@@ -33946,7 +33947,7 @@ export class CelebritiesService {
       description: `Mika Singh is an Indian rapper, singer, and performer. He has a large catalogue of songs, prominent among which are "Bas Ek King" (Singh Is Kinng), "Mauja Hi Mauja" (Jab We Met), "Ibn-e-Batuta" (Ishqiya), and "Dhanno" (Housefull). He has released several solo albums. He has also appeared on various reality shows. His song "Sawan Main Lag Gayi Aag" was remixed by U.S based singer Pinky Paras.`
     },
     {
-      id: 'ab211',
+      id: 'ce211',
       category: ['Pollywood', 'Punjabi', 'Singer', 'Instagram', 'Punjabi Singer'],
       categoryId: ['Punjabi Artist'],
       name: 'Kanth Kaler',
@@ -34096,7 +34097,7 @@ export class CelebritiesService {
       description: `Kanth Kaler (born 7 May 1972), popularly known as Kanth Kaler is an Indian singer who is famous for singing Punjabi sad songs. His hit songs include Hun Teri Nigah Badal Gai, Dass Asi Kehra Tere Bina Mar Challea, Udikan, and Teri Yaad Sajna.`
     },
     {
-      id: 'ab212',
+      id: 'ce212',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'lyricist', 'writer', 'Song writer', 'Rapper', 'Music Producer'],
       categoryId: ['Punjabi Artist'],
       name: 'Fateh Doe',
@@ -34268,7 +34269,7 @@ export class CelebritiesService {
       description: `Fateh Singh better known by his stage name Fateh Doe or mononym Fateh is a Toronto-based Canadian rapper and songwriter of Indian descent. His music career gained traction in 2012 when he began to work with Dr Zeus.`
     },
     {
-      id: 'ab213',
+      id: 'ce213',
       category: ['Pollywood', 'punjabi', 'Instagram', 'Punjabi singer', 'singer',],
       categoryId: ['Punjabi Artist'],
       name: 'Mehtab Virk',
@@ -34426,7 +34427,7 @@ export class CelebritiesService {
       description: `Mehtab Virk is a famous Punjabi Singer. After the launch of his debut album Kismat (2012), he collaborated with the leading Punjabi music channel 9X Tashan in a promotional track of the channel, “Tashan Di Lohri” (2013) and “Kudi Tu Pataka” (2013).`
     },
     {
-      id: 'ab214',
+      id: 'ce214',
       category: ['Pollywood', 'Punjabi', 'Singer', 'Instagram', 'Punjabi Singer', 'Bollywood Singer', 'lyricist', 'song writer'],
       categoryId: ['Punjabi Artist'],
       name: 'Daler Mehndi',
@@ -34601,7 +34602,7 @@ export class CelebritiesService {
       description: `Daler Singh (born 18 August 1967), better known as Daler Mehndi, is an Indian singer, songwriter, author and record producer. He has helped to make Bhangra popular worldwide, as well as Indian pop music independent of Bollywood music. He is best known for his dance songs, voice, turban and long, flowing robes.`
     },
     {
-      id: 'ab215',
+      id: 'ce215',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'Anchor', 'Model', 'Punjabi Actor'],
       categoryId: ['Punjabi Artist'],
       name: 'B Jay Randhawa',
@@ -34758,7 +34759,7 @@ export class CelebritiesService {
       description: `B Jay Randhawa is an Indian singer, model and anchor. He was born on January 8, 1991 in Kapurthala, Punjab, India. Jay Randhawa works primarily for the film industry and Punjabi music. He began his career as a pit pilot at MTV Stuntmania Reloaded and won the title of Legend Rider of India.`
     },
     {
-      id: 'ab216',
+      id: 'ce216',
       category: ['Pollywood', 'Instagram', 'Acting', 'punjabi actor', 'actor'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Guggu Gill',
@@ -34923,7 +34924,7 @@ export class CelebritiesService {
       description: `Kulwinder Singh Gill, better known as Guggu Gill, is an Indian film actor who mainly works in Punjabi cinema. He was one of the leading actors in Punjabi cinema in the 1990s along with Yograj Singh. He has done 65-70 films so far.`
     },
     {
-      id: 'ab217',
+      id: 'ce217',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'bollywood', 'punjabi actress', 'actress', 'Singer'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Himanshi Khurana',
@@ -35137,7 +35138,7 @@ export class CelebritiesService {
       description: `Himanshi Khurana (born 27 November 1991) is an Indian model, actress and singer who works in Punjabi-language films. She appeared in the Punjabi movie Sadda Haq. In 2019, she participated in the reality show Bigg Boss 13 as a contestant.`
     },
     {
-      id: 'ab218',
+      id: 'ce218',
       category: ['Pollywood', 'punjabi', 'Instagram', 'Punjabi singer', 'singer', 'lyricist', 'writer', 'Song writer'],
       categoryId: ['Punjabi Artist'],
       name: 'Kadir Thind',
@@ -35301,7 +35302,7 @@ export class CelebritiesService {
       description: `Kadir Thind was born on 27-07-1990 in Malerkotla in the state of Punjab, India. He is an Indian Singer, Musician, Composer & Lyricist.`
     },
     {
-      id: 'ab219',
+      id: 'ce219',
       category: ['Pollywood', 'Instagram', 'Acting', 'punjabi actor', 'actor', 'bollywood actor', 'Producer'],
       categoryId: ['Bollywood Actor/Actress, Model', 'Punjabi Actor/Actress, Model'],
       name: 'Jimmy Shergill',
@@ -35521,7 +35522,7 @@ export class CelebritiesService {
       description: `Jimmy Sheirgill (born Jasjit Singh Gill; 3 December 1970), also credited as Jimmy Shergill, is an Indian actor and film producer who works in Hindi and Punjabi films. Sheirgill began his film career with the 1996 thriller Maachis.`
     },
     {
-      id: 'ab220',
+      id: 'ce220',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actress', 'actress'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Mandy Takhar',
@@ -35723,7 +35724,7 @@ export class CelebritiesService {
       description: `Mandy Takhar is a British actress of Indian origin who works in Indian cinema - predominantly Punjabi with roles in Hindi and Tamil films as well.Mandy Takhar was born and raised in the city of Wolverhampton in the UK. She traces her roots to Maliana, a small village near Phagwara in Punjab, India. She moved to London from her family home when she was 17, to study drama at the Kingston University and then left the UK in 2009 to work as an actor in the Indian film industry.`
     },
     {
-      id: 'ab221',
+      id: 'ce221',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actor', 'actor'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Jaswinder Bhalla',
@@ -35931,7 +35932,7 @@ export class CelebritiesService {
       description: `Jaswinder Bhalla (born 4 May 1960) is an Indian actor and comedian who works in Punjabi cinema. He started his professional career as a comedian in 1988 with Chankata 88 and became actor with film Dulla Bhatti. He is best known for his comedy series Chankatta and comedy roles in various Punjabi films. He is famous for always using taglines in his movies, and bringing a comic touch to movies through them. He also performs in stage acts and has done tours of Canada and Australia for his stage show Naughty Baba in Town.`
     },
     {
-      id: 'ab222',
+      id: 'ce222',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actor', 'actor', 'Screenplay Writer', 'Film Director', 'Dialogue Writer', 'Director'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Amberdeep Singh',
@@ -36122,7 +36123,7 @@ export class CelebritiesService {
       description: `Amberdeep Singh is a Punjabi actor, director, screenwriter, and producer associated with Punjabi Flim Industry. He is a well-known director and best known for his movies like Angrej, Lahoriye, Love Punjab, and Teeja Punjab.`
     },
     {
-      id: 'ab223',
+      id: 'ce223',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actress', 'actress'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Aditi Sharma',
@@ -36282,7 +36283,7 @@ export class CelebritiesService {
       description: `Aditi Dev Sharma is an Indian television and film actress known for her portrayal of Gangaa Shukla in &TV's Gangaa and Mauli in Colors TV's Silsila Badalte Rishton Ka.`
     },
     {
-      id: 'ab224',
+      id: 'ce224',
       category: ['Pollywood', 'Instagram', 'Acting', 'model', 'punjabi actress', 'actress'],
       categoryId: ['Punjabi Actor/Actress, Model'],
       name: 'Mahie gill',
@@ -36483,7 +36484,7 @@ export class CelebritiesService {
       description: `Rimpy Kaur "Mahie" Gill (born 19 December 1975) is an Indian actress, working in the Hindi and Punjabi film industries. She is best known for her role of Paro in Anurag Kashyap's critically acclaimed Hindi film Dev.D, a modern take on Sarat Chandra Chattopadhyay's Bengali novella Devdas, for which she also won the 2010 Filmfare Critics Award for Best Actress. She started her career in Punjabi films before making a debut in Bollywood with Dev.D.`
     },
     {
-      id: 'ab225',
+      id: 'ce225',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Producer'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Salman Khan',
@@ -36784,7 +36785,7 @@ export class CelebritiesService {
       description: `Abdul Rashid Salim Salman Khan (born on 27 December 1965) is an Indian actor, film producer, and television personality who works in Hindi films. In a film career spanning over thirty years, Khan has received numerous awards, including two National Film Awards as a film producer, and two Filmfare Awards for acting. He is cited in the media as one of the most commercially successful actors of Indian cinema. Forbes included him in their 2015 list of Top-Paid 100 Celebrity Entertainers in the world; Khan tied with Amitabh Bachchan for No. 71 on the list, both with earnings of $33.5 million. According to the Forbes 2018 list of Top-Paid 100 Celebrity Entertainers in world, Khan was the highest-ranked Indian with 82nd rank with earnings of $37.7 million. He is also known as the host of the reality show, Bigg Boss since 2010`
     },
     {
-      id: 'ab226',
+      id: 'ce226',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Producer'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Shah Rukh Khan',
@@ -37131,7 +37132,7 @@ export class CelebritiesService {
       description: `Shah Rukh Khan (born 2 November 1965), also known by the initialism SRK, is an Indian actor, film producer, and television personality who works in Hindi films. Referred to in the media as the "Baadshah of Bollywood" (in reference to his 1999 film Baadshah), "King of Bollywood" and "King Khan", he has appeared in more than 80 films, and earned numerous accolades, including 14 Filmfare Awards. The Government of India has awarded him the Padma Shri, and the Government of France has awarded him the Ordre des Arts et des Lettres and the Legion of Honour. Khan has a significant following in Asia and the Indian diaspora worldwide. In terms of audience size and income, he has been described as one of the most successful film stars in the world.`
     },
     {
-      id: 'ab227',
+      id: 'ce227',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Producer'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Akshay Kumar',
@@ -37432,7 +37433,7 @@ export class CelebritiesService {
       description: `Rajiv Hari Om Bhatia (born 9 September 1967), known professionally as Akshay Kumar, is an Indian-born naturalised Canadian actor, film producer, martial artist and television personality who works in Bollywood, the commercial Hindi language film industry based mainly in Mumbai.`
     },
     {
-      id: 'ab228',
+      id: 'ce228',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Varun Dhawan',
@@ -37700,7 +37701,7 @@ export class CelebritiesService {
       description: `Varun Dhawan (born 24 April 1987) is an Indian actor who works in Hindi films. One of India's highest-paid actors, he has been featured in Forbes India's Celebrity 100 list since 2014.`
     },
     {
-      id: 'ab229',
+      id: 'ce229',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Ranveer Singh',
@@ -37947,7 +37948,7 @@ export class CelebritiesService {
       description: `Ranveer Singh Bhavnani (born 6 July 1985) is an Indian actor who works in Hindi films. The recipient of several awards, including four Filmfare Awards, he is among the highest-paid Indian actors and has been featured in Forbes India's Celebrity 100 list since 2012.`
     },
     {
-      id: 'ab230',
+      id: 'ce230',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Dancer', 'Martial Artist'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Tiger Shroff',
@@ -38215,7 +38216,7 @@ export class CelebritiesService {
       He is best known for his commercially successful Baaghi action franchise, Heropanti (2014) and War (2019). One of the highest paid actors in India, he has featured in Forbes India's Celebrity 100 list since 2018.`
     },
     {
-      id: 'ab231',
+      id: 'ce231',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Hrithik Roshan',
@@ -38548,7 +38549,7 @@ export class CelebritiesService {
       description: `Hrithik Roshan (born 10 January 1974) is an Indian actor who works in Hindi films. He has portrayed a variety of characters and is known for his dancing skills. One of the highest-paid actors in India, he has won many awards, including six Filmfares, four for Best Actor and one each for Best Debut and Best Actor (Critics). Starting in 2012, he appeared several times in Forbes India's Celebrity 100 based on his income and popularity.`
     },
     {
-      id: 'ab232',
+      id: 'ce232',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Shahid Kapoor',
@@ -38817,7 +38818,7 @@ export class CelebritiesService {
       description: `Shahid Kapoor (born 25 February 1981), is an Indian actor who appears in Hindi films. Initially recognised for portraying romantic roles, he has since taken on parts in action films and thrillers, and is the recipient of several awards, including three Filmfare Awards.`
     },
     {
-      id: 'ab233',
+      id: 'ce233',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Amitabh Bachchan',
@@ -39207,7 +39208,7 @@ export class CelebritiesService {
       description: `Amitabh Bachchan (born Amitabh Srivastava: 11 October 1942) is an Indian film actor, film producer, television host, occasional playback singer and former politician known for his work in Hindi cinema. He is regarded as one of the most influential actors in the history of Indian cinema. During the 1970s–1980s, he was the most dominant actor in the Indian movie scene; the French director François Truffaut called him a "one-man industry".`
     },
     {
-      id: 'ab234',
+      id: 'ce234',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Vicky Kaushal',
@@ -39466,7 +39467,7 @@ export class CelebritiesService {
       After graduating with an engineering degree, Kaushal assisted Anurag Kashyap in the 2012 crime drama Gangs of Wasseypur and went on to play minor roles in two of Kashyap's productions. His first leading role was in the 2015 drama Masaan, and he gained wider recognition in 2018 with supporting roles in Raazi and Sanju, two of the highest-grossing Hindi films of the year. For the latter, he won the Filmfare Award for Best Supporting Actor.`
     },
     {
-      id: 'ab235',
+      id: 'ce235',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Kartik Aaryan',
@@ -39687,7 +39688,7 @@ export class CelebritiesService {
       Aaryan subsequently starred in Pyaar Ka Punchnama 2 and Sonu Ke Titu Ki Sweety, both of which were commercially successful. The latter proved to be a breakthrough for Aaryan and he followed it with the romantic comedies – Luka Chuppi and Pati Patni Aur Woh in 2019. In 2021, Kartik appeared in Ram Madhvani's Netflix thriller, Dhamaka.`
     },
     {
-      id: 'ab236',
+      id: 'ce236',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Producer'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Ajay Devgn',
@@ -40051,7 +40052,7 @@ export class CelebritiesService {
       description: `Vishal Veeru Devgan (born 2 April 1969), known professionally as Ajay Devgn, is an Indian actor, film director and producer. He has appeared in over a hundred Hindi films. Devgn has won numerous accolades, including two National Film Awards and four Filmfare Awards. In 2016, he was honoured by the Government of India with the Padma Shri, the fourth-highest civilian honour of the country.`
     },
     {
-      id: 'ab237',
+      id: 'ce237',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Producer'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Sonu Sood',
@@ -40355,7 +40356,7 @@ export class CelebritiesService {
       In 2009, he received the Andhra Pradesh State Nandi Award for Best Villain and the Filmfare Award for Best Supporting Actor – Telugu for his work in the Telugu blockbuster Arundhati. In 2010, he garnered the Apsara Award for Best Actor in a Negative Role and the IIFA Award for Best Performance in a Negative Role for his performance in Bollywood film Dabangg. In 2012, he received the SIIMA Award for Best Actor in a Negative Role (Telugu) for his role in Julayi.[citation needed] Sood's other successful works include Yuva (2004), Athadu (2005), Aashiq Banaya Aapne (2005), Ashok (2006), Jodhaa Akbar (2008), Kandireega (2011), Dookudu (2011), Shootout at Wadala (2013), R... Rajkumar (2013), Happy New Year (2014), Devi (2016), Kung Fu Yoga (2017), Simmba (2018), and Kurukshetra (2019). He also appeared in commercials for Apollo Tyres and Airtel.`
     },
     {
-      id: 'ab238',
+      id: 'ce238',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Producer'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'John Abraham',
@@ -40696,7 +40697,7 @@ export class CelebritiesService {
       description: `John Abraham (born 17 December 1972) is an Indian actor, film producer and former model who appears in Hindi films. After modelling for numerous advertisements and companies, he made his film debut with Jism (2003), earning a Filmfare Award for Best Male Debut nomination. This was followed by his breakout antagonistic roles in the top-grossing action thriller Dhoom (2004), and in Zinda (2006), for which he received two Filmfare Best Villain Award nomination. Abraham was later critically praised for Water (2005) and Baabul (2006), the latter of which gained him a Filmfare Best Supporting Actor Award nomination.`
     },
     {
-      id: 'ab239',
+      id: 'ce239',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Film Producer'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Sanjay Dutt',
@@ -41077,7 +41078,7 @@ export class CelebritiesService {
       description: `Sanjay Balraj Dutt (born 29 July 1959) is an Indian actor, and convicted felon. He primarily works in Hindi films. He is the recipient of several awards, including two Filmfare Awards and three Screen Awards. Dutt acted in 187 films, ranging from romance to comedy genres, but is usually typecast in action genres, and established himself as one of the most popular Hindi film actors of the later 1980s, 1990s, 2000s, and 2010s.`
     },
     {
-      id: 'ab240',
+      id: 'ce240',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Producer'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Ranbir Kapoor',
@@ -41439,7 +41440,7 @@ export class CelebritiesService {
       The son of actors Rishi Kapoor and Neetu Singh, and the grandson of veteran actor-director Raj Kapoor, Kapoor pursued filmmaking and method acting at the School of Visual Arts and the Lee Strasberg Theatre and Film Institute, respectively. He subsequently assisted Sanjay Leela Bhansali on the film Black (2005) and made his acting debut with Bhansali's tragic romance Saawariya (2007), a critical and commercial failure. Kapoor rose to prominence in 2009 with his performances in the coming-of-age film Wake Up Sid, the romantic comedy Ajab Prem Ki Ghazab Kahani, and the drama Rocket Singh: Salesman of the Year. His most widely seen film in this period came with the political drama Raajneeti (2010)`
     },
     {
-      id: 'ab241',
+      id: 'ce241',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Arjun Kapoor',
@@ -41729,7 +41730,7 @@ export class CelebritiesService {
       Arjun's notable work include the films Gunday (2014), 2 States (2014), Ki & Ka (2016), Mubarakan (2017) and Sandeep Aur Pinky Faraar (2021).`
     },
     {
-      id: 'ab242',
+      id: 'ce242',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Bollywood Singer', 'writer'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Ayushmann Khurrana',
@@ -41997,7 +41998,7 @@ export class CelebritiesService {
       description: `Ayushmann Khurrana (born Nishant Khurrana; 14 September 1984) is an Indian actor, singer, and television host who works in Hindi films. Known for his portrayals of ordinary men often battling social norms, he is the recipient of several awards, including a National Film Award and four Filmfare Awards. He has appeared in Forbes India's Celebrity 100 list of 2013 and 2019. Time named him one of the 100 most influential people in the world in 2020.`
     },
     {
-      id: 'ab243',
+      id: 'ce243',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Producer'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Anil Kapoor',
@@ -42395,7 +42396,7 @@ export class CelebritiesService {
       description: `Anil Kapoor (born 24 December 1956) is an Indian actor and film producer who works primarily in Hindi films, and also acted in international films and television series. In a career spanning over 40 years as an actor and as a producer since 2005, Kapoor has appeared in more than 100 films. Recognised for his main roles in multiple iconic, popular and cult films, he has received several accolades including two National Film Awards and six Filmfare Awards.`
     },
     {
-      id: 'ab244',
+      id: 'ce244',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Film Producer'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Abhishek Bachchan',
@@ -42670,7 +42671,7 @@ export class CelebritiesService {
       Bachchan made his acting debut in 2000 with J. P. Dutta's war film Refugee which was the fifth highest grosser of the year, and followed by starring in over a dozen films which were all critical and commercial failures. His first commercial successes came with the 2003 & 2004 action films Zameen and Dhoom, which changed his career prospects. Bachchan went on to earn critical appreciation for his performances in the dramas Yuva (2004), Sarkar (2005), and Kabhi Alvida Naa Kehna (2006), which won him three consecutive Filmfare Award for Best Supporting Actor, making him the second and only actor after Dilip Kumar to win 3 Filmfare awards consecutively. In 2005, he won the Stardust Award for Actor of the Year for his performance in Yuva, and in 2007, he portrayed a character loosely based on Dhirubhai Ambani in Mani Ratnam's drama film Guru, which earned him critical acclaim and a nomination for the Filmfare Award for Best Actor.`
     },
     {
-      id: 'ab245',
+      id: 'ce245',
       category: ['Pollywood', 'Singer', 'punjabi', 'Instagram', 'Punjabi singer', 'Model'],
       categoryId: ['Punjabi Artist'],
       name: 'Inder Chahal',
@@ -42840,7 +42841,7 @@ export class CelebritiesService {
       description: `Inder Chahal is a Punjabi Singer and Lyricist associated with the Punjabi Music Industry. He was born on 12 December 1994 and his birthplace is Sangrur, Punjab, India. His height is about 5′ 9”. He did his schooling at Spring Dales Public Senior Secondary School, Sangrur, and completed his graduation from Rayat Bahra University, Mohali.`
     },
     {
-      id: 'ab246',
+      id: 'ce246',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'RajKummar Rao',
@@ -43067,7 +43068,7 @@ export class CelebritiesService {
       After graduation from the University of Delhi, Rao learnt acting at the Film and Television Institute of India and then moved to Mumbai to pursue his film career. He made his acting debut with the anthology Love Sex Aur Dhokha (2010) but earned commercial success with supporting roles in Gangs of Wasseypur – Part 2 and Talaash: The Answer Lies Within (both 2012). Critically acclaimed performances in Kai Po Che! and Shahid (both 2013) proved to be a breakthrough for him; the latter won him the National Film Award.`
     },
     {
-      id: 'ab247',
+      id: 'ce247',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Film Producer', 'Director', 'Film Director'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Anupam Kher',
@@ -43397,7 +43398,7 @@ export class CelebritiesService {
       description: `Anupam Kher (born 7 March 1955) is an Indian actor and the former Chairman of Film and Television Institute of India. He has appeared in over 500 films predominantly in the Hindi language, and many plays. He is a recipient of two National Film Awards and eight Filmfare Awards. He won the Filmfare Award for Best Actor for his performance in Saaransh (1984). He holds the record for winning the Filmfare Award for Best Comedian five times in total for: Ram Lakhan (1989), Lamhe (1991), Khel (1992), Darr (1993) and Dilwale Dulhaniya Le Jayenge (1995). He won the National Film Award for Special Mention twice for his performances in Daddy (1989) and Maine Gandhi Ko Nahin Mara (2005). For his performance in the film Vijay (1988), he won the Filmfare Award for Best Supporting Actor.`
     },
     {
-      id: 'ab248',
+      id: 'ce248',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Katrina Kaif',
@@ -43662,7 +43663,7 @@ export class CelebritiesService {
       description: `Katrina Kaif (born Katrina Turquotte; 16 July 1983) is a British actress who works in Hindi-language films. One of the highest-paid actresses in India, she has received several accolades, including four Screen Awards and four Zee Cine Awards, in addition to three Filmfare nominations.`
     },
     {
-      id: 'ab249',
+      id: 'ce249',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Jacqueline Fernandez',
@@ -43888,7 +43889,7 @@ export class CelebritiesService {
       description: `Jacqueline Fernandez (born 11 August 1985) is a Sri Lankan actress and model. She has worked in Indian films, predominantly in Hindi, besides appearing in reality shows and music videos. Debuting with Aladin in 2009 she has since then established a career in the Hindi film industry. Fernandez was born and raised in Bahrain to a multiracial Eurasian family of Sri Lankan, Canadian, and Malaysian descent. After graduating in mass communication from the University of Sydney and working as a television reporter in Sri Lanka, she joined the modeling industry. She was crowned Miss Universe Sri Lanka in 2006, and represented her country at Miss Universe 2006.`
     },
     {
-      id: 'ab250',
+      id: 'ce250',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Sara Ali Khan',
@@ -44153,7 +44154,7 @@ export class CelebritiesService {
       After graduating from Columbia University, Khan ventured into acting by playing leading roles in the 2018 films Kedarnath and Simmba. Both films were commercially successful and the former earned her the Filmfare Award for Best Female Debut. In 2021, she gained wider recognition with Atrangi Re.`
     },
     {
-      id: 'ab251',
+      id: 'ce251',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Alia Bhatt',
@@ -44406,7 +44407,7 @@ export class CelebritiesService {
       description: `Alia Bhatt (born 15 March 1993) is a British actress of Indian origin who works primarily in Hindi-language films. Her accolades include four Filmfare Awards. She has appeared in Forbes India's Celebrity 100 list since 2014 and was featured by Forbes Asia in their 30 Under 30 list of 2017.`
     },
     {
-      id: 'ab252',
+      id: 'ce252',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Shraddha Kapoor',
@@ -44663,7 +44664,7 @@ export class CelebritiesService {
       The daughter of actor Shakti Kapoor, she began her acting career with a brief role in the 2010 heist film Teen Patti, and followed it with her first leading role in the teen drama Luv Ka The End (2011). Kapoor gained wide recognition for playing a singer in the commercially successful romantic drama Aashiqui 2 (2013), for which she received a nomination for the Filmfare Award for Best Actress. The following year, she portrayed a character based on Ophelia in Vishal Bhardwaj's critically acclaimed drama Haider (2014), an adaptation of William Shakespeare's tragedy Hamlet. Kapoor established herself with starring roles in the romantic thriller Ek Villain (2014), the dance drama ABCD 2 (2015) and the action drama Baaghi (2016).[6][7] Following a series of poorly received films, her highest-grossing releases came with the comedy horror Stree (2018), the action thriller Saaho (2019), and the comedy-drama Chhichhore (2019).`
     },
     {
-      id: 'ab253',
+      id: 'ce253',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress', 'Dancer', 'Model'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Nora Fatehi',
@@ -44873,7 +44874,7 @@ export class CelebritiesService {
       description: `Nora Fatehi (born 6 February 1992) is a Canadian actress, model, dancer, singer, and producer who is known for her work in the Indian film industry. She has appeared in Hindi, Telugu, Malayalam and Tamil language films. She made her film debut in the Bollywood film Roar: Tigers of the Sundarbans. She gained popularity in Telugu cinema by doing item numbers in films like Temper, Baahubali: The Beginning and Kick 2 and has also starred in two Malayalam films, Double Barrel and Kayamkulam Kochunni.`
     },
     {
-      id: 'ab254',
+      id: 'ce254',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Anushka Sharma',
@@ -45096,7 +45097,7 @@ export class CelebritiesService {
       description: `Anushka Sharma (born 1 May 1988) is an Indian actress and film producer who works in Hindi films. She has received several awards, including a Filmfare Award. She has appeared in Forbes India's Celebrity 100 since 2012 and was featured by Forbes Asia in their 30 Under 30 list of 2018.`
     },
     {
-      id: 'ab255',
+      id: 'ce255',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Deepika Padukone',
@@ -45385,7 +45386,7 @@ export class CelebritiesService {
       description: `Deepika Padukone (born 5 January 1986) is an Indian actress who works in Hindi films. One of the highest-paid actresses in India, her accolades include three Filmfare Awards. She features in listings of the nation's most popular personalities, and Time named her one of the 100 most influential people in the world in 2018.`
     },
     {
-      id: 'ab256',
+      id: 'ce256',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Kriti Sanon',
@@ -45587,7 +45588,7 @@ export class CelebritiesService {
       description: `Kriti Sanon (born 27 July 1990) is an Indian actress who appears predominantly in Hindi films. She made her debut with the Telugu psychological thriller 1: Nenokkadine in 2014. Sanon won the Filmfare Award for Best Female Debut for her performance in Sabbir Khan's action-comedy-romantic Heropanti (2014), which marked her first project in Hindi cinema. Sanon appeared in Forbes India's Celebrity 100 list of 2019.`
     },
     {
-      id: 'ab257',
+      id: 'ce257',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Disha Patani',
@@ -45808,7 +45809,7 @@ export class CelebritiesService {
       She starred in the Chinese action comedy Kung Fu Yoga (2017). She went on to star in the commercially successful Hindi action films like Baaghi 2 (2018), Bharat (2019) and Malang (2020).`
     },
     {
-      id: 'ab258',
+      id: 'ce258',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Urvashi Rautela',
@@ -46022,7 +46023,7 @@ export class CelebritiesService {
       She made her Bollywood debut with Singh Saab the Great (2013) and appeared in films like Sanam Re (2016), Great Grand Masti (2016), Hate Story 4 (2018) and Pagalpanti (2019).`
     },
     {
-      id: 'ab259',
+      id: 'ce259',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Kiara Advani',
@@ -46195,7 +46196,7 @@ export class CelebritiesService {
       Advani's career advanced with a critically praised role in the Netflix anthology film Lust Stories (2018), and for playing the leading lady in the Telugu political thriller Bharat Ane Nenu (2018), and the Hindi films Kabir Singh (2019), Good Newwz (2019), Laxmii (2020) and Shershaah (2021).`
     },
     {
-      id: 'ab260',
+      id: 'ce260',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress', 'Producer'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Shilpa Shetty',
@@ -46427,7 +46428,7 @@ export class CelebritiesService {
       description: `Shilpa Shetty Kundra (born Ashwini Shetty 8 June 1975) is an Indian actress, film producer, dancer, author, businesswoman and former model who predominantly appeared in Hindi-language films. Shetty made her screen debut in the thriller Baazigar (1993) which garnered her two Filmfare Awards nominations. She followed it with a leading role in the highly successful action comedy Main Khiladi Tu Anari (1994), in which she played a dual role.`
     },
     {
-      id: 'ab261',
+      id: 'ce261',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Janhvi Kapoor',
@@ -46660,7 +46661,7 @@ export class CelebritiesService {
       description: `Janhvi Kapoor (born 6 March 1997) is an Indian actress who works in Hindi films. Born to Sridevi and Boney Kapoor, she made her acting debut in 2018 with the romantic drama film Dhadak, which was a commercial success. Kapoor has since starred in the Netflix films Ghost Stories and Gunjan Saxena: The Kargil Girl (both 2020).`
     },
     {
-      id: 'ab262',
+      id: 'ce262',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Ananya Panday',
@@ -46850,7 +46851,7 @@ export class CelebritiesService {
       description: `Ananya Panday (born 30 October 1998) is an Indian actress who works in Hindi films. She is the daughter of actor Chunky Panday. She made her acting debut in Student of the Year 2 in 2019, followed by a role in Pati Patni Aur Woh in the same year. These performances earned her the Filmfare Award for Best Female Debut at the 65th Filmfare Awards.`
     },
     {
-      id: 'ab263',
+      id: 'ce263',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Priyanka Chopra',
@@ -47103,7 +47104,7 @@ export class CelebritiesService {
       description: `Priyanka Chopra Jonas (born 18 July 1982) is an Indian actress, model, and singer. The winner of the Miss World 2000 pageant, Chopra is one of India's highest-paid actresses. She has received numerous accolades, including two National Film Award and five Filmfare Awards. In 2016, the Government of India honoured her with the Padma Shri, and Time named her one of the 100 most influential people in the world, and in the next two years, Forbes listed her among the World's 100 Most Powerful Women.`
     },
     {
-      id: 'ab264',
+      id: 'ce264',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Sonakshi Sinha',
@@ -47305,7 +47306,7 @@ export class CelebritiesService {
       description: `Sonakshi Sinha (born 2 June 1987) is an Indian actress and singer who works in Hindi films. After working as a costume designer for independent films, she made her acting debut portraying Rajjo Pandey in the action-drama film Dabangg in 2010, which won her the Filmfare Award for Best Female Debut. She rose to prominence for playing the romantic interest of the male protagonists in the comedy film Rowdy Rathore (2012), the action film Son of Sardaar (2012) and the thriller film Holiday: A Soldier Is Never Off Duty (2014), and for appearing in a variety of item numbers.`
     },
     {
-      id: 'ab265',
+      id: 'ce265',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Kajol',
@@ -47549,7 +47550,7 @@ export class CelebritiesService {
       description: `Kajol Devgn (born 5 August 1974), known mononymously as Kajol, is an Indian actress. Described in the media as one of the most successful actresses of Hindi cinema, she is the recipient of numerous accolades, including six Filmfare Awards, among which she holds the record for most Best Actress awards previously set by her late aunt Nutan. In 2011, she was honoured with Padma Shri, the fourth highest civilian honour of the country, by the Government of India.`
     },
     {
-      id: 'ab266',
+      id: 'ce266',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Parineeti Chopra',
@@ -47794,7 +47795,7 @@ export class CelebritiesService {
       .`
     },
     {
-      id: 'ab267',
+      id: 'ce267',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress', 'producer'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Preity Zinta',
@@ -47991,7 +47992,7 @@ export class CelebritiesService {
       .`
     },
     {
-      id: 'ab268',
+      id: 'ce268',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: 'Neha Sharma',
@@ -48163,7 +48164,7 @@ export class CelebritiesService {
       description: `Neha Sharma (pronounced [ˈnɛːɦa ˈʃərma], born 21 November 1987) is an Indian actress and model. A native of Bihar, Sharma attended the Mount Carmel School in Bhagalpur and pursued a course in fashion design from the National Institute of Fashion Technology (NIFT) in New Delhi.`
     },
     {
-      id: 'ab269',
+      id: 'ce269',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Ileana D'Cruz`,
@@ -48367,7 +48368,7 @@ export class CelebritiesService {
       description: `Ileana D'Cruz (born 1 November 1987) is an Indian-born Portuguese actress and model who predominantly appears in Telugu and Hindi language films. D'Cruz was born in Mumbai and spent most of her childhood in Goa. D'Cruz made her screen debut in 2006 with Telugu-language film Devadasu, which was a commercial success whilst earning her the Filmfare Award for Best Female Debutant.`
     },
     {
-      id: 'ab270',
+      id: 'ce270',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Kareena Kapoor`,
@@ -48658,7 +48659,7 @@ export class CelebritiesService {
       description: `Kareena Kapoor Khan (born 21 September 1980) is an Indian actress who appears in Hindi films. She is the daughter of actors Randhir Kapoor and Babita, and the younger sister of actress Karisma Kapoor. Noted for playing a variety of characters in a range of film genres—from romantic comedies to crime dramas—Kapoor is the recipient of several awards, including six Filmfare Awards, and is one of Bollywood's highest-paid actresses.`
     },
     {
-      id: 'ab271',
+      id: 'ce271',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Taapsee Pannu`,
@@ -48956,7 +48957,7 @@ export class CelebritiesService {
       After doing modelling for a few years, Pannu made her acting debut with the 2010 Telugu film Jhummandi Naadam and later acted in the 2011 Tamil film, Aadukalam. She made her Hindi film debut with David Dhawan's comedy Chashme Baddoor (2013). After appearing in several South Indian films, Pannu got noticed for her performances in the spy thriller Baby (2015) and the courtroom drama Pink (2016), both of which were critical and commercial successes.`
     },
     {
-      id: 'ab272',
+      id: 'ce272',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress', 'producer'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Malaika Arora`,
@@ -49152,7 +49153,7 @@ export class CelebritiesService {
       description: `Malaika Arora (born 23 October 1973) is an Indian actress, dancer, model, VJ, and television personality who appears in Hindi-language films. She made her debut as a film producer in 2008, with former husband Arbaaz Khan, founding the company Arbaaz Khan Productions, which has created the Dabangg film series. As an actress, Arora has starred in main roles in films Kaante (2002) and EMI (2008). As a dancer, she is acclaimed for her performances in the songs Chaiyya Chaiyya (1998), Gur Naalo Ishq Mitha (1998), Maahi Ve (2002), Kaal Dhamaal (2005), and Munni Badnaam Hui (2010).`
     },
     {
-      id: 'ab273',
+      id: 'ce273',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Shruti Haasan`,
@@ -49469,7 +49470,7 @@ export class CelebritiesService {
       description: `Shruti Haasan (born 28 January 1986) is an Indian actress and playback singer who works predominantly in Telugu, Tamil and Hindi language films. Born in the Haasan family, she is the daughter of actors Kamal Haasan and Sarika Thakur.`
     },
     {
-      id: 'ab274',
+      id: 'ce274',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Karisma Kapoor`,
@@ -49650,7 +49651,7 @@ export class CelebritiesService {
       description: `Karisma Kapoor (born 25 June 1974) is an Indian actress, who works in Hindi films. Born and raised in Mumbai, she is a member of the Kapoor family, and made her acting debut with the film Prem Qaidi in 1991. She is the recipient of several accolades, including a National Film Award and four Filmfare Awards.`
     },
     {
-      id: 'ab275',
+      id: 'ce275',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress', 'dancer'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Tara Sutaria`,
@@ -49882,7 +49883,7 @@ export class CelebritiesService {
       description: `Tara Sutaria (born 19 November 1995) is an Indian actress, singer and dancer who works in Hindi films and television. She started her acting career with television, making debut with Disney India's Big Bada Boom and went on to star in The Suite Life of Karan & Kabir (2012) and Oye Jassie (2013). In 2019, Sutaria made her film debut with Student of the Year 2, for which she won Zee Cine Award for Best Female Debut.`
     },
     {
-      id: 'ab276',
+      id: 'ce276',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Madhuri Dixit`,
@@ -50133,7 +50134,7 @@ export class CelebritiesService {
       description: `Madhuri Dixit Nene (born 15 May 1967) is an Indian actress, producer and television personality. One of the most popular leading ladies of Hindi cinema, she has appeared in over 70 Bollywood films. Noted by critics for her beauty, dancing skills, and strong characters, Dixit's early career was shaped up mostly by romantic and family dramas before she expanded her repertoire. Her accolades include six Filmfare Awards from a record 17 nominations. In 2008, the Government of India awarded her with Padma Shri, the fourth highest civilian honour of the country.`
     },
     {
-      id: 'ab277',
+      id: 'ce277',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Amyra Dastur`,
@@ -50376,7 +50377,7 @@ export class CelebritiesService {
       description: `Amyra Dastur (born 7 May 1993) is an Indian actress who has starred in Hindi, Tamil and Telugu Films. Dastur is Parsi and she speaks English and Gujarati at home. She holds a bachelor's degree in commerce from Mumbai's HR College.`
     },
     {
-      id: 'ab278',
+      id: 'ce278',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Vaani Kapoor`,
@@ -50599,7 +50600,7 @@ export class CelebritiesService {
       After facing criticism for her performances in the Tamil film Aaha Kalyanam (2014) and Befikre (2016), she took a three-year break from films, before starring in brief roles as the romantic interest of the lead male character in the action thrillers War (2019) and Bell Bottom (2021). Kapoor gained praise for her performance as a transgender woman in Chandigarh Kare Aashiqui (2021).`
     },
     {
-      id: 'ab279',
+      id: 'ce279',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Elli AvrRam`,
@@ -50771,7 +50772,7 @@ export class CelebritiesService {
       description: `Elisabet Avramidou Granlund, (born 29 July 1990) known professionally as Elli AvrRam, is an Swedish-Greek actress and is now based in Mumbai, India. She is known for her Bollywood movie Kis Kisko Pyaar Karoon. AvrRam came to prominence after participating in the Indian reality TV show Bigg Boss in 2013. Elli along with Aamir Khan had a special appearance in the Koi Jaane Na movie song Har Funn Maula.`
     },
     {
-      id: 'ab280',
+      id: 'ce280',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Diana Penty`,
@@ -50959,7 +50960,7 @@ export class CelebritiesService {
       description: `Diana Penty (born 2 November 1985) is an Indian model and actress who predominantly appears in Hindi films. She began her modelling career in 2005 when she was signed up by Elite Models India. Penty made her acting debut in 2012 with the romantic comedy film Cocktail. Her performance in the film garnered praise, and earned her a nomination for Filmfare Award for Best Female Debut.`
     },
     {
-      id: 'ab281',
+      id: 'ce281',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Nidhhi Agerwal`,
@@ -51129,7 +51130,7 @@ export class CelebritiesService {
       description: `Nidhhi Agerwal is an Indian actress and dancer who primarily appears in Telugu and Tamil-language films. In 2017, she made her acting debut in the film Munna Michael. She was a Yamaha Fascino Miss Diva 2014 finalist. She made her Telugu film debut with Savyasachi (2018), and Tamil debut with Eeswaran (2021).`
     },
     {
-      id: 'ab282',
+      id: 'ce282',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Rakul Singh`,
@@ -51347,7 +51348,7 @@ export class CelebritiesService {
       description: `Rakul Preet Singh (born 10 October 1990) is an Indian actress and model who predominantly works in Telugu, Tamil and Hindi films. She made her acting debut with the Kannada film Gilli (2009) and has received three Filmfare Awards South nominations and is a recipient of a SIIMA Award.`
     },
     {
-      id: 'ab283',
+      id: 'ce283',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Nushrratt Bharuccha`,
@@ -51569,7 +51570,7 @@ export class CelebritiesService {
       `
     },
     {
-      id: 'ab284',
+      id: 'ce284',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress', 'television actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Mrunal Thakur`,
@@ -51765,7 +51766,7 @@ export class CelebritiesService {
       description: `Mrunal Thakur (born 1 August 1992) is an Indian television and film actress who predominantly appears in Hindi and Marathi media. Her first screen appearance was in the drama film Love Sonia (2018), for which she received critical acclaim. In 2019, Thakur featured in the biographical drama Super 30, and followed by playing the role of Shobhna Yadav in action thriller Batla House, both of which were commercial successes. In 2021, she has starred in the sports dramas Toofaan and the upcoming Jersey, in addition to the action thriller Dhamaka. She is also slated to appear in the comedy film Aankh Micholi, which is scheduled for release in May 2022.`
     },
     {
-      id: 'ab285',
+      id: 'ce285',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Esha Gupta`,
@@ -52002,7 +52003,7 @@ export class CelebritiesService {
       Gupta entered the Femina Miss India contest in 2007, where she placed third and won the Miss India International title, and later represented India at Miss International pageant. She soon received offers for film roles, and made her acting debut in the 2012 commercially successful crime thriller Jannat 2, that fetched her a nomination for the Filmfare Award for Best Female Debut. Gupta received praise for her portrayal in the political drama Chakravyuh (2012) but her performance in the comedy film Humshakals (2014) met with negative reviews. Her highest-grossing releases came with the horror thriller Raaz 3D (2013), the crime drama Rustom (2016) and Baadshaho (2017)`
     },
     {
-      id: 'ab286',
+      id: 'ce286',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Bhumi Pednekar`,
@@ -52213,7 +52214,7 @@ export class CelebritiesService {
       description: `Bhumi Pednekar (born 18 July 1989) is an Indian actress who appears in Hindi films. After working as an assistant casting director at Yash Raj Films for six years, she made her film debut as an overweight bride in the company's romantic comedy Dum Laga Ke Haisha (2015), which earned her the Filmfare Award for Best Female Debut.Pednekar rose to prominence by playing headstrong small-town women in the comedy-dramas Toilet: Ek Prem Katha (2017), Shubh Mangal Saavdhan (2017), Bala (2019) and Pati Patni Aur Woh (2019). For her portrayal of the septuagenarian sharpshooter Chandro Tomar in Saand Ki Aankh (2019), she won the Filmfare Critics Award for Best Actress`
     },
     {
-      id: 'ab287',
+      id: 'ce287',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Sonal Chauhan`,
@@ -52389,7 +52390,7 @@ export class CelebritiesService {
       description: `Sonal Chauhan (born 16 May 1987) is an Indian model, singer and actress who predominantly works in Telugu and Hindi cinema. She has won beauty contests, and made her debut as an actress in the movie Jannat. Chauhan was born in a Rajput family. She attended Delhi Public School in Noida. She then studied Philosophy honours at Gargi College in New Delhi.`
     },
     {
-      id: 'ab288',
+      id: 'ce288',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Genelia Deshmukh`,
@@ -52655,7 +52656,7 @@ export class CelebritiesService {
       description: `Genelia Deshmukh (born 5 August 1987) is an Indian actress and model who predominantly appears in Telugu, Hindi, and Tamil language films. After gaining wide attention in a Parker Pen commercial with Amitabh Bachchan, D'Souza began her acting career with the box-office hit Tujhe Meri Kasam in 2003. She was recognized for her role in Boys the same year.`
     },
     {
-      id: 'ab289',
+      id: 'ce289',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress', 'Miss World'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Manushi Chhillar`,
@@ -52845,7 +52846,7 @@ export class CelebritiesService {
       description: `Manushi Chhillar (born 14 May 1997) is an Indian actress, model and the winner of Miss World 2017 pageant. She represented the state of Haryana at the Femina Miss India 2017 pageant in which she won. Chhillar is the sixth representative from India to win the Miss World pageant. She will make her film debut in the upcoming historical drama Prithviraj.`
     },
     {
-      id: 'ab290',
+      id: 'ce290',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress', 'film producer', 'film director', 'producer', 'director'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Divya Khosla Kumar`,
@@ -53121,7 +53122,7 @@ export class CelebritiesService {
       description: `Divya Khosla Kumar (born 20 November 1987) is an Indian actress, producer, and director who works in Hindi films. She has directed various advertisements and has also featured in some music videos. She is married to Bhushan Kumar, the chairman and managing director of T-Series music label and film production company.`
     },
     {
-      id: 'ab291',
+      id: 'ce291',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Adah Sharma`,
@@ -53301,7 +53302,7 @@ export class CelebritiesService {
       description: `Adah Sharma is an Indian actress who mainly appears in Hindi and Telugu-language films. Sharma, after finishing her schooling, made her acting debut with a leading role in the 2008 Hindi language horror film 1920, a box office success. Her portrayal of a possessed woman in the film was critically praised and earned her a Filmfare Award for Best Female Debut nomination. After the release her romantic comedy film Hasee Toh Phasee (2014), she ventured into the South Indian film industries, making films in Telugu.`
     },
     {
-      id: 'ab292',
+      id: 'ce292',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress', 'television actress', 'dancer'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Radhika Madan`,
@@ -53510,7 +53511,7 @@ export class CelebritiesService {
       description: `Radhika Madan (born 1 May 1995) is an Indian actress who works in Hindi films. She made her acting debut with and is known for portraying Ishani Parekh Vaghela in Colors TV's romantic drama Meri Aashiqui Tum Se Hi. She made her debut in 2018 with Vishal Bhardwaj's drama Pataakha.`
     },
     {
-      id: 'ab293',
+      id: 'ce293',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress', 'Model'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Sanjana Sanghi`,
@@ -53712,7 +53713,7 @@ export class CelebritiesService {
       description: `Sanjana Sanghi (born 2 September 1996) is an Indian actress and model who works in Hindi-language films. Sanghi started her career as a child artist in the 2011 film Rockstar. Later, she appeared in supporting roles in the 2016 and 2017 films Baar Baar Dekho, Hindi Medium and Fukrey Returns. Her first major role was opposite Sushant Singh Rajput in Mukesh Chhabra's 2020 film, Dil Bechara. In 2021, she will be starred opposite Aditya Roy Kapur in an upcoming film Om: The Battle Within, which is produced by Zee Studios.`
     },
     {
-      id: 'ab294',
+      id: 'ce294',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress', `Model`, `Film Producer`, `Social Activist`],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Dia Mirza`,
@@ -54000,7 +54001,7 @@ export class CelebritiesService {
       She subsequently featured in films including Dus (2005), Lage Raho Munnabhai (2006) and Sanju (2018). She co-owned a production house, Born Free Entertainment, with her ex-husband Sahil Sangha. Their first film, Love Breakups Zindagi, was released on 7 October 2011. After their divorce she launched her own production house, "One India Stories" in December 2019. She also appeared in the web series Kaafir in 2019.`
     },
     {
-      id: 'ab295',
+      id: 'ce295',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Mallika Sherawat`,
@@ -54218,7 +54219,7 @@ export class CelebritiesService {
       Since then, she has appeared in successes like Aap Ka Suroor, Welcome (both 2007) — her biggest commercial success so far — and Double Dhamaal (2011). She is one of the few Bollywood stars trying to cross over to Hollywood, with films like Hisss (2010) and Politics of Love (2011).`
     },
     {
-      id: 'ab296',
+      id: 'ce296',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Sameera Reddy`,
@@ -54420,7 +54421,7 @@ export class CelebritiesService {
       Reddy made her film debut with the 2002 film Maine Dil Tujhko Diya. She is best known for starring in films such as Darna Mana Hai (2003), Musafir (2004), Jai Chiranjeeva (2005), Taxi Number 9211 (2006), Ashok (2006), Race (2008), Varanam Aayiram (2008), De Dana Dan (2009), Aakrosh (2010), Vettai (2012) and Tezz (2012).`
     },
     {
-      id: 'ab297',
+      id: 'ce297',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Soha Ali Khan`,
@@ -54630,7 +54631,7 @@ export class CelebritiesService {
       description: `Soha Ali Khan Pataudi (born 4 October 1978) is an Indian actress who has worked in Hindi, Bengali and English films. She is the daughter of veteran actress Sharmila Tagore and former Indian cricket captain Mansoor Ali Khan Pataudi, and the younger sister of actor Saif Ali Khan.`
     },
     {
-      id: 'ab298',
+      id: 'ce298',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Zareen Khan`,
@@ -54845,7 +54846,7 @@ export class CelebritiesService {
       With the help of her godfather Salman Khan, Zareen Khan made her Bollywood debut in 2010 playing a princess in the epic action film Veer and subsequently appeared in the hugely popular item number Character Dheela in the 2011 blockbuster comedy Ready. She got her breakthrough with the role of a glamorous model in the 2012 romantic comedy Housefull 2, that ranks as her highest-grossing release till date. The next year, she ventured into Tamil cinema with an item number Malgove in Naan Rajavaga Pogiren. Following a leading role in the 2014 Punjabi film Jatt James Bond, she returned to Bollywood, starring in the 2015 erotic thriller Hate Story 3. In 2019, Khan debuted into Telugu cinema with the action thriller Chanakya.`
     },
     {
-      id: 'ab299',
+      id: 'ce299',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Ayesha Takia`,
@@ -55076,7 +55077,7 @@ export class CelebritiesService {
       description: `Ayesha Takia was born in Mumbai, Maharashtra, India to a Gujarati Hindu father and a Kashmiri Muslim mother. She is an alumnus of St Anthony's Girls High School, Chembur. She married restaurateur Farhan Azmi, son of Samajwadi Party leader Abu Azmi, on 1 March 2009, with whom she has a son.`
     },
     {
-      id: 'ab300',
+      id: 'ce300',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress', 'Author'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Sonali Bendre`,
@@ -55345,7 +55346,7 @@ export class CelebritiesService {
       description: `Sonali Bendre (born 1 January 1975) is an Indian actress and model who has primarily worked in Hindi films, alongside Telugu, Tamil, Kannada and Marathi language films. She has won several awards, including a Filmfare Award. She established herself as one of the leading Indian actress of the 90s and is known for her style statements.`
     },
     {
-      id: 'ab301',
+      id: 'ce301',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Shamita Shetty`,
@@ -55643,7 +55644,7 @@ export class CelebritiesService {
       description: `Shamita Shetty (born 2 February 1979) is an Indian Bollywood actress, model and interior designer. She made her Hindi film debut in the musical romance film Mohabbatein (2000), which earned her the IIFA Award for Star Debut of the Year – Female. She went on to do films including Bewafaa (2005) and Cash (2007). Following this, she participated in several reality television shows like Bigg Boss 3 (2009) and Jhalak Dikhhla Jaa (2015). Later, she was a finalist on the stunt-based show Khatron Ke Khiladi 9 (2019) and the game reality series Bigg Boss OTT (2021) and Bigg Boss 15 (2021–2022).`
     },
     {
-      id: 'ab302',
+      id: 'ce302',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Kangana Ranaut`,
@@ -56030,7 +56031,7 @@ export class CelebritiesService {
       description: `Kangana Ranaut (born 23 March 1987) is an Indian actress and filmmaker who works in Hindi films. Known for her versatility and portrayal of strong women in female-centric films, she has been described in the media as one of India's highest-paid actresses. The recipient of several awards, including four National Film Awards and five Filmfare Awards, she has featured six times in Forbes India's Celebrity 100 list. In 2020, the Government of India honoured her with the Padma Shri, the country's fourth highest civilian award.`
     },
     {
-      id: 'ab303',
+      id: 'ce303',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Bipasha Basu`,
@@ -56258,7 +56259,7 @@ export class CelebritiesService {
       description: `Bipasha Basu Singh Grover (born 7 January 1979) is an Indian actress and model. Primarily known for her work in Hindi films, she has also appeared in Tamil, Telugu, Bengali and English films. Basu is the recipient of numerous accolades, including one Filmfare Award. Particularly known for her work in the thriller and horror film genres, she is frequently cited in the media as a sex symbol.`
     },
     {
-      id: 'ab304',
+      id: 'ce304',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Neha Dhupia`,
@@ -56550,7 +56551,7 @@ export class CelebritiesService {
       description: `Neha Dhupia (born 27 August 1980) is an Indian actress and model who works predominantly in Hindi, and some Punjabi, Telugu and Malayalam films. She has won the Femina Miss India 2002 pageant and was among the top 10 finalists in Miss Universe in the same year. She has also been one of the leaders of MTV Roadies since Season 14.`
     },
     {
-      id: 'ab305',
+      id: 'ce305',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Prachi Desai`,
@@ -56773,7 +56774,7 @@ export class CelebritiesService {
       description: `Prachi Desai (born 12 September 1988)[1] is an Indian actress who works in Hindi films and television. She started her television career as the lead protagonist in the successful TV drama Kasam Se on Zee TV. She made her Bollywood debut in the 2008 film Rock On!!. Her other notable features include Life Partner (2009), Once Upon a Time in Mumbaai (2010), Bol Bachchan (2012) and I, Me Aur Main (2013). She is also the endorser, spokesperson, brand ambassador and the face of Goa Tourism and Neutrogena products in India.[3] Desai is also a brand ambassador of Lux Lyra. In an April 2021 interview, Prachi Desai opened up about her casting couch experience for a big film.`
     },
     {
-      id: 'ab306',
+      id: 'ce306',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress', 'Writer'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Divya Dutta`,
@@ -57078,7 +57079,7 @@ export class CelebritiesService {
       Dutta debuted in Hindi cinema in 1994 with the film Ishq Mein Jeena Ishq Mein Marna, which she followed up with a lead role in the 1995 drama Veergati and a string of supporting roles. She then garnered attention for playing the lead role of Zainab, a Muslim wife separated from her Sikh husband, in the 1999 Punjabi film Shaheed-e-Mohabbat Boota Singh, set against the backdrop of the 1947 Partition of India. The movie was a surprise hit, and Dutta subsequently continued to act in supporting roles. In 2004, Dutta garnered widespread critical acclaim for her role as Shabbo in the romantic drama Veer-Zaara and earned best supporting actress nominations at several awards ceremonies, including Filmfare. She subsequently received recognition for her role in the 2008 comedy film Welcome to Sajjanpur, and received the IIFA Award for Best Supporting Actress for her portrayal of Jalebi in the 2009 drama film Delhi-6.`
     },
     {
-      id: 'ab307',
+      id: 'ce307',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress', 'Writer'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Asin`,
@@ -57342,7 +57343,7 @@ export class CelebritiesService {
       description: `Asin Thottumkal (born 26 October 1985), known mononymously as Asin, is a former Indian actress who appeared in Tamil, Hindi, Telugu and Malayalam films. She is a trained Bharatanatyam dancer. She has received three Filmfare Awards from ten nominations. She began her acting career in the South Indian film industry, but later shifted her focus to Bollywood. She speaks eight languages, and dubs her own films. She is the only Malayali actress, other than Padmini, to have dubbed in her own voice for all her films, irrespective of language. Asin has been referred to as the "Queen of Kollywood" by online portals in 2007.`
     },
     {
-      id: 'ab308',
+      id: 'ce308',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Sushmita Sen`,
@@ -57558,7 +57559,7 @@ export class CelebritiesService {
       description: `Sushmita Sen (born 19 November 1975) is an Indian actress, model and the winner of the Miss Universe 1994 pageant. She is the first Indian to win the Miss Universe pageant. She was previously crowned Femina Miss India 1994 at the age of 18. After winning the Miss Universe pageant, she has worked as a film actress.`
     },
     {
-      id: 'ab309',
+      id: 'ce309',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress', 'Producer', 'Television Personality'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Raveena Tandon`,
@@ -57872,7 +57873,7 @@ export class CelebritiesService {
       description: `Raveena Tandon (born 26 October 1972) is an Indian actress, model and producer who works in Hindi films. She is the daughter of director Ravi Tandon, and was born and raised in Mumbai. She started her career in modelling and later made her acting debut in the 1991 action film Patthar Ke Phool, which won her the Filmfare Award for New Face of the Year.`
     },
     {
-      id: 'ab310',
+      id: 'ce310',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress', 'Interior Designer', 'Author'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Twinkle Khanna`,
@@ -58156,7 +58157,7 @@ export class CelebritiesService {
       description: `Twinkle Khanna (also known as Tina Jatin Khanna; born on 29 December 1974) is an Indian Interior designer, author, producer, and former film actress. Her maternal grandfather, Chunnibhai Kapadia was a Gujarati businessman and her father Rajesh Khanna, born in Punjabi Khatri in Amritsar, Punjab, was from a family of railway contractors. On her mother's side, she was the niece of Simple Kapadia, an actress and costume designer whom she "adored". Her sister Rinke Khanna and cousin Karan Kapadia have also acted in films.`
     },
     {
-      id: 'ab311',
+      id: 'ce311',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress', 'Interior Designer', 'Author'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Vidya Balan`,
@@ -58380,7 +58381,7 @@ export class CelebritiesService {
       description: `Vidya Balan (born 1 January 1979) is an Indian actress. Known for pioneering a change in the portrayal of women in Hindi cinema with her roles in female-led films, she is the recipient of several awards, including a National Film Award and six Filmfare Awards. She was awarded the Padma Shri by the Government of India in 2014.`
     },
     {
-      id: 'ab312',
+      id: 'ce312',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress', 'Model', 'Host'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Karishma Tanna`,
@@ -58628,7 +58629,7 @@ export class CelebritiesService {
       description: `Karishma Tanna (born 21 December 1983) is an Indian actress, model and anchor who predominantly works in Hindi films and television shows. She made her debut with Kyunki Saas Bhi Kabhi Bahu Thi in 2001. She is well known for her roles in Naagin 3 and Qayamat Ki Raat.`
     },
     {
-      id: 'ab313',
+      id: 'ce313',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress', 'Model'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Rhea Chakraborty`,
@@ -58876,7 +58877,7 @@ export class CelebritiesService {
       description: `Rhea Chakraborty is an Indian actress and VJ. She started her career as a VJ on MTV India. She made her acting debut with the 2012 Telugu film Tuneega Tuneega and later appeared in the Hindi film Mere Dad Ki Maruti (2013). Rhea Chakraborty was born into a Bengali family in Bangalore, Karnataka, India. Her father was an Indian Army officer. She did her schooling from Army Public School Ambala Cantt, Ambala.`
     },
     {
-      id: 'ab314',
+      id: 'ce314',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Tabu`,
@@ -59074,7 +59075,7 @@ export class CelebritiesService {
       description: `Tabassum Fatima Hashmi (born 4 November 1971), better known by her stage name Tabu, is an Indian actress who primarily works in Hindi films, alongside Telugu and Tamil language films. Regarded as one of the most accomplished actresses in India, Tabu has often played troubled, complicated women in a range of characters, from fictional to literary, in both mainstream and independent cinema, as well as some American productions. She is the recipient of numerous accolades, including two National Film Awards for Best Actress and six Filmfare Awards, including a record four awards for Best Actress (Critics). In 2011, the Government of India awarded her the Padma Shri, the fourth highest civilian honour of the country.`
     },
     {
-      id: 'ab315',
+      id: 'ce315',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress', 'Model', 'Entrepreneur'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Lara Dutta`,
@@ -59361,7 +59362,7 @@ export class CelebritiesService {
       description: `Lara Dutta (born 16 April 1978) is an Indian actress, entrepreneur and the winner of the Miss Universe 2000 pageant. She was previously crowned as Miss Intercontinental 1997. In her career, she has primarily worked in Hindi films. She is the recipient of several accolades including a Filmfare Award. She established herself as one of the prominent leading ladies of the 2000s.`
     },
     {
-      id: 'ab316',
+      id: 'ce316',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress', 'Model'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Kriti Kharbanda`,
@@ -59553,7 +59554,7 @@ export class CelebritiesService {
       She has received accolades including a SIIMA Award and two nominations for the Filmfare Award South for her performances.`
     },
     {
-      id: 'ab317',
+      id: 'ce317',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Raashii Khanna`,
@@ -59756,7 +59757,7 @@ export class CelebritiesService {
       description: `Raashi Khanna (born 30 November 1990) is an Indian actress and playback singer who predominantly works in Telugu and Tamil language film industries. She made her acting debut in a supporting role with the Hindi film Madras Cafe (2013) and subsequently made her debut as a female lead in Telugu with Oohalu Gusagusalade (2014), in Tamil with Imaikkaa Nodigal (2018) and in Malayalam with Villain (2017).`
     },
     {
-      id: 'ab318',
+      id: 'ce318',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress', 'Model'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Aisha Sharma`,
@@ -59981,7 +59982,7 @@ export class CelebritiesService {
       description: `Aisha Sharma is an Indian actress and model. She is famous for being sister of Bollywood actress Neha Sharma. Aisha was the Kingfisher Calendar girl of 2016. She was introduced in the popular pop song Ik Vaari song by Ayushmann Khurrana.`
     },
     {
-      id: 'ab319',
+      id: 'ce319',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Shraddha Das`,
@@ -60176,7 +60177,7 @@ export class CelebritiesService {
       description: `Shraddha Das (born 4 March 1987) is an Indian actress and model who predominantly appears in Telugu, Hindi, Bengali, and Kannada language films. She made her acting debut in the 2008 Telugu film Siddu from Sikakulam, and since then has worked across six different film industries throughout her career.`
     },
     {
-      id: 'ab320',
+      id: 'ce320',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Puja Banerjee`,
@@ -60420,7 +60421,7 @@ export class CelebritiesService {
       description: `Puja Banerjee (born 6 February 1987), sometimes credited as Pooja Bose, is an Indian actress who appears predominantly in Bengali films and Hindi television. She is well known for playing Vrinda in the show Tujh Sang Preet Lagai Sajna, which aired on Star Plus. She participated in Jhalak Dikhhla Jaa (2014), Comedy Nights Bachao (2015) and Bigg Boss Bangla (2016)`
     },
     {
-      id: 'ab321',
+      id: 'ce321',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Aishwarya Rai`,
@@ -60729,7 +60730,7 @@ export class CelebritiesService {
       description: `Aishwarya Rai Bachchan (née Rai; born 1 November 1973) is an Indian actress and the winner of the Miss World 1994 pageant. Primarily known for her work in Hindi and Tamil films, she has established herself as one of the most popular and influential celebrities in India through her successful acting career. Rai has received numerous accolades, including two Filmfare Awards, and was honoured with the Padma Shri by the Government of India in 2009 and the Ordre des Arts et des Lettres by the Government of France in 2012. She has often been cited in the media as "the most beautiful woman in the world".`
     },
     {
-      id: 'ab322',
+      id: 'ce322',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Ameesha Patel`,
@@ -61031,7 +61032,7 @@ export class CelebritiesService {
       Patel has also been part of successful films including Humraaz (2002), Kya Yehi Pyaar Hai (2002), Honeymoon Travels Pvt. Ltd. (2007), Bhool Bhulaiyaa (2007) and Race 2 (2013).`
     },
     {
-      id: 'ab323',
+      id: 'ce323',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Rekha`,
@@ -61260,7 +61261,7 @@ export class CelebritiesService {
       description: `Bhanurekha Ganesan (born 10 October 1954), better known by her stage name Rekha, is an Indian actress who appears predominantly in Hindi films. Acknowledged as one of the finest actresses in Indian cinema,[2] she has starred in more than 180 films and is the recipient of several accolades, including one National Film Award and three Filmfare Awards. She has often played strong and complicated female characters—from fictional to literary—in both mainstream and independent films. Though her career has gone through certain periods of decline, Rekha has gained a reputation for reinventing herself numerous times and has been credited for her ability to sustain her status. In 2010, the Government of India honoured her with Padma Shri, India's fourth highest civilian honour.`
     },
     {
-      id: 'ab324',
+      id: 'ce324',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress', 'model', 'producer'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Juhi Chawla`,
@@ -61479,7 +61480,7 @@ export class CelebritiesService {
       description: `Juhi Chawla (born 13 November 1967) is an Indian actress, film producer and entrepreneur. After winning the 1984 Miss India beauty pageant, she established herself as one of the leading actresses of Hindi cinema from the late 1980s through the early 2000s. Recognised for her beauty,acting and dancing skills,comic timing and vivacious on-screen persona, she is the recipient of several accolades, including two Filmfare Awards.`
     },
     {
-      id: 'ab325',
+      id: 'ce325',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress', 'model', 'Singer'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Nargis Fakhri`,
@@ -61785,7 +61786,7 @@ export class CelebritiesService {
       description: `Nargis Fakhri (born October 20, 1979) is an American actress and model who primarily works in the Indian Hindi-language films. Her first role in film came with the 2011 romantic drama Rockstar, for which she was nominated for Filmfare Award for Best Female Debut. She subsequently played a war correspondent in the political thriller Madras Cafe (2013), and starred in the commercially successful comedies Main Tera Hero (2014), Spy (2015, her first Hollywood production) and Housefull 3 (2016)`
     },
     {
-      id: 'ab326',
+      id: 'ce326',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'filmmaker'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Aamir Khan`,
@@ -62121,7 +62122,7 @@ export class CelebritiesService {
       description: `Mohammed Aamir Hussain Khan (born 14 March 1965) is an Indian actor, film director and producer who works in Hindi films. Through his career spanning over 30 years, Khan has established himself as one of the most popular and influential actors of Indian cinema. Khan is the recipient of numerous awards, including nine Filmfare Awards, four National Film Awards, and an AACTA Award, with one of his film productions also receiving an Academy Award nomination. He was honoured by the Government of India with the Padma Shri in 2003 and the Padma Bhushan in 2010, and received an honorary title from the Government of China in 2017.`
     },
     {
-      id: 'ab327',
+      id: 'ce327',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Suhsant Singh Rajput`,
@@ -62443,7 +62444,7 @@ export class CelebritiesService {
       description: `Sushant Singh Rajput (21 January 1986 – 14 June 2020) was an Indian actor known for his work in Hindi cinema. He starred in a number of commercially successful Hindi films such as M.S. Dhoni: The Untold Story (2016), Kedarnath (2018) and Chhichhore (2019). Due to his contribution to the film industry, he received a Screen Award and was nominated for the Filmfare Awards on three occasions. He appeared on Forbes India's Celebrity 100 list twice since 2017.`
     },
     {
-      id: 'ab328',
+      id: 'ce328',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model', , 'Punjabi Actor/Actress, Model'],
       name: `Kainaat Arora`,
@@ -62630,7 +62631,7 @@ export class CelebritiesService {
       description: `Kainaat Arora (born 2 December 1986) is an Indian actress who made her debut in the Bollywood 100 crore blockbuster comedy film Grand Masti as Marlow. She also appeared in Mankatha and Khatta Meetha, and sang in Malayalam films.`
     },
     {
-      id: 'ab329',
+      id: 'ce329',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model', 'Punjabi Actor/Actress, Model'],
       name: `Surveen Chawla`,
@@ -62839,7 +62840,7 @@ export class CelebritiesService {
       description: `Surveen Chawla (born 1 August 1984) is an Indian actress and dancer who appears in Hindi films and television. She started her career with television shows like Kahin to Hoga and Kajjal. She is known for her roles in movies and shows like Hate Story 2 (2014), Ugly (2013), Parched (2015) and 24 (2016) etc. along with many others films. In 2018, she was seen in the Hindi web series, Haq Se.`
     },
     {
-      id: 'ab330',
+      id: 'ce330',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Vivek Oberoi`,
@@ -63117,7 +63118,7 @@ export class CelebritiesService {
       description: `Vivekanand Oberoi (born 3 September 1976) is an Indian actor who predominantly appears in Hindi films. He debuted with Ram Gopal Varma's gangster drama Company (2002), which won him two Filmfare Awards.Vivek Oberoi was born in Hyderabad, Telangana, to a Punjabi father, Suresh Oberoi, a veteran character actor and Yashodhara Oberoi, who is from a Tamil family. Oberoi went on to study at Mayo College, Ajmer and Mithibai College, Mumbai. At an actors' workshop in London, he was spotted by the director of New York University who took Vivek to New York, where he completed his master's degree in film acting. Vivek also worked as a scriptwriter in India.`
     },
     {
-      id: 'ab331',
+      id: 'ce331',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'producer'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Aftab Shivdasani`,
@@ -63333,7 +63334,7 @@ export class CelebritiesService {
       description: `Aftab Shivdasani (born 25 June 1978) is an Indian actor, producer and model known for his works in Bollywood. Shivdasani was selected as the Farex baby at the age of 14 months and eventually appeared in many TV commercials. He started his acting career as a child artist in films, including, Mr. India (1987), Shahenshah (1988), ChaalBaaz (1989), Awwal Number (1990), C.I.D. (1990) and Insaniyat (1994).`
     },
     {
-      id: 'ab332',
+      id: 'ce332',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'filmmaker', 'politician'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Sunny Deol`,
@@ -63631,7 +63632,7 @@ export class CelebritiesService {
       description: `Ajay Singh Deol (born 19 October 1956), better known by his stage name Sunny Deol, is an Indian film actor, director, producer, politician current member of parliament from Gurdaspur (Lok Sabha constituency) of Punjab State. Referred to as the Angry Man of Bollywood, he has won two National Film Awards and two Filmfare Awards.`
     },
     {
-      id: 'ab333',
+      id: 'ce333',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Bobby Deol`,
@@ -63910,7 +63911,7 @@ export class CelebritiesService {
       description: `Vijay Singh Deol (born 27 January 1969), popularly known as Bobby Deol, is an Indian actor who works in Hindi films. He is the recipient of a Filmfare Award. Deol first briefly appeared as a child actor at the age of 10 in Dharam Veer (1977) and made his acting career debut as an adult in Barsaat (1995) which garnered him the Filmfare Award for Best Male Debut.`
     },
     {
-      id: 'ab334',
+      id: 'ce334',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Producer'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Dharmendra`,
@@ -64204,7 +64205,7 @@ export class CelebritiesService {
       description: `Dharam Singh Deol (born 8 December 1935), known mononymously as Dharmendra, is an Indian actor, producer and politician who is known for his work in Hindi films. Known as the "He-Man" of Bollywood, Dharmendra has worked in over 300 films in a career spanning five decades. In 1997, he received the Filmfare Lifetime Achievement Award for his contribution to Hindi cinema. He was a member of the 15th Lok Sabha of India, representing Bikaner constituency in Rajasthan from Bharatiya Janata Party (BJP). In 2012, he was awarded India's third-highest civilian honour Padma Bhushan by the Government of India.`
     },
     {
-      id: 'ab335',
+      id: 'ce335',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Producer'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Govinda`,
@@ -64549,7 +64550,7 @@ export class CelebritiesService {
       Govinda is well known for his slapstick performances and dancing skills. As such, Govinda has received 12 Filmfare Award nominations and won two Filmfare Special Awards and a Filmfare Award for Best Comedian. Govinda's first film was 1986's Ilzaam, and has appeared in over 165 Hindi films since. In June 1999, he was voted the tenth-greatest star of stage or screen in last thousand years by BBC News Online poll.`
     },
     {
-      id: 'ab336',
+      id: 'ce336',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Producer'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Irrfan Khan`,
@@ -64933,7 +64934,7 @@ export class CelebritiesService {
       description: `Irrfan Khan (born Sahabzade Irfan Ali Khan; 7 January 1967 – 29 April 2020), also known simply as Irrfan, was an Indian actor who worked in Indian cinema as well as British and American films. Cited in the media as one of the finest actors in Indian cinema, Khan's career spanned over 30 years and earned him numerous accolades, including a National Film Award, an Asian Film Award, and six Filmfare Awards. In 2011, he was awarded the Padma Shri, India's fourth highest civilian honour. In 2021, he was posthumously awarded the Filmfare Lifetime Achievement Award.`
     },
     {
-      id: 'ab337',
+      id: 'ce337',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Nawazuddin Siddiqui`,
@@ -65287,7 +65288,7 @@ export class CelebritiesService {
       description: `Nawazuddin Siddiqui (born 19 May 1974) is an Indian actor known for his work in Hindi cinema. He is an alumnus of the National School of Drama. Siddiqui's feature film debut was alongside director Prashant Bhargava in Patang (2012), and his performance was appreciated by cinema critic Roger Ebert. He also gained international recognition for his work with director Anurag Kashyap in Black Friday (2007), the Gangs of Wasseypur (2012) duology, and Raman Raghav 2.0 (2016).`
     },
     {
-      id: 'ab338',
+      id: 'ce338',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Pankaj Tripathi`,
@@ -65604,7 +65605,7 @@ export class CelebritiesService {
       description: `Pankaj Tripathi (born 28 September 1976) is an Indian actor who appears predominantly in Hindi films. He debuted in 2004 with a minor role in Run and Omkara and has since worked in more than 60 films and 60 television shows. Tripathi's breakthrough came in the year 2012 with his antagonistic role in the Gangs of Wasseypur film series. He has established himself as one of the finest Indian actors.`
     },
     {
-      id: 'ab339',
+      id: 'ce339',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Imran Khan`,
@@ -65923,7 +65924,7 @@ export class CelebritiesService {
       description: `Imran Khan (born Imran Pal; 13 January 1983) is an American actor of Indian origin who worked in Hindi films. He is the nephew of actor Aamir Khan and director-producer Mansoor Khan, and the grandson of director-producer Nasir Hussain. He appeared as a child artist in the films Qayamat Se Qayamat Tak (1988) and Jo Jeeta Wohi Sikandar (1992).`
     },
     {
-      id: 'ab340',
+      id: 'ce340',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'producer', 'architect'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Riteish Deshmukh`,
@@ -66206,7 +66207,7 @@ export class CelebritiesService {
       description: `Riteish Vilasrao Deshmukh (born 17 December 1978) is an Indian actor, comedian, television presenter and film producer known for his work in Hindi cinema and Marathi cinema. He was ranked third in The Times of India's Top 20 Most Desirable Men of Maharashtra in 2018. He is son of Vilasrao Deshmukh who was former Chief Minister of Maharashtra.`
     },
     {
-      id: 'ab341',
+      id: 'ce341',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'producer'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Saif Ali Khan`,
@@ -66563,7 +66564,7 @@ export class CelebritiesService {
       description: `Saif Ali Khan (born Sajid Ali Khan Pataudi on 16 August 1970) is an Indian actor and producer who works in Hindi films. The son of actress Sharmila Tagore and cricketer Mansoor Ali Khan, Khan made his acting debut in Yash Chopra's drama Parampara (1993), but achieved success with his roles in the romantic drama Yeh Dillagi and the action film Main Khiladi Tu Anari (both 1994). Khan's career prospect declined through much of the 1990s, and his biggest commercial success of the decade came with the ensemble family drama Hum Saath-Saath Hain (1999). He rose to prominence with roles in two ensemble comedy-dramas—Dil Chahta Hai (2001) and Kal Ho Naa Ho (2003).`
     },
     {
-      id: 'ab342',
+      id: 'ce342',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Karan Singh Grover`,
@@ -66786,7 +66787,7 @@ export class CelebritiesService {
       In 2019, Grover made a comeback to television with Kasautii Zindagii Kay 2 as Mr. Rishabh Bajaj. In 2019, Grover also made his digital debut with BOSS: Baap of Special Services.`
     },
     {
-      id: 'ab343',
+      id: 'ce343',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Music Director', 'Singer', 'Writer', 'Producer'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Himesh Reshammiya`,
@@ -67033,7 +67034,7 @@ export class CelebritiesService {
       description: `Himesh Reshammiya (born 23 July 1973) is an Indian playback singer, music director, songwriter, film & music producer and actor in Bollywood. He started his career as music director in the film Pyaar Kiya To Darna Kya in 1998 and made his acting debut with the film Aap Kaa Surroor in 2007.`
     },
     {
-      id: 'ab344',
+      id: 'ce344',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Producer', 'Politician'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Paresh Rawal`,
@@ -67255,7 +67256,7 @@ export class CelebritiesService {
       description: `Paresh Rawal (born 30 May 1955) is an Indian actor, comedian, film producer and politician known for his works notably in Hindi films. He has appeared in over 240 films and is the recipient of various accolades. In 1994, he won the National Film Award for Best Supporting Actor for his performances in the films Woh Chokri and Sir. For the latter, he received his first Filmfare Award for Best Performance in a Negative Role. This was followed by Ketan Mehta's Sardar, which saw him playing the lead role of freedom fighter Vallabhbhai Patel, a role that got him national and international acclaim.`
     },
     {
-      id: 'ab345',
+      id: 'ce345',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Producer', 'Entrepreneur'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Suniel Shetty`,
@@ -67539,7 +67540,7 @@ export class CelebritiesService {
       description: `Suniel Shetty (born Sunil V. Shetty; 11 August 1961) is an Indian actor, film producer, television personality and entrepreneur who is predominantly active in Hindi films. In a career spanning almost 30 years, he has acted in over 100 films. His major works have been action and comedy films. He has received a Filmfare Award out of five nominations for the film Dhadkan.`
     },
     {
-      id: 'ab346',
+      id: 'ce346',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Jackie Shroff`,
@@ -67877,7 +67878,7 @@ export class CelebritiesService {
       description: `Jaikishan Kakubhai "Jackie" Shroff (born 1 February 1957) is an Indian actor and former model. He has been in the Hindi cinema (Bollywood) industry for four decades and as of 2020, has appeared in over 220 films in 13 languages (Hindi, Tamil, Bengali, Marathi, Kannada, Telugu, Malayalam, Punjabi, Bhojpuri, Konkani, Odia, Gujarati and English). He has won four Filmfare Awards among other accolades. He has also appeared in several successful Tamil films such as the greatly acclaimed neo noir thriller, Aaranya Kaandam.`
     },
     {
-      id: 'ab347',
+      id: 'ce347',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Shakti Kapoor`,
@@ -68224,7 +68225,7 @@ export class CelebritiesService {
       description: `Shakti Kapoor (born Sunil Sikanderlal Kapoor; 3 September 1952) is an Indian actor & comedian who appears in Bollywood films. Known for his villainous and comic roles in Hindi films, he has featured in around 700 films. In the 1980s and 1990s, Kapoor teamed up with actor Asrani and Kader Khan as the comical or evil team in over 100 films. In 2011, he was a contestant in the Indian reality show Bigg Boss.`
     },
     {
-      id: 'ab348',
+      id: 'ce348',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Sidharth Malhotra`,
@@ -68512,7 +68513,7 @@ export class CelebritiesService {
       description: `Sidharth Malhotra (born 16 January 1985) is an Indian actor who works in Hindi films. Malhotra began his career as a fashion model but left it to peruse an acting career. He made his debut with a small role in the television serial Dharti Ka Veer Yodha Prithviraj Chauhan before assisting director Karan Johar on the 2010 film My Name Is Khan. He then played a leading role in Johar's teen drama Student of the Year (2012).`
     },
     {
-      id: 'ab349',
+      id: 'ce349',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Emraan Hashmi`,
@@ -68794,7 +68795,7 @@ export class CelebritiesService {
       He worked as an assistant director for the 2002 horror film Raaz before pursuing a career in acting. By 2004, Hashmi had established himself as one of the leading actors of Hindi cinema with roles in several successful thrillers including, Murder (2004), Zeher (2005), Aashiq Banaya Aapne (2005), Kalyug (2005), Aksar (2006), and Gangster (2006). However, he followed it with roles in films that underperformed at the box office before starring in the acclaimed action drama Awarapan (2007).`
     },
     {
-      id: 'ab350',
+      id: 'ce350',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Nupur Sanon`,
@@ -68978,7 +68979,7 @@ export class CelebritiesService {
       description: `Nupur Sanon is an aspiring singer and actress. She is the sister of Kriti sanon. She sang her first song ‘Bekarar karke’ on Youtube in 2005. And won the heart of many audiences. After that, she also sang ‘Teri Galiyaan’, which became a huge success on Youtube. She also sang the song ‘Janam Janam’ from ‘Dilwale.`
     },
     {
-      id: 'ab351',
+      id: 'ce351',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Rani Mukerji`,
@@ -69248,7 +69249,7 @@ export class CelebritiesService {
       description: `Rani Mukerji (born 21 March 1978) is an Indian actress who works in Hindi films. Noted for her versatility, she is the recipient of multiple accolades, including seven Filmfare Awards. Mukerji has featured in listings of the highest-paid actresses of the 2000s. Although Mukerji was born into the Mukherjee-Samarth family, in which her parents and relatives were members of the Indian film industry, she did not aspire to pursue a career in film. As a teenager she dabbled with acting by starring in her father Ram Mukherjee's Bengali-language film Biyer Phool and in the social drama Raja Ki Aayegi Baraat (both 1996). Mukerji had her first commercial success with the action film Ghulam (1998) and breakthrough with the romance Kuch Kuch Hota Hai (1998). Following a brief setback, the year 2002 marked a turning point for her when she was cast by Yash Raj Films as the star of the drama Saathiya.`
     },
     {
-      id: 'ab352',
+      id: 'ce352',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actress', 'actress'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Amrita Singh`,
@@ -69468,7 +69469,7 @@ export class CelebritiesService {
       description: `Amrita Singh (born 9 February 1958) is an Indian actress. Through her films such as Betaab and Mard, she gained popularity and became a well-known and popular actress in the 1980s. She took a break from acting in the early 1990s for a decade and returned to acting in 2002, occasionally playing supporting roles (in her second innings). She also made her debut on television in 2005. Amrita keeps a low public profile and gives very few interviews. She has overall appeared in 55 movies- 45 in her first innings and precisely 10-15 in the second lease of her life.`
     },
     {
-      id: 'ab353',
+      id: 'ce353',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Producer', 'Director'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Sohail Khan`,
@@ -69705,7 +69706,7 @@ export class CelebritiesService {
       description: `Sohail Salim Abdul Rashid Khan (born 20 December 1970) is an Indian actor, writer, film director and producer who works mainly in Hindi cinema. He is the younger brother of actors Salman Khan and Arbaaz Khan. He has an elder sister, Alvira Khan Agnihotri. He produces films under his banner Sohail Khan Productions.`
     },
     {
-      id: 'ab354',
+      id: 'ce354',
       category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Producer', 'Director'],
       categoryId: ['Bollywood Actor/Actress, Model'],
       name: `Arbaaz Khan`,
@@ -69956,878 +69957,1781 @@ export class CelebritiesService {
       ],
       description: `Arbaaz Khan (born 4 August 1967) is an Indian actor, film director and film producer who predominantly works in Hindi language films. He has also acted in a few Urdu, Telugu and Malayalam language films as well as television series. Since making his debut in 1996, he has acted in many leading and supporting roles. He ventured into film production in Bollywood film industry, with Arbaaz Khan Productions, launched with Dabangg (2010), in which he starred as the younger brother of his real-life brother Salman Khan. The film went on to become one of the highest-grossing Bollywood films of all time. He also won the National Film Award for Best Popular Film Providing Wholesome Entertainment for the same. He also hosted the reality show Power Couple, which aired on Sony TV. In 2019, Khan made his digital debut with crime-thriller web series Poison.`
     },
-    // {
-    //   id: 'ab355',
-    //   category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor'],
-    //   categoryId: ['Bollywood Actor/Actress, Model'],
-    //   name: `Fardeen Khan`,
-    //   otherName: `Fardin Khan, Fradeen Khan, Fradin khan`,
-    //   nickName: ``,
-    //   fullname: '',
-    //   height: `in feet inches - 5’ 8”`,
-    //   weight: '90 Kg',
-    //   gender: 'Male',
-    //   boyfriend: '',
-    //   profession: `Actor`,
-    //   professionId: ``,
-    //   eyeColor: 'Dark Brown',
-    //   hairColor: 'Black',
-    //   imgSrc: "assets/images/july2022/fardeen-khan.jpg",
-    //   politicalParty: "",
-    //   politicalPartyImgSrc: "",
-    //   dob: {
-    //     date: '8',
-    //     month: 'March',
-    //     year: '1974'
-    //   },
-    //   dod: {
-    //     date: '',
-    //     month: '',
-    //     year: ''
-    //   },
-    //   deathCause: ``,
-    //   placeOfDeath: ``,
-    //   birthPlace: `Mumbai, Maharashtra, India`,
-    //   nationality: 'Indian',
-    //   hometown: 'Mumbai, Maharashtra, India',
-    //   school: `Jamnabai Narsee School, Juhu, Mumbai, India`,
-    //   collegeUniversity: `University of Massachusetts Amherst, Amherst, Massachusetts, US`,
-    //   qualification: `Bachelor of Business Management`,
-    //   religion: 'Islam',
-    //   zodiacSign: 'Pisces',
-    //   bloodGroup: '',
-    //   foodHabit: '',
-    //   address: ``,
-    //   hobbies: `Travelling, Horse riding`,
-    //   debut: {
-    //     lyrical: "",
-    //     lyricalImgSrc: "",
-    //     punjabiFilm: ``,
-    //     punjabiFilmImgSrc: "",
-    //     bollywoodFilm: `Prem Aggan (1988)`,
-    //     bollywoodFilmImgSrc: "",
-    //     hollywoodFilm: ``,
-    //     hollywoodFilmImgSrc: "",
-    //     tollywoodFilm: ``,
-    //     tollywoodFilmImgSrc: "",
-    //     tamilFilm: '',
-    //     tamilFilmImgSrc: "",
-    //     kannadaFilm: '',
-    //     kannadaFilmImgSrc: "",
-    //     punjabiAlbum: '',
-    //     punjabiAlbumImgSrc: "",
-    //     hindiAlbum: '',
-    //     hindiAlbumImgSrc: "",
-    //     singles: ``,
-    //     singlesImgSrc: "",
-    //     musicDirection: "",
-    //     musicDirectionImgSrc: "",
-    //     filmDirection: "",
-    //     filmDirectionImgSrc: "",
-    //     tv: ``,
-    //     tvImgSrc: "",
-    //     webSeries: "",
-    //     webSeriesImgSrc: "",
-    //     production: "Dabangg (2010)",
-    //     productionImgSrc: "",
-    //     filmWriter: "",
-    //     filmWriterImgSrc: "",
-    //     lastSong: ``,
-    //     lastSongImgSrc: ``,
-    //     lastFilm: ``,
-    //     lastFilmImgSrc: ``
-    //   },
-    //   awards: [],
-    //   controversies: [],
-    //   maritalStatus: `Married`,
-    //   affairs: `Natasha Madhvani`,
-    //   affairsImgSrc: ``,
-    //   wifeOrHusband: `Natasha Madhvani`,
-    //   wifeOrHusbandImgSrc: `assets/images/july2022/Fradeen-Khan-Wife.jpg`,
-    //   fiance: '',
-    //   fianceImgSrc: '',
-    //   children: {
-    //     son: `Azarius Khan (born in 2017)`,
-    //     sonImgSrc: ``,
-    //     sonImgSrc1: '',
-    //     sonImgSrc2: '',
-    //     daughter: `Diani Isabella Khan (born in 2013)`,
-    //     daughterImgSrc: ''
-    //   },
-    //   parents: {
-    //     father: 'Feroz Khan',
-    //     fatherImgSrc: 'assets/images/july2022/Feroz-Khan.jpg',
-    //     mother: 'Sundari',
-    //     motherImgSrc: 'assets/images/july2022/Fardeen-Khan-with-his-mother-and-sister-Laila.jpg'
-    //   },
+    {
+      id: 'ce355',
+      category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor'],
+      categoryId: ['Bollywood Actor/Actress, Model'],
+      name: `Fardeen Khan`,
+      otherName: `Fardin Khan, Fradeen Khan, Fradin khan`,
+      nickName: ``,
+      fullname: '',
+      height: `in feet inches - 5’ 8”`,
+      weight: '90 Kg',
+      gender: 'Male',
+      boyfriend: '',
+      profession: `Actor`,
+      professionId: ``,
+      eyeColor: 'Dark Brown',
+      hairColor: 'Black',
+      imgSrc: "assets/images/july2022/fardeen-khan.jpg",
+      politicalParty: "",
+      politicalPartyImgSrc: "",
+      dob: {
+        date: '8',
+        month: 'March',
+        year: '1974'
+      },
+      dod: {
+        date: '',
+        month: '',
+        year: ''
+      },
+      deathCause: ``,
+      placeOfDeath: ``,
+      birthPlace: `Mumbai, Maharashtra, India`,
+      nationality: 'Indian',
+      hometown: 'Mumbai, Maharashtra, India',
+      school: `Jamnabai Narsee School, Juhu, Mumbai, India`,
+      collegeUniversity: `University of Massachusetts Amherst, Amherst, Massachusetts, US`,
+      qualification: `Bachelor of Business Management`,
+      religion: 'Islam',
+      zodiacSign: 'Pisces',
+      bloodGroup: '',
+      foodHabit: '',
+      address: ``,
+      hobbies: `Travelling, Horse riding`,
+      debut: {
+        lyrical: "",
+        lyricalImgSrc: "",
+        punjabiFilm: ``,
+        punjabiFilmImgSrc: "",
+        bollywoodFilm: `Prem Aggan (1988)`,
+        bollywoodFilmImgSrc: "",
+        hollywoodFilm: ``,
+        hollywoodFilmImgSrc: "",
+        tollywoodFilm: ``,
+        tollywoodFilmImgSrc: "",
+        tamilFilm: '',
+        tamilFilmImgSrc: "",
+        kannadaFilm: '',
+        kannadaFilmImgSrc: "",
+        punjabiAlbum: '',
+        punjabiAlbumImgSrc: "",
+        hindiAlbum: '',
+        hindiAlbumImgSrc: "",
+        singles: ``,
+        singlesImgSrc: "",
+        musicDirection: "",
+        musicDirectionImgSrc: "",
+        filmDirection: "",
+        filmDirectionImgSrc: "",
+        tv: ``,
+        tvImgSrc: "",
+        webSeries: "",
+        webSeriesImgSrc: "",
+        production: "Dabangg (2010)",
+        productionImgSrc: "",
+        filmWriter: "",
+        filmWriterImgSrc: "",
+        lastSong: ``,
+        lastSongImgSrc: ``,
+        lastFilm: ``,
+        lastFilmImgSrc: ``
+      },
+      awards: [],
+      controversies: [],
+      maritalStatus: `Married`,
+      affairs: `Natasha Madhvani`,
+      affairsImgSrc: ``,
+      wifeOrHusband: `Natasha Madhvani`,
+      wifeOrHusbandImgSrc: `assets/images/july2022/Fradeen-Khan-Wife.jpg`,
+      fiance: '',
+      fianceImgSrc: '',
+      children: {
+        son: `Azarius Khan (born in 2017)`,
+        sonImgSrc: ``,
+        sonImgSrc1: '',
+        sonImgSrc2: '',
+        daughter: `Diani Isabella Khan (born in 2013)`,
+        daughterImgSrc: ''
+      },
+      parents: {
+        father: 'Feroz Khan',
+        fatherImgSrc: 'assets/images/july2022/Feroz-Khan.jpg',
+        mother: 'Sundari',
+        motherImgSrc: 'assets/images/july2022/Fardeen-Khan-with-his-mother-and-sister-Laila.jpg'
+      },
 
-    //   siblings: {
-    //     brother: 'None',
-    //     brotherImgSrc: '',
-    //     sister: `Laila Khan, Fathima, Sonia Sethia`,
-    //     sisterImgSrc: ''
-    //   },
-    //   favourites: {
-    //     food: `Cheese Pizza, Mushrooms`,
-    //     fruit: ``,
-    //     beverages: ``,
-    //     actor: `Rajesh Khanna`,
-    //     actress: `Rekha`,
-    //     singer: ``,
-    //     fashionBrand: ``,
-    //     colour: `Black, Red, White`,
-    //     destination: `London`,
-    //     sports: ``,
-    //     sportsman: ``,
-    //     dress: '',
-    //     song: ``,
-    //     film: ``,
-    //     director: ``
-    //   },
-    //   styleQoutient: {
-    //     carsCollection: "",
-    //     imgSrc: '',
-    //   },
-    //   // INR 6 to 7 crores+/movie (as in 2021)
-    //   moneyFactor: {
-    //     earning: `Not Known`,
-    //     netWorth: '$40 million (as in 2021)',
-    //     imgSrc: 'assets/images/july2022/fardeen-khan-net.jfif'
-    //   },
-    //   tattoos: [],
-    //   facts: {
-    //     smoke: 'Not Known',
-    //     alcoholic: 'Yes'
-    //   },
-    //   otherFacts: [
-    //     // {
-    //     //   fact: 'Instagram',
-    //     //   imgSrc: '',
-    //     //   imgCaption: '',
-    //     //   videoSrc: '',
-    //     //   instaLink: 'https://www.instagram.com/p/CdSixJfo4gj/embed/'
-    //     // },
-    //     {
-    //       fact: "Interview",
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: 'https://www.youtube.com/embed/IlzmMI2CkEc?feature=oembed'
-    //     },
-    //     {
-    //       fact: `Fardeen Khan is a Bollywood actor and son of renowned actor Feroz Khan.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `He started his acting career in 1988 from the movie &#8216;Prem Aggan&#8217;.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `He has appeared in Bollywood movies like &#8216;Pyaar Tune Kya Kiya&#8217;, &#8216;Love Ke Liye Kuch Bhi Karega&#8217;, &#8216;Om Jai Jagadish&#8217;, &#8216;Kitne Door Kitne Paas&#8217;, &#8216;Fida&#8217;, &#8216;Ek Khiladi Ek Haseena&#8217;, &#8216;Heyy Babyy&#8217;, etc but he did not act well in some of his films.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `His last movie was &#8216;Dulha Mil Gaya&#8217; in 2010.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `He is married to the veteran actress Mumtaz&#8217;s daughter namely Natasha Madhvani in 2005 and has one daughter and a son.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `After 2014, he gained his weight drastically.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //   ],
-    //   description: `Fardeen Khan (born 8 March 1974) is an Indian actor. He is the recipient of a Filmfare Award (1999) and is the son of the actor, director, and film producer Feroz Khan.`
-    // },
-    // {
-    //   id: 'ab356',
-    //   category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Politician'],
-    //   categoryId: ['Bollywood Actor/Actress, Model'],
-    //   name: `Raj Babbar`,
-    //   otherName: `Raj Babbar, Raj Babar, Raaj Babbar`,
-    //   nickName: ``,
-    //   fullname: '',
-    //   height: `in feet inches - 5’ 7”`,
-    //   weight: '78 Kg',
-    //   gender: 'Male',
-    //   boyfriend: '',
-    //   profession: `Actor, Politician`,
-    //   professionId: ``,
-    //   eyeColor: 'Black',
-    //   hairColor: 'Black',
-    //   imgSrc: "assets/images/july2022/raj-babbar.jpg",
-    //   politicalParty: "Samajwadi Party (Previously) (1989-2008), Indian National Congress (2008-Present)",
-    //   politicalPartyImgSrc: "assets/images/Indian-National-Congress.webp",
-    //   dob: {
-    //     date: '23',
-    //     month: 'June',
-    //     year: '1952'
-    //   },
-    //   dod: {
-    //     date: '',
-    //     month: '',
-    //     year: ''
-    //   },
-    //   deathCause: ``,
-    //   placeOfDeath: ``,
-    //   birthPlace: `Tundla, Uttar Pradesh`,
-    //   nationality: 'Indian',
-    //   hometown: 'Tundla, Uttar Pradesh',
-    //   school: `• Mufid E Aam Inter College, Agra <br />• Faiz-E-Aam Inter College, Agra`,
-    //   collegeUniversity: `• Agra College, Uttar Pradesh<br />• National School of Drama, Delhi`,
-    //   qualification: `• Graduation <br />• Training at the Method School of Acting`,
-    //   religion: 'Hinduism',
-    //   zodiacSign: 'Cancer',
-    //   bloodGroup: '',
-    //   foodHabit: '',
-    //   address: `• 20, Mahadev Road, New Delhi<br />• Nepathya, 20, Gulmohar Road, JVPD Scheme, Mumbai<br />• 94, Ellora Enclave, Dayal Bagh, Agra-282005, Uttar Pradesh`,
-    //   hobbies: ``,
-    //   debut: {
-    //     lyrical: "",
-    //     lyricalImgSrc: "",
-    //     punjabiFilm: `Chann Pardesi (1980) as Laali`,
-    //     punjabiFilmImgSrc: "assets/images/july2022/Raj-Babbar-Debut-Punjabi-Film-Chann-Pardesi.jpg",
-    //     bollywoodFilm: `Kissa Kursi Ka (1977) a supporting role`,
-    //     bollywoodFilmImgSrc: "assets/images/july2022/Kissa-Kursi-Ka.jpg",
-    //     hollywoodFilm: ``,
-    //     hollywoodFilmImgSrc: "",
-    //     tollywoodFilm: ``,
-    //     tollywoodFilmImgSrc: "",
-    //     tamilFilm: '',
-    //     tamilFilmImgSrc: "",
-    //     kannadaFilm: '',
-    //     kannadaFilmImgSrc: "",
-    //     punjabiAlbum: '',
-    //     punjabiAlbumImgSrc: "",
-    //     hindiAlbum: '',
-    //     hindiAlbumImgSrc: "",
-    //     singles: ``,
-    //     singlesImgSrc: "",
-    //     musicDirection: "",
-    //     musicDirectionImgSrc: "",
-    //     filmDirection: "",
-    //     filmDirectionImgSrc: "",
-    //     tv: `Mahabharat (1988) as Bharat`,
-    //     tvImgSrc: "",
-    //     webSeries: "",
-    //     webSeriesImgSrc: "",
-    //     production: "",
-    //     productionImgSrc: "",
-    //     filmWriter: "",
-    //     filmWriterImgSrc: "",
-    //     lastSong: ``,
-    //     lastSongImgSrc: ``,
-    //     lastFilm: ``,
-    //     lastFilmImgSrc: ``
-    //   },
-    //   awards: [],
-    //   controversies: [
-    //     {
-    //       title:``,
-    //       controversy:`In 2013, he attracted a controversy by saying that a common man can get a full meal in Rs. 12.`
-    //     },
-    //     {
-    //       title:``,
-    //       controversy:`In July 2013, he again attracted a controversy by comparing Narendra Modi to Adolf Hitler.`
-    //     },
-    //     {
-    //       title:``,
-    //       controversy:`In 2015, a criminal case was filed against him for his involvement in pelting stones at policemen during a protest of his former political party Samajwadi Party which was near Laxman Mela ground in Lucknow. Later, Raj along with other party members surrendered and was released on paying the charges of Rs. 50,000 each.`
-    //     },
-    //     {
-    //       title:``,
-    //       controversy:`On 7 July 2022, a court in Lucknow announced a two-year jail term for Congress leader Raj Babbar for assaulting a polling officer during an election in May 1996. The court also imposed a fine of Rs. 8,500 on him. At the time the complaint was lodged at the Wazirganj police station in Lucknow, he was contesting from the Samajwadi Party.`
-    //     },
-    //   ],
-    //   maritalStatus: `Married`,
-    //   affairs: `Smita Patil, Rekha`,
-    //   affairsImgSrc: ``,
-    //   wifeOrHusband: `Nadira Babbar(first wife), Smita Patil (2nd wife)`,
-    //   wifeOrHusbandImgSrc: `assets/images/july2022/Raj-Babbar-With-His-Ex-Wife-Smita-Patil.jpg`,
-    //   fiance: '',
-    //   fianceImgSrc: '',
-    //   children: {
-    //     son: `Arya Babbar (Actor, from Nadira Babbar) (Born on 24 May 1981), Prateik Babbar (Actor, from Smita Patil) (Born on 28 November 1986)`,
-    //     sonImgSrc: ``,
-    //     sonImgSrc1: '',
-    //     sonImgSrc2: '',
-    //     daughter: `Juhi Babbar (Actress, from Nadira Babbar) (Born on 20 July 1979)`,
-    //     daughterImgSrc: ''
-    //   },
-    //   parents: {
-    //     father: 'Late Kushal Kumar Babbar',
-    //     fatherImgSrc: '',
-    //     mother: 'Shobarani Babbar',
-    //     motherImgSrc: 'assets/images/july2022/Raj-Babbars-mother-and-brother.jpg'
-    //   },
+      siblings: {
+        brother: 'None',
+        brotherImgSrc: '',
+        sister: `Laila Khan, Fathima, Sonia Sethia`,
+        sisterImgSrc: ''
+      },
+      favourites: {
+        food: `Cheese Pizza, Mushrooms`,
+        fruit: ``,
+        beverages: ``,
+        actor: `Rajesh Khanna`,
+        actress: `Rekha`,
+        singer: ``,
+        fashionBrand: ``,
+        colour: `Black, Red, White`,
+        destination: `London`,
+        sports: ``,
+        sportsman: ``,
+        dress: '',
+        song: ``,
+        film: ``,
+        director: ``
+      },
+      styleQoutient: {
+        carsCollection: "",
+        imgSrc: '',
+      },
+      // INR 6 to 7 crores+/movie (as in 2021)
+      moneyFactor: {
+        earning: `Not Known`,
+        netWorth: '$40 million (as in 2021)',
+        imgSrc: 'assets/images/july2022/fardeen-khan-net.jfif'
+      },
+      tattoos: [],
+      facts: {
+        smoke: 'Not Known',
+        alcoholic: 'Yes'
+      },
+      otherFacts: [
+        // {
+        //   fact: 'Instagram',
+        //   imgSrc: '',
+        //   imgCaption: '',
+        //   videoSrc: '',
+        //   instaLink: 'https://www.instagram.com/p/CdSixJfo4gj/embed/'
+        // },
+        {
+          fact: "Interview",
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: 'https://www.youtube.com/embed/IlzmMI2CkEc?feature=oembed'
+        },
+        {
+          fact: `Fardeen Khan is a Bollywood actor and son of renowned actor Feroz Khan.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He started his acting career in 1988 from the movie &#8216;Prem Aggan&#8217;.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He has appeared in Bollywood movies like &#8216;Pyaar Tune Kya Kiya&#8217;, &#8216;Love Ke Liye Kuch Bhi Karega&#8217;, &#8216;Om Jai Jagadish&#8217;, &#8216;Kitne Door Kitne Paas&#8217;, &#8216;Fida&#8217;, &#8216;Ek Khiladi Ek Haseena&#8217;, &#8216;Heyy Babyy&#8217;, etc but he did not act well in some of his films.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `His last movie was &#8216;Dulha Mil Gaya&#8217; in 2010.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He is married to the veteran actress Mumtaz&#8217;s daughter namely Natasha Madhvani in 2005 and has one daughter and a son.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `After 2014, he gained his weight drastically.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+      ],
+      description: `Fardeen Khan (born 8 March 1974) is an Indian actor. He is the recipient of a Filmfare Award (1999) and is the son of the actor, director, and film producer Feroz Khan.`
+    },
+    {
+      id: 'ce356',
+      category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Politician'],
+      categoryId: ['Bollywood Actor/Actress, Model'],
+      name: `Raj Babbar`,
+      otherName: `Raj Babbar, Raj Babar, Raaj Babbar`,
+      nickName: ``,
+      fullname: '',
+      height: `in feet inches - 5’ 7”`,
+      weight: '78 Kg',
+      gender: 'Male',
+      boyfriend: '',
+      profession: `Actor, Politician`,
+      professionId: ``,
+      eyeColor: 'Black',
+      hairColor: 'Black',
+      imgSrc: "assets/images/july2022/raj-babbar.jpg",
+      politicalParty: "Samajwadi Party (Previously) (1989-2008), Indian National Congress (2008-Present)",
+      politicalPartyImgSrc: "assets/images/Indian-National-Congress.webp",
+      dob: {
+        date: '23',
+        month: 'June',
+        year: '1952'
+      },
+      dod: {
+        date: '',
+        month: '',
+        year: ''
+      },
+      deathCause: ``,
+      placeOfDeath: ``,
+      birthPlace: `Tundla, Uttar Pradesh`,
+      nationality: 'Indian',
+      hometown: 'Tundla, Uttar Pradesh',
+      school: `• Mufid E Aam Inter College, Agra <br />• Faiz-E-Aam Inter College, Agra`,
+      collegeUniversity: `• Agra College, Uttar Pradesh<br />• National School of Drama, Delhi`,
+      qualification: `• Graduation <br />• Training at the Method School of Acting`,
+      religion: 'Hinduism',
+      zodiacSign: 'Cancer',
+      bloodGroup: '',
+      foodHabit: '',
+      address: `• 20, Mahadev Road, New Delhi<br />• Nepathya, 20, Gulmohar Road, JVPD Scheme, Mumbai<br />• 94, Ellora Enclave, Dayal Bagh, Agra-282005, Uttar Pradesh`,
+      hobbies: ``,
+      debut: {
+        lyrical: "",
+        lyricalImgSrc: "",
+        punjabiFilm: `Chann Pardesi (1980) as Laali`,
+        punjabiFilmImgSrc: "assets/images/july2022/Raj-Babbar-Debut-Punjabi-Film-Chann-Pardesi.jpg",
+        bollywoodFilm: `Kissa Kursi Ka (1977) a supporting role`,
+        bollywoodFilmImgSrc: "assets/images/july2022/Kissa-Kursi-Ka.jpg",
+        hollywoodFilm: ``,
+        hollywoodFilmImgSrc: "",
+        tollywoodFilm: ``,
+        tollywoodFilmImgSrc: "",
+        tamilFilm: '',
+        tamilFilmImgSrc: "",
+        kannadaFilm: '',
+        kannadaFilmImgSrc: "",
+        punjabiAlbum: '',
+        punjabiAlbumImgSrc: "",
+        hindiAlbum: '',
+        hindiAlbumImgSrc: "",
+        singles: ``,
+        singlesImgSrc: "",
+        musicDirection: "",
+        musicDirectionImgSrc: "",
+        filmDirection: "",
+        filmDirectionImgSrc: "",
+        tv: `Mahabharat (1988) as Bharat`,
+        tvImgSrc: "",
+        webSeries: "",
+        webSeriesImgSrc: "",
+        production: "",
+        productionImgSrc: "",
+        filmWriter: "",
+        filmWriterImgSrc: "",
+        lastSong: ``,
+        lastSongImgSrc: ``,
+        lastFilm: ``,
+        lastFilmImgSrc: ``
+      },
+      awards: [],
+      controversies: [
+        {
+          title:``,
+          controversy:`In 2013, he attracted a controversy by saying that a common man can get a full meal in Rs. 12.`
+        },
+        {
+          title:``,
+          controversy:`In July 2013, he again attracted a controversy by comparing Narendra Modi to Adolf Hitler.`
+        },
+        {
+          title:``,
+          controversy:`In 2015, a criminal case was filed against him for his involvement in pelting stones at policemen during a protest of his former political party Samajwadi Party which was near Laxman Mela ground in Lucknow. Later, Raj along with other party members surrendered and was released on paying the charges of Rs. 50,000 each.`
+        },
+        {
+          title:``,
+          controversy:`On 7 July 2022, a court in Lucknow announced a two-year jail term for Congress leader Raj Babbar for assaulting a polling officer during an election in May 1996. The court also imposed a fine of Rs. 8,500 on him. At the time the complaint was lodged at the Wazirganj police station in Lucknow, he was contesting from the Samajwadi Party.`
+        },
+      ],
+      maritalStatus: `Married`,
+      affairs: `Smita Patil, Rekha`,
+      affairsImgSrc: ``,
+      wifeOrHusband: `Nadira Babbar(first wife), Smita Patil (2nd wife)`,
+      wifeOrHusbandImgSrc: `assets/images/july2022/Raj-Babbar-With-His-Ex-Wife-Smita-Patil.jpg`,
+      fiance: '',
+      fianceImgSrc: '',
+      children: {
+        son: `Arya Babbar (Actor, from Nadira Babbar) (Born on 24 May 1981), Prateik Babbar (Actor, from Smita Patil) (Born on 28 November 1986)`,
+        sonImgSrc: ``,
+        sonImgSrc1: '',
+        sonImgSrc2: '',
+        daughter: `Juhi Babbar (Actress, from Nadira Babbar) (Born on 20 July 1979)`,
+        daughterImgSrc: ''
+      },
+      parents: {
+        father: 'Late Kushal Kumar Babbar',
+        fatherImgSrc: '',
+        mother: 'Shobarani Babbar',
+        motherImgSrc: 'assets/images/july2022/Raj-Babbars-mother-and-brother.jpg'
+      },
 
-    //   siblings: {
-    //     brother: `• Kishan Babbar<br />• Late Vinod Babbar`,
-    //     brotherImgSrc: '',
-    //     sister: `• Shashi Verma<br />• Kiran Chandok<br />• Suman Malhotra<br />• Anju Sahdev`,
-    //     sisterImgSrc: ''
-    //   },
-    //   favourites: {
-    //     food: `N/A`,
-    //     fruit: ``,
-    //     beverages: ``,
-    //     actor: `Dilip Kumar`,
-    //     actress: `Not Known`,
-    //     singer: ``,
-    //     fashionBrand: ``,
-    //     colour: ``,
-    //     destination: ``,
-    //     sports: ``,
-    //     sportsman: ``,
-    //     dress: '',
-    //     song: ``,
-    //     film: ``,
-    //     director: ``
-    //   },
-    //   styleQoutient: {
-    //     carsCollection: "",
-    //     imgSrc: '',
-    //   },
-    //   // INR 6 to 7 crores+/movie (as in 2021)
-    //   moneyFactor: {
-    //     earning: `Not Known`,
-    //     netWorth: '$95 Million (as in 2021)',
-    //     imgSrc: 'assets/images/july2022/raj-babbar-net.jfif'
-    //   },
-    //   tattoos: [],
-    //   facts: {
-    //     smoke: 'Not Known',
-    //     alcoholic: 'Not Known'
-    //   },
-    //   otherFacts: [
-    //     {
-    //       fact: 'Instagram',
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: '',
-    //       instaLink: 'https://www.instagram.com/p/CftHqGWpOpN/embed/'
-    //     },
-    //     {
-    //       fact: "Interview",
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: 'https://www.youtube.com/embed/tsT6oNNqvSg?feature=oembed'
-    //     },
-    //     {
-    //       fact: `Raj Babbar is a well-known Indian actor and politician.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `After attending the National School of Drama in New Delhi, he moved to Mumbai to pursue his acting aspirations`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `He rose to the fame after his portrayal of a rapist in the Hindi film &#8216;Insaaf Ka Taraazu&#8217; (1980).`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `He has acted in many Hindi films like ‘Sau Din Saas Ke’ (1982), ‘Insaaf Ka Tarazu’ (1980), ‘Kalyug’ (1981), ‘Nikaah’ (1981), ‘Sansar’ (1987), and ‘Bodyguard’ (2011).`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `He moved to Nadira’s parents’ house after getting married to her in 1975, due to lack of finances.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `When he asked his parents for his second marriage with Smita Patil, they gave him the option to either opt Smita or the house, and he opted Smita. After Smita’s death, he returned to his first wife.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `Raj Babbar has acted in the Hindi TV serials like ‘Bahadur Shah Zafar’ (1986) as Akbar, ‘Mahabharat’ (1988) as Bharata, ‘Maharaja Ranjit Singh’ (2010) as a narrator, and ‘Pukaar- Call For The Hero’ (2014) as Amarjeet Shergill. He acted in the Bengali film ‘Anutap’ in 1992.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `He appeared in the Punjabi films like ‘Aasra Pyar Da’ (1983), ‘Mahaul Theek Hai’ (1999), ‘Shaheed Uddham Singh’ (2000), ‘Yaaran Naal Baharan’ (2005), ‘Ek Jind Ek Jaan’ (2006), ‘Apni Boli Apna Des’ (2009), and ‘Tera Mera Ki Rishta’ (2009).`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `He has founded a film production company Babbar Films Pvt. Ltd. along with his brother Kishan.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `Once one of his friends Arun Khanna had a stroke in Mumbai, and Raj Babbar paid his medical bills, because Arun’s financial condition was not good at that time.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //   ],
-    //   description: `Raj Babbar (born 23 June 1952) is an Indian Hindi and Punjabi film actor and politician belonging to Indian National Congress. three-time member of the Lok Sabha and a two-time member of the Upper House of the Indian Parliament. He was the President of Uttar Pradesh Congress Committee.`
-    // },
-    // {
-    //   id: 'ab357',
-    //   category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor'],
-    //   categoryId: ['Bollywood Actor/Actress, Model'],
-    //   name: `Mukesh Rishi`,
-    //   otherName: `Mukesh Reshi, Mukesh Reeshi`,
-    //   nickName: ``,
-    //   fullname: `Mukesh Singh Rishi`,
-    //   height: `in feet inches - 6’ 1”`,
-    //   weight: '90 Kg',
-    //   gender: 'Male',
-    //   boyfriend: '',
-    //   profession: `Actor`,
-    //   professionId: ``,
-    //   eyeColor: 'Black',
-    //   hairColor: 'Black',
-    //   imgSrc: "assets/images/july2022/mukesh-rishi.jpg",
-    //   politicalParty: "",
-    //   politicalPartyImgSrc: "",
-    //   dob: {
-    //     date: '9',
-    //     month: 'April',
-    //     year: '1956'
-    //   },
-    //   dod: {
-    //     date: '',
-    //     month: '',
-    //     year: ''
-    //   },
-    //   deathCause: ``,
-    //   placeOfDeath: ``,
-    //   birthPlace: `Kathua, Jammu and Kashmir, India`,
-    //   nationality: 'Indian',
-    //   hometown: 'Kathua, Jammu and Kashmir, India',
-    //   school: `Not Known`,
-    //   collegeUniversity: `Not Known (Chandigarh)`,
-    //   qualification: `Graduation`,
-    //   religion: 'Hinduism',
-    //   zodiacSign: 'Aries',
-    //   bloodGroup: '',
-    //   foodHabit: '',
-    //   address: `Mumbai, India`,
-    //   hobbies: `Travelling, Gun Shooting`,
-    //   debut: {
-    //     lyrical: "",
-    //     lyricalImgSrc: "",
-    //     punjabiFilm: ``,
-    //     punjabiFilmImgSrc: "",
-    //     bollywoodFilm: ``,
-    //     bollywoodFilmImgSrc: "",
-    //     hollywoodFilm: ``,
-    //     hollywoodFilmImgSrc: "",
-    //     tollywoodFilm: ``,
-    //     tollywoodFilmImgSrc: "",
-    //     tamilFilm: '',
-    //     tamilFilmImgSrc: "",
-    //     kannadaFilm: '',
-    //     kannadaFilmImgSrc: "",
-    //     punjabiAlbum: '',
-    //     punjabiAlbumImgSrc: "",
-    //     hindiAlbum: '',
-    //     hindiAlbumImgSrc: "",
-    //     singles: ``,
-    //     singlesImgSrc: "",
-    //     musicDirection: "",
-    //     musicDirectionImgSrc: "",
-    //     filmDirection: "",
-    //     filmDirectionImgSrc: "",
-    //     tv: `The Sword of Tipu Sultan (1990)`,
-    //     tvImgSrc: "",
-    //     webSeries: "",
-    //     webSeriesImgSrc: "",
-    //     production: "",
-    //     productionImgSrc: "",
-    //     filmWriter: "",
-    //     filmWriterImgSrc: "",
-    //     lastSong: ``,
-    //     lastSongImgSrc: ``,
-    //     lastFilm: ``,
-    //     lastFilmImgSrc: ``
-    //   },
-    //   awards: [],
-    //   controversies: [],
-    //   maritalStatus: `Married`,
-    //   affairs: ``,
-    //   affairsImgSrc: ``,
-    //   wifeOrHusband: `Keshni Rishi`,
-    //   wifeOrHusbandImgSrc: `assets/images/july2022/Mukesh-Rishi-wife.jpg`,
-    //   fiance: '',
-    //   fianceImgSrc: '',
-    //   children: {
-    //     son: `Raghav Rishi (Actor)`,
-    //     sonImgSrc: ``,
-    //     sonImgSrc1: '',
-    //     sonImgSrc2: '',
-    //     daughter: `Not Known`,
-    //     daughterImgSrc: ''
-    //   },
-    //   parents: {
-    //     father: 'Not Known',
-    //     fatherImgSrc: '',
-    //     mother: 'Not Known',
-    //     motherImgSrc: ''
-    //   },
+      siblings: {
+        brother: `• Kishan Babbar<br />• Late Vinod Babbar`,
+        brotherImgSrc: '',
+        sister: `• Shashi Verma<br />• Kiran Chandok<br />• Suman Malhotra<br />• Anju Sahdev`,
+        sisterImgSrc: ''
+      },
+      favourites: {
+        food: `N/A`,
+        fruit: ``,
+        beverages: ``,
+        actor: `Dilip Kumar`,
+        actress: `Not Known`,
+        singer: ``,
+        fashionBrand: ``,
+        colour: ``,
+        destination: ``,
+        sports: ``,
+        sportsman: ``,
+        dress: '',
+        song: ``,
+        film: ``,
+        director: ``
+      },
+      styleQoutient: {
+        carsCollection: "",
+        imgSrc: '',
+      },
+      // INR 6 to 7 crores+/movie (as in 2021)
+      moneyFactor: {
+        earning: `Not Known`,
+        netWorth: '$95 Million (as in 2021)',
+        imgSrc: 'assets/images/july2022/raj-babbar-net.jfif'
+      },
+      tattoos: [],
+      facts: {
+        smoke: 'Not Known',
+        alcoholic: 'Not Known'
+      },
+      otherFacts: [
+        {
+          fact: 'Instagram',
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: '',
+          instaLink: 'https://www.instagram.com/p/CftHqGWpOpN/embed/'
+        },
+        {
+          fact: "Interview",
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: 'https://www.youtube.com/embed/tsT6oNNqvSg?feature=oembed'
+        },
+        {
+          fact: `Raj Babbar is a well-known Indian actor and politician.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `After attending the National School of Drama in New Delhi, he moved to Mumbai to pursue his acting aspirations`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He rose to the fame after his portrayal of a rapist in the Hindi film &#8216;Insaaf Ka Taraazu&#8217; (1980).`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He has acted in many Hindi films like ‘Sau Din Saas Ke’ (1982), ‘Insaaf Ka Tarazu’ (1980), ‘Kalyug’ (1981), ‘Nikaah’ (1981), ‘Sansar’ (1987), and ‘Bodyguard’ (2011).`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He moved to Nadira’s parents’ house after getting married to her in 1975, due to lack of finances.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `When he asked his parents for his second marriage with Smita Patil, they gave him the option to either opt Smita or the house, and he opted Smita. After Smita’s death, he returned to his first wife.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `Raj Babbar has acted in the Hindi TV serials like ‘Bahadur Shah Zafar’ (1986) as Akbar, ‘Mahabharat’ (1988) as Bharata, ‘Maharaja Ranjit Singh’ (2010) as a narrator, and ‘Pukaar- Call For The Hero’ (2014) as Amarjeet Shergill. He acted in the Bengali film ‘Anutap’ in 1992.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He appeared in the Punjabi films like ‘Aasra Pyar Da’ (1983), ‘Mahaul Theek Hai’ (1999), ‘Shaheed Uddham Singh’ (2000), ‘Yaaran Naal Baharan’ (2005), ‘Ek Jind Ek Jaan’ (2006), ‘Apni Boli Apna Des’ (2009), and ‘Tera Mera Ki Rishta’ (2009).`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He has founded a film production company Babbar Films Pvt. Ltd. along with his brother Kishan.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `Once one of his friends Arun Khanna had a stroke in Mumbai, and Raj Babbar paid his medical bills, because Arun’s financial condition was not good at that time.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+      ],
+      description: `Raj Babbar (born 23 June 1952) is an Indian Hindi and Punjabi film actor and politician belonging to Indian National Congress. three-time member of the Lok Sabha and a two-time member of the Upper House of the Indian Parliament. He was the President of Uttar Pradesh Congress Committee.`
+    },
+    {
+      id: 'ce357',
+      category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor'],
+      categoryId: ['Bollywood Actor/Actress, Model'],
+      name: `Mukesh Rishi`,
+      otherName: `Mukesh Reshi, Mukesh Reeshi`,
+      nickName: ``,
+      fullname: `Mukesh Singh Rishi`,
+      height: `in feet inches - 6’ 1”`,
+      weight: '90 Kg',
+      gender: 'Male',
+      boyfriend: '',
+      profession: `Actor`,
+      professionId: ``,
+      eyeColor: 'Black',
+      hairColor: 'Black',
+      imgSrc: "assets/images/july2022/mukesh-rishi.jpg",
+      politicalParty: "",
+      politicalPartyImgSrc: "",
+      dob: {
+        date: '9',
+        month: 'April',
+        year: '1956'
+      },
+      dod: {
+        date: '',
+        month: '',
+        year: ''
+      },
+      deathCause: ``,
+      placeOfDeath: ``,
+      birthPlace: `Kathua, Jammu and Kashmir, India`,
+      nationality: 'Indian',
+      hometown: 'Kathua, Jammu and Kashmir, India',
+      school: `Not Known`,
+      collegeUniversity: `Not Known (Chandigarh)`,
+      qualification: `Graduation`,
+      religion: 'Hinduism',
+      zodiacSign: 'Aries',
+      bloodGroup: '',
+      foodHabit: '',
+      address: `Mumbai, India`,
+      hobbies: `Travelling, Gun Shooting`,
+      debut: {
+        lyrical: "",
+        lyricalImgSrc: "",
+        punjabiFilm: ``,
+        punjabiFilmImgSrc: "",
+        bollywoodFilm: ``,
+        bollywoodFilmImgSrc: "",
+        hollywoodFilm: ``,
+        hollywoodFilmImgSrc: "",
+        tollywoodFilm: ``,
+        tollywoodFilmImgSrc: "",
+        tamilFilm: '',
+        tamilFilmImgSrc: "",
+        kannadaFilm: '',
+        kannadaFilmImgSrc: "",
+        punjabiAlbum: '',
+        punjabiAlbumImgSrc: "",
+        hindiAlbum: '',
+        hindiAlbumImgSrc: "",
+        singles: ``,
+        singlesImgSrc: "",
+        musicDirection: "",
+        musicDirectionImgSrc: "",
+        filmDirection: "",
+        filmDirectionImgSrc: "",
+        tv: `The Sword of Tipu Sultan (1990)`,
+        tvImgSrc: "",
+        webSeries: "",
+        webSeriesImgSrc: "",
+        production: "",
+        productionImgSrc: "",
+        filmWriter: "",
+        filmWriterImgSrc: "",
+        lastSong: ``,
+        lastSongImgSrc: ``,
+        lastFilm: ``,
+        lastFilmImgSrc: ``
+      },
+      awards: [],
+      controversies: [],
+      maritalStatus: `Married`,
+      affairs: ``,
+      affairsImgSrc: ``,
+      wifeOrHusband: `Keshni Rishi`,
+      wifeOrHusbandImgSrc: `assets/images/july2022/Mukesh-Rishi-wife.jpg`,
+      fiance: '',
+      fianceImgSrc: '',
+      children: {
+        son: `Raghav Rishi (Actor)`,
+        sonImgSrc: ``,
+        sonImgSrc1: '',
+        sonImgSrc2: '',
+        daughter: `Not Known`,
+        daughterImgSrc: ''
+      },
+      parents: {
+        father: 'Not Known',
+        fatherImgSrc: '',
+        mother: 'Not Known',
+        motherImgSrc: ''
+      },
 
-    //   siblings: {
-    //     brother: `Not Known`,
-    //     brotherImgSrc: '',
-    //     sister: `Not Known`,
-    //     sisterImgSrc: ''
-    //   },
-    //   favourites: {
-    //     food: `Indian Food`,
-    //     fruit: ``,
-    //     beverages: ``,
-    //     actor: `<a href="https://www.newsfarmers.com/akshay-kumar" class="celebrity" rel="noopener" target="_blank">Akshay Kumar</a>, <a href="https://www.newsfarmers.com/amitabh-bachchan" class="celebrity" rel="noopener" target="_blank">Amitabh Bachchan</a>`,
-    //     actress: `<a href="https://www.newsfarmers.com/twinkle-khanna" class="celebrity" rel="noopener" target="_blank">Twinkle Khanna</a>, <a href="https://www.newsfarmers.com/kajol" class="celebrity" rel="noopener" target="_blank">Kajol</a>`,
-    //     singer: `Lata Mangeshkar</a>, <a href="https://www.newsfarmers.com/gurdas-maan" rel="noopener" target="_blank" class="celebrity">Gurdas Maan</a>`,
-    //     fashionBrand: ``,
-    //     colour: `Black, Grey, Blue`,
-    //     destination: `London`,
-    //     sports: ``,
-    //     sportsman: ``,
-    //     dress: '',
-    //     song: ``,
-    //     film: ``,
-    //     director: ``
-    //   },
-    //   styleQoutient: {
-    //     carsCollection: "",
-    //     imgSrc: '',
-    //   },
-    //   // INR 6 to 7 crores+/movie (as in 2021)
-    //   moneyFactor: {
-    //     earning: `Not Known`,
-    //     netWorth: 'Not Known',
-    //     imgSrc: 'assets/images/july2022/mukesh-rishi-net.jpg'
-    //   },
-    //   tattoos: [],
-    //   facts: {
-    //     smoke: 'Not Known',
-    //     alcoholic: 'Yes'
-    //   },
-    //   otherFacts: [
-    //     // {
-    //     //   fact: 'Instagram',
-    //     //   imgSrc: '',
-    //     //   imgCaption: '',
-    //     //   videoSrc: '',
-    //     //   instaLink: 'https://www.instagram.com/p/CftHqGWpOpN/embed/'
-    //     // },
-    //     {
-    //       fact: "Interview",
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: 'https://www.youtube.com/embed/My3CSiCYqm4?feature=oembed'
-    //     },
-    //     {
-    //       fact: `Mukesh Rishi is an actor who was born in Jammu and Kashmir.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `After completing his graduation, he worked for 2 years in the stone-crushing business in Mumbai and went to work in Fiji where he met his wife`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `After marriage, he shifted to New Zealand and after 7 years of efforts in modelling, he was not happy and decided to come back to India and joined &#8216;Roshan Taneja’s&#8217; acting school.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `He got his first break in 1988 in Tollywood.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `He workes in Telugu, Hindi, Odia, Bhojpuri, Malayalam, Punjabi and Tamil language movies.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `He is best known for his negative roles in movies.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `He appeared in the popular movies like &#8216;Khiladi 786&#8217;, &#8216;Krazzy 4&#8217;, &#8216;Run&#8217;, &#8216;Sarfarosh&#8217;, &#8216;Hamara Dil Aapke Paas Hai &#8216;, &#8216;Sooryavansham, &#8216;Judwaa&#8217;, &#8216;Ghayal&#8217; etc.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //   ],
-    //   description: `Mukesh Rishi (born 19 April 1956) is an Indian actor and film producer who works primarily in Hindi and Telugu films. He has also appeared in Malayalam, Kannada, Punjabi, Marathi and Tamil films. He got his first break in Hindi in 1988 and has since, established himself as a leading character actor.`
-    // },
-    // {
-    //   id: 'ab358',
-    //   category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Comedian'],
-    //   categoryId: ['Bollywood Actor/Actress, Model'],
-    //   name: `Johny Lever`,
-    //   otherName: `Jony Lever, Johni Lever, Joni Lever, Johny Liver`,
-    //   nickName: ``,
-    //   fullname: `John Rao Prakash Rao Janumala`,
-    //   height: `in feet inches - 5’ 5”`,
-    //   weight: '70 Kg',
-    //   gender: 'Male',
-    //   boyfriend: '',
-    //   profession: `Actor, Comedian`,
-    //   professionId: ``,
-    //   eyeColor: 'Black',
-    //   hairColor: 'Black',
-    //   imgSrc: "assets/images/july2022/johny-lever.jpg",
-    //   politicalParty: "",
-    //   politicalPartyImgSrc: "",
-    //   dob: {
-    //     date: '14',
-    //     month: 'August',
-    //     year: '1957'
-    //   },
-    //   dod: {
-    //     date: '',
-    //     month: '',
-    //     year: ''
-    //   },
-    //   deathCause: ``,
-    //   placeOfDeath: ``,
-    //   birthPlace: `Kanigiri, Andhra Pradesh, India`,
-    //   nationality: 'Indian',
-    //   hometown: 'Prakasam, Andhra Pradesh, India (Presently lives in Mumbai, India)',
-    //   school: `Andhra Education Society English High School`,
-    //   collegeUniversity: `N/A`,
-    //   qualification: `7th Standard`,
-    //   religion: 'Christianity',
-    //   zodiacSign: 'Leo',
-    //   bloodGroup: '',
-    //   foodHabit: '',
-    //   address: `151/152 Oxford Tower, Yamuna Nagar Lokhandwala, Andheri West, Mumbai`,
-    //   hobbies: `Doing Charity, Doing Mimicry, Listening to Music, Watching Films`,
-    //   debut: {
-    //     lyrical: "",
-    //     lyricalImgSrc: "",
-    //     punjabiFilm: ``,
-    //     punjabiFilmImgSrc: "",
-    //     bollywoodFilm: `Tum Par Hum Qurban (1985)`,
-    //     bollywoodFilmImgSrc: "",
-    //     hollywoodFilm: ``,
-    //     hollywoodFilmImgSrc: "",
-    //     tollywoodFilm: `Criminal (1995)`,
-    //     tollywoodFilmImgSrc: "",
-    //     tamilFilm: 'Anbirkku Alavillai (2011)',
-    //     tamilFilmImgSrc: "",
-    //     kannadaFilm: '',
-    //     kannadaFilmImgSrc: "",
-    //     punjabiAlbum: '',
-    //     punjabiAlbumImgSrc: "",
-    //     hindiAlbum: '',
-    //     hindiAlbumImgSrc: "",
-    //     singles: ``,
-    //     singlesImgSrc: "",
-    //     musicDirection: "",
-    //     musicDirectionImgSrc: "",
-    //     filmDirection: "",
-    //     filmDirectionImgSrc: "",
-    //     tv: `Johny Aala Re (in 2007 on ZEE TV)`,
-    //     tvImgSrc: "",
-    //     webSeries: "",
-    //     webSeriesImgSrc: "",
-    //     production: "",
-    //     productionImgSrc: "",
-    //     filmWriter: "",
-    //     filmWriterImgSrc: "",
-    //     lastSong: ``,
-    //     lastSongImgSrc: ``,
-    //     lastFilm: ``,
-    //     lastFilmImgSrc: ``
-    //   },
-    //   awards: [],
-    //   controversies: [],
-    //   maritalStatus: `Married`,
-    //   affairs: ``,
-    //   affairsImgSrc: ``,
-    //   wifeOrHusband: `Sujatha Johnrao Janumala`,
-    //   wifeOrHusbandImgSrc: `assets/images/july2022/Johny-Lever-with-his-wife.jpg`,
-    //   fiance: '',
-    //   fianceImgSrc: '',
-    //   children: {
-    //     son: `Jesse Johnrao Janumala`,
-    //     sonImgSrc: `assets/images/july2022/Johny-Lever-with-his-son.jpg`,
-    //     sonImgSrc1: '',
-    //     sonImgSrc2: '',
-    //     daughter: `Jamie Janumala aka Jamie Lever (Comedian, Actor, Singer)`,
-    //     daughterImgSrc: 'assets/images/july2022/Johny-Lever-with-his-daughter.jpg'
-    //   },
-    //   parents: {
-    //     father: 'Prakash Rao Janumala (an operator in Hindustan Lever Ltd)',
-    //     fatherImgSrc: '',
-    //     mother: 'Karunamma Janumala',
-    //     motherImgSrc: ''
-    //   },
+      siblings: {
+        brother: `Not Known`,
+        brotherImgSrc: '',
+        sister: `Not Known`,
+        sisterImgSrc: ''
+      },
+      favourites: {
+        food: `Indian Food`,
+        fruit: ``,
+        beverages: ``,
+        actor: `<a href="https://www.newsfarmers.com/akshay-kumar" class="celebrity" rel="noopener" target="_blank">Akshay Kumar</a>, <a href="https://www.newsfarmers.com/amitabh-bachchan" class="celebrity" rel="noopener" target="_blank">Amitabh Bachchan</a>`,
+        actress: `<a href="https://www.newsfarmers.com/twinkle-khanna" class="celebrity" rel="noopener" target="_blank">Twinkle Khanna</a>, <a href="https://www.newsfarmers.com/kajol" class="celebrity" rel="noopener" target="_blank">Kajol</a>`,
+        singer: `Lata Mangeshkar</a>, <a href="https://www.newsfarmers.com/gurdas-maan" rel="noopener" target="_blank" class="celebrity">Gurdas Maan</a>`,
+        fashionBrand: ``,
+        colour: `Black, Grey, Blue`,
+        destination: `London`,
+        sports: ``,
+        sportsman: ``,
+        dress: '',
+        song: ``,
+        film: ``,
+        director: ``
+      },
+      styleQoutient: {
+        carsCollection: "",
+        imgSrc: '',
+      },
+      // INR 6 to 7 crores+/movie (as in 2021)
+      moneyFactor: {
+        earning: `Not Known`,
+        netWorth: 'Not Known',
+        imgSrc: 'assets/images/july2022/mukesh-rishi-net.jpg'
+      },
+      tattoos: [],
+      facts: {
+        smoke: 'Not Known',
+        alcoholic: 'Yes'
+      },
+      otherFacts: [
+        // {
+        //   fact: 'Instagram',
+        //   imgSrc: '',
+        //   imgCaption: '',
+        //   videoSrc: '',
+        //   instaLink: 'https://www.instagram.com/p/CftHqGWpOpN/embed/'
+        // },
+        {
+          fact: "Interview",
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: 'https://www.youtube.com/embed/My3CSiCYqm4?feature=oembed'
+        },
+        {
+          fact: `Mukesh Rishi is an actor who was born in Jammu and Kashmir.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `After completing his graduation, he worked for 2 years in the stone-crushing business in Mumbai and went to work in Fiji where he met his wife`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `After marriage, he shifted to New Zealand and after 7 years of efforts in modelling, he was not happy and decided to come back to India and joined &#8216;Roshan Taneja’s&#8217; acting school.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He got his first break in 1988 in Tollywood.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He workes in Telugu, Hindi, Odia, Bhojpuri, Malayalam, Punjabi and Tamil language movies.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He is best known for his negative roles in movies.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He appeared in the popular movies like &#8216;Khiladi 786&#8217;, &#8216;Krazzy 4&#8217;, &#8216;Run&#8217;, &#8216;Sarfarosh&#8217;, &#8216;Hamara Dil Aapke Paas Hai &#8216;, &#8216;Sooryavansham, &#8216;Judwaa&#8217;, &#8216;Ghayal&#8217; etc.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+      ],
+      description: `Mukesh Rishi (born 19 April 1956) is an Indian actor and film producer who works primarily in Hindi and Telugu films. He has also appeared in Malayalam, Kannada, Punjabi, Marathi and Tamil films. He got his first break in Hindi in 1988 and has since, established himself as a leading character actor.`
+    },
+    {
+      id: 'ce358',
+      category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Comedian'],
+      categoryId: ['Bollywood Actor/Actress, Model'],
+      name: `Johny Lever`,
+      otherName: `Jony Lever, Johni Lever, Joni Lever, Johny Liver`,
+      nickName: ``,
+      fullname: `John Rao Prakash Rao Janumala`,
+      height: `in feet inches - 5’ 5”`,
+      weight: '70 Kg',
+      gender: 'Male',
+      boyfriend: '',
+      profession: `Actor, Comedian`,
+      professionId: ``,
+      eyeColor: 'Black',
+      hairColor: 'Black',
+      imgSrc: "assets/images/july2022/johny-lever.jpg",
+      politicalParty: "",
+      politicalPartyImgSrc: "",
+      dob: {
+        date: '14',
+        month: 'August',
+        year: '1957'
+      },
+      dod: {
+        date: '',
+        month: '',
+        year: ''
+      },
+      deathCause: ``,
+      placeOfDeath: ``,
+      birthPlace: `Kanigiri, Andhra Pradesh, India`,
+      nationality: 'Indian',
+      hometown: 'Prakasam, Andhra Pradesh, India (Presently lives in Mumbai, India)',
+      school: `Andhra Education Society English High School`,
+      collegeUniversity: `N/A`,
+      qualification: `7th Standard`,
+      religion: 'Christianity',
+      zodiacSign: 'Leo',
+      bloodGroup: '',
+      foodHabit: '',
+      address: `151/152 Oxford Tower, Yamuna Nagar Lokhandwala, Andheri West, Mumbai`,
+      hobbies: `Doing Charity, Doing Mimicry, Listening to Music, Watching Films`,
+      debut: {
+        lyrical: "",
+        lyricalImgSrc: "",
+        punjabiFilm: ``,
+        punjabiFilmImgSrc: "",
+        bollywoodFilm: `Tum Par Hum Qurban (1985)`,
+        bollywoodFilmImgSrc: "",
+        hollywoodFilm: ``,
+        hollywoodFilmImgSrc: "",
+        tollywoodFilm: `Criminal (1995)`,
+        tollywoodFilmImgSrc: "",
+        tamilFilm: 'Anbirkku Alavillai (2011)',
+        tamilFilmImgSrc: "",
+        kannadaFilm: '',
+        kannadaFilmImgSrc: "",
+        punjabiAlbum: '',
+        punjabiAlbumImgSrc: "",
+        hindiAlbum: '',
+        hindiAlbumImgSrc: "",
+        singles: ``,
+        singlesImgSrc: "",
+        musicDirection: "",
+        musicDirectionImgSrc: "",
+        filmDirection: "",
+        filmDirectionImgSrc: "",
+        tv: `Johny Aala Re (in 2007 on ZEE TV)`,
+        tvImgSrc: "",
+        webSeries: "",
+        webSeriesImgSrc: "",
+        production: "",
+        productionImgSrc: "",
+        filmWriter: "",
+        filmWriterImgSrc: "",
+        lastSong: ``,
+        lastSongImgSrc: ``,
+        lastFilm: ``,
+        lastFilmImgSrc: ``
+      },
+      awards: [],
+      controversies: [],
+      maritalStatus: `Married`,
+      affairs: ``,
+      affairsImgSrc: ``,
+      wifeOrHusband: `Sujatha Johnrao Janumala`,
+      wifeOrHusbandImgSrc: `assets/images/july2022/Johny-Lever-with-his-wife.jpg`,
+      fiance: '',
+      fianceImgSrc: '',
+      children: {
+        son: `Jesse Johnrao Janumala`,
+        sonImgSrc: `assets/images/july2022/Johny-Lever-with-his-son.jpg`,
+        sonImgSrc1: '',
+        sonImgSrc2: '',
+        daughter: `Jamie Janumala aka Jamie Lever (Comedian, Actor, Singer)`,
+        daughterImgSrc: 'assets/images/july2022/Johny-Lever-with-his-daughter.jpg'
+      },
+      parents: {
+        father: 'Prakash Rao Janumala (an operator in Hindustan Lever Ltd)',
+        fatherImgSrc: '',
+        mother: 'Karunamma Janumala',
+        motherImgSrc: ''
+      },
 
-    //   siblings: {
-    //     brother: `Jimmy Moses (actor, playback singer, stand-up comedian &amp; mimicry artist) &amp; 1 more (both younger)`,
-    //     brotherImgSrc: '',
-    //     sister: `3 (all younger)`,
-    //     sisterImgSrc: ''
-    //   },
-    //   favourites: {
-    //     food: ``,
-    //     fruit: ``,
-    //     beverages: ``,
-    //     actor: ``,
-    //     actress: ``,
-    //     singer: ``,
-    //     fashionBrand: ``,
-    //     colour: ``,
-    //     destination: ``,
-    //     sports: ``,
-    //     sportsman: ``,
-    //     dress: '',
-    //     song: ``,
-    //     film: ``,
-    //     director: ``
-    //   },
-    //   styleQoutient: {
-    //     carsCollection: "Audi Q7",
-    //     imgSrc: 'assets/images/july2022/Johny-Lever-with-his-Audi-car.jpg',
-    //   },
-    //   // INR 6 to 7 crores+/movie (as in 2021)
-    //   moneyFactor: {
-    //     earning: `Not Known`,
-    //     netWorth: '$30 Million (as in 2021)',
-    //     imgSrc: 'assets/images/july2022/johny-lever-net.jpg'
-    //   },
-    //   tattoos: [],
-    //   facts: {
-    //     smoke: 'No (Quit in 2002)',
-    //     alcoholic: 'No (Quit in 2002)'
-    //   },
-    //   otherFacts: [
-    //     {
-    //       fact: 'Instagram',
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: '',
-    //       instaLink: 'https://www.instagram.com/p/CeYEEZ-IOOz/embed/'
-    //     },
-    //     {
-    //       fact: "Interview",
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: 'https://www.youtube.com/embed/T-0eRhxd-3Y?feature=oembed'
-    //     },
-    //     {
-    //       fact: `He was born in a Telugu Christian family.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `His father was an operator in Hindustan Lever Ltd.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `He was brought up in Dharavi (Mumbai&#8217;s King&#8217;s Circle area).`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `Due to adverse financial conditions, he couldn&#8217;t study further after 7th grade and started doing odd jobs, like selling pens on the streets of Bombay (now Mumbai) by doing mimicry of Bollywood stars.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `He learned the unique style of comedy in Yakutpura (an old city of Hyderabad).`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `Once, he mimicked a few senior officers during a function at the Hindustan Lever Ltd company, and from that day on, he was named Johnny Lever.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `He started performing stand-up comedy in orchestras and joined the group of Kalyanji-Anandji.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `He also worked at Hindustan Lever Ltd. However, he quit the company in 1981, since he was earning well from stage performances.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `He did world tours along with Kalyanji-Anandji.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `He also did a commercial for <em>Kachua Chhap</em>, directed by Shekhar Kapoor.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `He became famous after his performance in the 1993 Bollywood film- <em>Baazigar</em>.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `He also worked in a Tulu film- Rang in 2014.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //     {
-    //       fact: `So far, he has acted in more than 350 films.`,
-    //       imgSrc: '',
-    //       imgCaption: '',
-    //       videoSrc: ''
-    //     },
-    //   ],
-    //   description: `Johnny Lever (born John Prakash Rao Janumala; 14 August 1957) is an Indian actor and comedian who is known for his works in Hindi cinema. He is one of the first stand-up comedians in India. He is the recipient of numerous accolades, including thirteen Filmfare Awards nominations in Filmfare Award for Best Performance in a Comic Role, and has won the award twice, for his work in Deewana Mastana (1997) and Dulhe Raja (1998). He began his career in 1984, and has acted in more than three hundred Hindi films.`
-    // },
+      siblings: {
+        brother: `Jimmy Moses (actor, playback singer, stand-up comedian &amp; mimicry artist) &amp; 1 more (both younger)`,
+        brotherImgSrc: '',
+        sister: `3 (all younger)`,
+        sisterImgSrc: ''
+      },
+      favourites: {
+        food: ``,
+        fruit: ``,
+        beverages: ``,
+        actor: ``,
+        actress: ``,
+        singer: ``,
+        fashionBrand: ``,
+        colour: ``,
+        destination: ``,
+        sports: ``,
+        sportsman: ``,
+        dress: '',
+        song: ``,
+        film: ``,
+        director: ``
+      },
+      styleQoutient: {
+        carsCollection: "Audi Q7",
+        imgSrc: 'assets/images/july2022/Johny-Lever-with-his-Audi-car.jpg',
+      },
+      // INR 6 to 7 crores+/movie (as in 2021)
+      moneyFactor: {
+        earning: `Not Known`,
+        netWorth: '$30 Million (as in 2021)',
+        imgSrc: 'assets/images/july2022/johny-lever-net.jpg'
+      },
+      tattoos: [],
+      facts: {
+        smoke: 'No (Quit in 2002)',
+        alcoholic: 'No (Quit in 2002)'
+      },
+      otherFacts: [
+        {
+          fact: 'Instagram',
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: '',
+          instaLink: 'https://www.instagram.com/p/CeYEEZ-IOOz/embed/'
+        },
+        {
+          fact: "Interview",
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: 'https://www.youtube.com/embed/T-0eRhxd-3Y?feature=oembed'
+        },
+        {
+          fact: `He was born in a Telugu Christian family.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `His father was an operator in Hindustan Lever Ltd.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He was brought up in Dharavi (Mumbai&#8217;s King&#8217;s Circle area).`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `Due to adverse financial conditions, he couldn&#8217;t study further after 7th grade and started doing odd jobs, like selling pens on the streets of Bombay (now Mumbai) by doing mimicry of Bollywood stars.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He learned the unique style of comedy in Yakutpura (an old city of Hyderabad).`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `Once, he mimicked a few senior officers during a function at the Hindustan Lever Ltd company, and from that day on, he was named Johnny Lever.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He started performing stand-up comedy in orchestras and joined the group of Kalyanji-Anandji.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He also worked at Hindustan Lever Ltd. However, he quit the company in 1981, since he was earning well from stage performances.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He did world tours along with Kalyanji-Anandji.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He also did a commercial for <em>Kachua Chhap</em>, directed by Shekhar Kapoor.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He became famous after his performance in the 1993 Bollywood film- <em>Baazigar</em>.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He also worked in a Tulu film- Rang in 2014.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `So far, he has acted in more than 350 films.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+      ],
+      description: `Johnny Lever (born John Prakash Rao Janumala; 14 August 1957) is an Indian actor and comedian who is known for his works in Hindi cinema. He is one of the first stand-up comedians in India. He is the recipient of numerous accolades, including thirteen Filmfare Awards nominations in Filmfare Award for Best Performance in a Comic Role, and has won the award twice, for his work in Deewana Mastana (1997) and Dulhe Raja (1998). He began his career in 1984, and has acted in more than three hundred Hindi films.`
+    },
+    {
+      id: 'ce359',
+      category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'director'],
+      categoryId: ['Bollywood Actor/Actress, Model'],
+      name: `Sanjay Mishra`,
+      otherName: `Sanjay Mishra`,
+      nickName: ``,
+      fullname: ``,
+      height: `in feet inches - 5’ 7”`,
+      weight: '72 Kg',
+      gender: 'Male',
+      boyfriend: '',
+      profession: `Actor, Director`,
+      professionId: ``,
+      eyeColor: 'Black',
+      hairColor: 'White',
+      imgSrc: "assets/images/july2022/sanjay-mishra.jpg",
+      politicalParty: "",
+      politicalPartyImgSrc: "",
+      dob: {
+        date: '6',
+        month: 'October',
+        year: '1963'
+      },
+      dod: {
+        date: '',
+        month: '',
+        year: ''
+      },
+      deathCause: ``,
+      placeOfDeath: ``,
+      birthPlace: `Darbhanga, Bihar`,
+      nationality: 'Indian',
+      hometown: 'Varanasi, Uttar Pradesh, India',
+      school: `Kendriya Vidyalaya BHU, Varanasi, Uttar Pradesh, India`,
+      collegeUniversity: `National School of Drama, New Delhi, India`,
+      qualification: `Graduate of National School of Drama, New Delhi`,
+      religion: 'Hinduism',
+      zodiacSign: 'Libra',
+      bloodGroup: '',
+      foodHabit: '',
+      address: ``,
+      hobbies: `Cooking, Listening to Pink Floyd, Doing Photography`,
+      debut: {
+        lyrical: "",
+        lyricalImgSrc: "",
+        punjabiFilm: ``,
+        punjabiFilmImgSrc: "",
+        bollywoodFilm: `Oh Darling! Yeh Hai India! (1995)`,
+        bollywoodFilmImgSrc: "assets/images/july2022/Oh-Darling-Yeh-Hai-India.jpg",
+        hollywoodFilm: ``,
+        hollywoodFilmImgSrc: "",
+        tollywoodFilm: ``,
+        tollywoodFilmImgSrc: "",
+        tamilFilm: '',
+        tamilFilmImgSrc: "",
+        kannadaFilm: '',
+        kannadaFilmImgSrc: "",
+        punjabiAlbum: '',
+        punjabiAlbumImgSrc: "",
+        hindiAlbum: '',
+        hindiAlbumImgSrc: "",
+        singles: ``,
+        singlesImgSrc: "",
+        musicDirection: "",
+        musicDirectionImgSrc: "",
+        filmDirection: "Pranaam Walekum (2015)",
+        filmDirectionImgSrc: "",
+        tv: `Chanakya (1991)`,
+        tvImgSrc: "",
+        webSeries: "",
+        webSeriesImgSrc: "",
+        production: "",
+        productionImgSrc: "",
+        filmWriter: "",
+        filmWriterImgSrc: "",
+        lastSong: ``,
+        lastSongImgSrc: ``,
+        lastFilm: ``,
+        lastFilmImgSrc: ``
+      },
+      awards: [],
+      controversies: [],
+      maritalStatus: `Married`,
+      affairs: ``,
+      affairsImgSrc: ``,
+      wifeOrHusband: `Kiran Mishra`,
+      wifeOrHusbandImgSrc: `assets/images/july2022/Sanjay-Mishra-with-his-wife-Kiran.jpg`,
+      fiance: '',
+      fianceImgSrc: '',
+      children: {
+        son: `None`,
+        sonImgSrc: ``,
+        sonImgSrc1: '',
+        sonImgSrc2: '',
+        daughter: `Pal Mishra, Lamha Mishra`,
+        daughterImgSrc: 'assets/images/july2022/Sanjay-Mishra-with-his-daughters.jpg'
+      },
+      parents: {
+        father: 'Shambhu Nath Mishra (Civil Servant)',
+        fatherImgSrc: '',
+        mother: 'Name Not Known',
+        motherImgSrc: ''
+      },
+
+      siblings: {
+        brother: `Sumit Mishra, Amit Mishra`,
+        brotherImgSrc: '',
+        sister: `Meenal Mishra`,
+        sisterImgSrc: ''
+      },
+      favourites: {
+        food: `Achari Mutton and Pepper Chicken`,
+        fruit: ``,
+        beverages: ``,
+        actor: `<a href="https://www.newsfarmers.com/irrfan-khan" class="celebrity" target="_blank" rel="noopener">Irrfan Khan</a>, <a href="https://www.newsfarmers.com/nawazuddin-siddiqui" class="celebrity" target="_blank" rel="noopener">Nawazuddin Siddiqui</a>, <a href="https://www.newsfarmers.com/shah-rukh-khan" target="_blank" class="celebrity" rel="noopener">Shah Rukh Khan</a>`,
+        actress: ``,
+        singer: ``,
+        fashionBrand: ``,
+        colour: ``,
+        destination: ``,
+        sports: `Cricket`,
+        sportsman: ``,
+        dress: '',
+        song: ``,
+        film: ``,
+        director: ``
+      },
+      styleQoutient: {
+        carsCollection: "",
+        imgSrc: '',
+      },
+      // INR 6 to 7 crores+/movie (as in 2021)
+      moneyFactor: {
+        earning: `Not Known`,
+        netWorth: 'INR 110 Crore (as in 2021)',
+        imgSrc: 'assets/images/july2022/sanjay-mishra-net.jpg'
+      },
+      tattoos: [],
+      facts: {
+        smoke: 'Not Known',
+        alcoholic: 'Not Known'
+      },
+      otherFacts: [
+        {
+          fact: 'Instagram',
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: '',
+          instaLink: 'https://www.instagram.com/p/Cf6tHLEMssu/embed/'
+        },
+        {
+          fact: "Interview",
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: 'https://www.youtube.com/embed/C0U4r45WDv8?feature=oembed'
+        },
+        {
+          fact: `He was born in Darbhanga, Bihar.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `His father was an employee in the Ministry of Information and Broadcasting in the Government of India.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `His grandfather was a Civil Servant and served as the District Magistrate.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He was brought up in Varanasi.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `His earliest influence was his grandmother who used to sing for the Patna Radio Station. He used to spend his childhood vacation with her.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `His father had a keen interest in arts, which influenced him to do something in those lines.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He wasn&#8217;t good at studies and flunked class 10 twice.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He had heard a lot about the National Schooling of Drama and decided to attend it.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `When he entered NSD, Irrfan Khan was in his final year at NSD.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `Tigmanshu Dhulia was his batchmate at the NSD.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `After graduating from NSD, he moved to Mumbai in 1991.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He had to struggle a lot in Mumbai for his survival and often had to live on <em>Vada Paav.</em>`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `In the early 1990s, Tigmanshu Dhulia offered him a television serial.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `After watching Ketan Mehta&#8217;s cult film- Mirch Masala, he became a fan of him and decided to be around him.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He had to give more than 20 takes on the first day of the shoot of a TV serial- <em>Chanakya</em> in 1991.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `During the 1999 Cricket World Cup, he became famous with his Apple Singh commercials for ESPN Star Sports.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He became a household name after playing the role of a corrupt, soaked in red-tapism bureaucrat- <em>Shukla in </em>the hugely popular sitcom <em>Office Office.</em>`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `His performance in the 2014 film- Ankhon Dekhi was appreciated by the critics for which he got the Filmfare Award for Best Actor (Critics).`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `In 2016, he has also been awarded the Best Actor Award at Indian Film Festival Los Angeles for the film- <em>Masaan.</em>`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `In an interview, he revealed that at one point in time, he had quit his film career and went to Rishikesh, where he worked as a cook and washed dishes at a dhaba. According to him, he had become disillusioned with his career after he lost his father and was himself diagnosed with an illness. While talking about this, he said,<br />
+          <blockquote><p>That time was different. I had no complaints about the industry. I had complaints about my life. My father had passed away at the time, and even I was battling an illness. So instances like these make you really question what you are doing with the time you have.”</p></blockquote>
+          <p>He added,</p>
+          <blockquote><p>I was suffering from a severe illness. Doctors had removed 15 litres of pus from my stomach and just after it got cured, I lost my father. I had started losing my life. So, I went to Rishikesh and started making omelettes at a dhaba near the bank of Ganga. The dhaba owner told me I will have to wash 50 cups a day and I will get Rs 150. But then I thought I need money for my survival.&#8221;</p></blockquote>
+          <p>In the same interview, the actor gave credit to director Rohit Shetty for his comeback in the film industry. He said,</p>
+          <blockquote><p>After working there for a day, people visiting the dhaba started recognising me. They used to say ‘Arre aap to Golmaal mein the na’ and wanted photographs with me. Then my mother used to call me and cry asking me to come home. In between all this, Rohit Shetty called me and offered a role in All the Best. That’s when I decided to get back to work.&#8221;</p></blockquote>`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+      ],
+      description: `Sanjay Mishra (born 6 October 1963) is an Indian actor known for his works predominantly in Hindi cinema and television. An alumnus of National School of Drama, he made his acting debut in the 1995 film Oh Darling! Yeh Hai India!. Later films include Rajkumar (1996) and Satya (1998). He also appeared as Apple Singh, an "icon" used by ESPN Star Sports during the 1999 Cricket World Cup. In 2015, he received the Filmfare Award for Best Actor (Critics) for his performance in Ankhon Dekhi.`
+    },
+    {
+      id: 'ce360',
+      category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Comedian'],
+      categoryId: ['Bollywood Actor/Actress, Model'],
+      name: `Mukesh Tiwari`,
+      otherName: `Mukesh Tiwari, MukeshTiwari`,
+      nickName: ``,
+      fullname: ``,
+      height: `in feet inches - 5’ 9”`,
+      weight: '75 Kg',
+      gender: 'Male',
+      boyfriend: '',
+      profession: `Actor, Comedian`,
+      professionId: ``,
+      eyeColor: 'Black',
+      hairColor: 'Black',
+      imgSrc: "assets/images/july2022/mukesh-tiwari.jpg",
+      politicalParty: "",
+      politicalPartyImgSrc: "",
+      dob: {
+        date: '24',
+        month: 'August',
+        year: '1969'
+      },
+      dod: {
+        date: '',
+        month: '',
+        year: ''
+      },
+      deathCause: ``,
+      placeOfDeath: ``,
+      birthPlace: `Sagar, Madhya Pradesh, India`,
+      nationality: 'Indian',
+      hometown: 'Sagar, Madhya Pradesh, India',
+      school: `Lal School, Sagar, Madhya Pradesh, India<br />
+      Govt. Multipurpose Higher Secondary School Sagar, Madhya Pradesh, India`,
+      collegeUniversity: `Dr. Hari Singh Gour University, Sagar, Madhya Pradesh, India<br />
+      National School of Drama, New Delhi, India`,
+      qualification: `Graduate`,
+      religion: 'Hinduism',
+      zodiacSign: 'Virgo',
+      bloodGroup: '',
+      foodHabit: '',
+      address: `Mumbai, India`,
+      hobbies: `Travelling`,
+      debut: {
+        lyrical: "",
+        lyricalImgSrc: "",
+        punjabiFilm: ``,
+        punjabiFilmImgSrc: "",
+        bollywoodFilm: `'China Gate' (1998)`,
+        bollywoodFilmImgSrc: "",
+        hollywoodFilm: ``,
+        hollywoodFilmImgSrc: "",
+        tollywoodFilm: ``,
+        tollywoodFilmImgSrc: "",
+        tamilFilm: '',
+        tamilFilmImgSrc: "",
+        kannadaFilm: '',
+        kannadaFilmImgSrc: "",
+        punjabiAlbum: '',
+        punjabiAlbumImgSrc: "",
+        hindiAlbum: '',
+        hindiAlbumImgSrc: "",
+        singles: ``,
+        singlesImgSrc: "",
+        musicDirection: "",
+        musicDirectionImgSrc: "",
+        filmDirection: "",
+        filmDirectionImgSrc: "",
+        tv: `'Taarak Mehta Ka Ooltah Chashmah' (2008)`,
+        tvImgSrc: "",
+        webSeries: "",
+        webSeriesImgSrc: "",
+        production: "",
+        productionImgSrc: "",
+        filmWriter: "",
+        filmWriterImgSrc: "",
+        lastSong: ``,
+        lastSongImgSrc: ``,
+        lastFilm: ``,
+        lastFilmImgSrc: ``
+      },
+      awards: [],
+      controversies: [],
+      maritalStatus: `Married`,
+      affairs: ``,
+      affairsImgSrc: ``,
+      wifeOrHusband: `Violet Nazir Tiwari`,
+      wifeOrHusbandImgSrc: ``,
+      fiance: '',
+      fianceImgSrc: '',
+      children: {
+        son: `Not Known`,
+        sonImgSrc: ``,
+        sonImgSrc1: '',
+        sonImgSrc2: '',
+        daughter: `Not Known`,
+        daughterImgSrc: ''
+      },
+      parents: {
+        father: 'Not Known',
+        fatherImgSrc: '',
+        mother: 'Not Known',
+        motherImgSrc: ''
+      },
+
+      siblings: {
+        brother: ``,
+        brotherImgSrc: '',
+        sister: ``,
+        sisterImgSrc: ''
+      },
+      favourites: {
+        food: `'Pani-Puri', 'Aloo-Puri'`,
+        fruit: ``,
+        beverages: ``,
+        actor: `<a href="https://www.newsfarmers.com/ajay-devgn" class="celebrity" target="_blank" rel="noopener">Ajay Devgan</a>`,
+        actress: `<a href="https://www.newsfarmers.com/rani-mukerji" class="celebrity" target="_blank">Rani Mukerji</a>`,
+        singer: `A. R. Rahman`,
+        fashionBrand: ``,
+        colour: `White`,
+        destination: `Goa and Canada`,
+        sports: `Football`,
+        sportsman: `Boris Becker (Tennis Player)`,
+        dress: '',
+        song: ``,
+        film: `Apharan`,
+        director: ``
+      },
+      styleQoutient: {
+        carsCollection: "",
+        imgSrc: '',
+      },
+      // INR 6 to 7 crores+/movie (as in 2021)
+      moneyFactor: {
+        earning: `Not Known`,
+        netWorth: 'INR 15 Crore (as in 2021)',
+        imgSrc: 'assets/images/july2022/mukesh-tiwari-net.jpg'
+      },
+      tattoos: [],
+      facts: {
+        smoke: 'Not Known',
+        alcoholic: 'Yes'
+      },
+      otherFacts: [
+        // {
+        //   fact: 'Instagram',
+        //   imgSrc: '',
+        //   imgCaption: '',
+        //   videoSrc: '',
+        //   instaLink: 'https://www.instagram.com/p/Cf6tHLEMssu/embed/'
+        // },
+        {
+          fact: "Interview",
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: 'https://www.youtube.com/embed/ZJUHMO-gah0?feature=oembed'
+        },
+        {
+          fact: `Mukesh Tiwari started his career in 1998.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He is mostly known as &#8216;Bad Man&#8217; in the film industry.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `In 1998, he won the Most Promising Debut (Male) Zee Cine Awards for the movie &#8216;China Gate&#8217;`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He got fame in 2003 from &#8216;Gangaajal&#8217; movie.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He has appeared in more than 100 movies.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `Apart from Bollywood movies, he also appeared in Punjabi, Tamil &amp; Telugu movies.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He learnt Tamil for his role in Dhanush starrer film &#8216;Anegan.&#8217;`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `A role inspired by his Golmaal&#8217;s character of &#8220;Vasooli Bhai&#8221; was offered to him in &#8216;Comedy Nights With Kapil,&#8217; but he declined the offer; as he wanted to focus on films.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+      ],
+      description: `Mukesh Tiwari is an Indian actor, who has worked predominantly in Bollywood. He is known for playing negative and comic side roles. He entered the film industry in the year 1998 with the movie China Gate. He is known for his work in The Legend of Bhagat Singh, Gangaajal and Golmaal.`
+    },
+    {
+      id: 'ce361',
+      category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor'],
+      categoryId: ['Bollywood Actor/Actress, Model'],
+      name: `Rajpal Yadav`,
+      otherName: `Rajpal Yadav, Rajpal Naurang Yadav, RajpalYadav`,
+      nickName: ``,
+      fullname: ``,
+      height: `in feet inches - 5’ 3”`,
+      weight: '58 Kg',
+      gender: 'Male',
+      boyfriend: '',
+      profession: `Actor`,
+      professionId: ``,
+      eyeColor: 'Black',
+      hairColor: 'Black',
+      imgSrc: "assets/images/july2022/rajpal-yadav.jpg",
+      politicalParty: "",
+      politicalPartyImgSrc: "",
+      dob: {
+        date: '16',
+        month: 'March',
+        year: '1971'
+      },
+      dod: {
+        date: '',
+        month: '',
+        year: ''
+      },
+      deathCause: ``,
+      placeOfDeath: ``,
+      birthPlace: `Kundra, Shahjahanpur, Uttar Pradesh, India`,
+      nationality: 'Indian',
+      hometown: 'Shahjahanpur, Uttar Pradesh, India',
+      school: `Not Known`,
+      collegeUniversity: `Bhartendu Academy of Dramatic Arts, Lucknow<br />
+      National School of Drama, New Delhi`,
+      qualification: `Theatre Course`,
+      religion: 'Hinduism',
+      zodiacSign: 'Pisces',
+      bloodGroup: '',
+      foodHabit: '',
+      address: ``,
+      hobbies: `Theatre`,
+      debut: {
+        lyrical: "",
+        lyricalImgSrc: "",
+        punjabiFilm: ``,
+        punjabiFilmImgSrc: "",
+        bollywoodFilm: `Dil Kya Kare (1999)`,
+        bollywoodFilmImgSrc: "",
+        hollywoodFilm: ``,
+        hollywoodFilmImgSrc: "",
+        tollywoodFilm: ``,
+        tollywoodFilmImgSrc: "",
+        tamilFilm: '',
+        tamilFilmImgSrc: "",
+        kannadaFilm: '',
+        kannadaFilmImgSrc: "",
+        punjabiAlbum: '',
+        punjabiAlbumImgSrc: "",
+        hindiAlbum: '',
+        hindiAlbumImgSrc: "",
+        singles: ``,
+        singlesImgSrc: "",
+        musicDirection: "",
+        musicDirectionImgSrc: "",
+        filmDirection: "",
+        filmDirectionImgSrc: "",
+        tv: `Mungeri ke bhai Naurangilal (1999)`,
+        tvImgSrc: "",
+        webSeries: "",
+        webSeriesImgSrc: "",
+        production: "",
+        productionImgSrc: "",
+        filmWriter: "",
+        filmWriterImgSrc: "",
+        lastSong: ``,
+        lastSongImgSrc: ``,
+        lastFilm: ``,
+        lastFilmImgSrc: ``
+      },
+      awards: [],
+      controversies: [
+        {
+          title:``,
+          controversy:`In 2013, he was jailed for 10 days by the Delhi High Court in the charges of concealing facts about 5 crore (INR) recovery after the complaint by a Delhi businessman.`
+        },
+        {
+          title:``,
+          controversy:`In 2015, a fake news trended on whatsapp and facebook that he died due to a heart attack.`
+        }
+      ],
+      maritalStatus: `Married`,
+      affairs: ``,
+      affairsImgSrc: ``,
+      wifeOrHusband: `Radha Yadav`,
+      wifeOrHusbandImgSrc: `assets/images/july2022/Rajpal-Yadav-with-his-wife-and-daughter.jpg`,
+      fiance: '',
+      fianceImgSrc: '',
+      children: {
+        son: `N/A`,
+        sonImgSrc: ``,
+        sonImgSrc1: '',
+        sonImgSrc2: '',
+        daughter: `1`,
+        daughterImgSrc: ''
+      },
+      parents: {
+        father: 'Not Known',
+        fatherImgSrc: '',
+        mother: 'Not Known',
+        motherImgSrc: ''
+      },
+
+      siblings: {
+        brother: ``,
+        brotherImgSrc: '',
+        sister: ``,
+        sisterImgSrc: ''
+      },
+      favourites: {
+        food: `Not Known`,
+        fruit: ``,
+        beverages: ``,
+        actor: `<a href="https://www.newsfarmers.com/amitabh-bachchan" class="celebrity" target="_blank" rel="noopener">Amitabh Bachchan</a>, <a href="https://www.newsfarmers.com/aamir-khan" class="celebrity" target="_blank">Aamir Khan</a>, Mehmood and Shakti Kapoor`,
+        actress: ``,
+        singer: ``,
+        fashionBrand: ``,
+        colour: ``,
+        destination: ``,
+        sports: ``,
+        sportsman: ``,
+        dress: '',
+        song: ``,
+        film: `Andaaz Apna Apna, Angoor, Sholay, Padosan and Jaane Bhi Do Yaaron`,
+        director: ``
+      },
+      styleQoutient: {
+        carsCollection: "",
+        imgSrc: '',
+      },
+      // INR 6 to 7 crores+/movie (as in 2021)
+      moneyFactor: {
+        earning: `Not Known`,
+        netWorth: 'INR 74 Crore (as in 2021)',
+        imgSrc: 'assets/images/july2022/rajpal-yadav-net.jpg'
+      },
+      tattoos: [],
+      facts: {
+        smoke: 'Yes',
+        alcoholic: 'Not Known'
+      },
+      otherFacts: [
+        {
+          fact: 'Instagram',
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: '',
+          instaLink: 'https://www.instagram.com/p/Cf4kn0krWfQ/embed/'
+        },
+        {
+          fact: "Interview",
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: 'https://www.youtube.com/embed/jgAid09ZR6s?feature=oembed'
+        },
+        {
+          fact: `Rajpal wanted to be an actor since his childhood, and was part of a theatre group in Shahjahanpur.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He did a Doordarshan serial called <em>Mungeri ke bhai Naurangilal</em>, which was a sequel to <em>Mungerilal Ke Haseen Sapne</em>.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He did a Coke ad commercial with Aishwarya Rai.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: 'https://www.youtube.com/embed/TeXal9Qr7EA?feature=oembed'
+        },
+        {
+          fact: `He won the Best Actor in a negative role award at the Screen Videocon Awards and Sansui Awards in 2000 for his role as Sippa (a dacoit) in the film <em>Jungle</em>.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He has been honored with Yash Bharati and Janpad Ratna Award.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `His favourite comedy role is of Crimemaster Gogo in the film <em>Andaz Apna Apna</em>.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `In 2014, he did a Hollywood film <em>Bhopal: A Prayer for Rain</em> which was based on the real story of Bhopal gas tragedy in 1984.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+      ],
+      description: `Rajpal Naurang Yadav (born 16 March 1971) is an Indian actor, comedian, writer, film director and producer known for his work in Hindi cinema. As a comedian, he has been nominated for several awards such as Filmfare and Screen Awards.`
+    },
+    {
+      id: 'ce362',
+      category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Comedian'],
+      categoryId: ['Bollywood Actor/Actress, Model'],
+      name: `Sunil Grover`,
+      otherName: `Sunil Groover, SunilGrover`,
+      nickName: ``,
+      fullname: ``,
+      height: `in feet inches - 5’ 9”`,
+      weight: '64 Kg',
+      gender: 'Male',
+      boyfriend: '',
+      profession: `Actor, Comedian`,
+      professionId: ``,
+      eyeColor: 'Black',
+      hairColor: 'Black',
+      imgSrc: "assets/images/july2022/sunil-grover.jpg",
+      politicalParty: "",
+      politicalPartyImgSrc: "",
+      dob: {
+        date: '3',
+        month: 'August',
+        year: '1977'
+      },
+      dod: {
+        date: '',
+        month: '',
+        year: ''
+      },
+      deathCause: ``,
+      placeOfDeath: ``,
+      birthPlace: `Sirsa, Haryana, India`,
+      nationality: 'Indian',
+      hometown: 'Sirsa, Haryana, India',
+      school: `Arya Vidya Mandir, Mandi Dabwali, Sirsa`,
+      collegeUniversity: `Guru Nanak College, Haryana<br />
+      Panjab University, Chandigarh`,
+      qualification: `Bachelor of Commerce<br />
+      Masters in Theatre`,
+      religion: 'Hinduism',
+      zodiacSign: 'Leo',
+      bloodGroup: '',
+      foodHabit: '',
+      address: ``,
+      hobbies: ``,
+      debut: {
+        lyrical: "",
+        lyricalImgSrc: "",
+        punjabiFilm: ``,
+        punjabiFilmImgSrc: "",
+        bollywoodFilm: `The Legend of Bhagat Singh (2002)`,
+        bollywoodFilmImgSrc: "assets/images/july2022/Film-The-Legend-of-Bhagat-Singh-2002.jpg",
+        hollywoodFilm: ``,
+        hollywoodFilmImgSrc: "",
+        tollywoodFilm: ``,
+        tollywoodFilmImgSrc: "",
+        tamilFilm: '',
+        tamilFilmImgSrc: "",
+        kannadaFilm: '',
+        kannadaFilmImgSrc: "",
+        punjabiAlbum: '',
+        punjabiAlbumImgSrc: "",
+        hindiAlbum: '',
+        hindiAlbumImgSrc: "",
+        singles: ``,
+        singlesImgSrc: "",
+        musicDirection: "",
+        musicDirectionImgSrc: "",
+        filmDirection: "",
+        filmDirectionImgSrc: "",
+        tv: `Full Tension`,
+        tvImgSrc: "",
+        webSeries: "",
+        webSeriesImgSrc: "",
+        production: "",
+        productionImgSrc: "",
+        filmWriter: "",
+        filmWriterImgSrc: "",
+        lastSong: ``,
+        lastSongImgSrc: ``,
+        lastFilm: ``,
+        lastFilmImgSrc: ``
+      },
+      awards: [],
+      controversies: [
+        {
+          title:``,
+          controversy:`He left "Comedy Nights with Kapil" just because he asked Kapil for a salary hike, but Kapil refused to do so.`
+        },
+        {
+          title:``,
+          controversy:`In March 2017, <a href="http://starsunfolded.com/kapil-sharma-height-weight-age/" target="_blank">Kapil Sharma</a>, who was reportedly drunk, was accused of being abusive to Sunil Grover on a flight from Melbourne, Australia. A few days later, Kapil admitted on Facebook that he had an 'argument' with Sunil and questioned the intentions of eyewitnesses who claimed that he had assaulted Sunil. In reply to which, Sunil posted a message on Facebook as given below.<br />
+          <a ><img src="assets/images/july2022/Kapil-Sharma-and-Sunil-Grover-controversy-in-March-2017.jpg" alt="Sunil Grover and Kapil Sharma and Sunil Grover controversy in March 2017" width="250" height="250" class="alignnone size-thumbnail wp-image-71816" /></a>`
+        }
+      ],
+      maritalStatus: `Married`,
+      affairs: ``,
+      affairsImgSrc: ``,
+      wifeOrHusband: `Aarti`,
+      wifeOrHusbandImgSrc: `assets/images/july2022/Sunil-Grover-with-his-wife.jpg`,
+      fiance: '',
+      fianceImgSrc: '',
+      children: {
+        son: `Mohan`,
+        sonImgSrc: ``,
+        sonImgSrc1: '',
+        sonImgSrc2: '',
+        daughter: `N/A`,
+        daughterImgSrc: ''
+      },
+      parents: {
+        father: 'J.N. Grover',
+        fatherImgSrc: '',
+        mother: 'Name Not Known',
+        motherImgSrc: 'assets/images/july2022/Sunil-Grover-with-his-Mother.jpg'
+      },
+
+      siblings: {
+        brother: ``,
+        brotherImgSrc: '',
+        sister: ``,
+        sisterImgSrc: ''
+      },
+      favourites: {
+        food: `Not Known`,
+        fruit: ``,
+        beverages: ``,
+        actor: `<a href="https://www.newsfarmers.com/amitabh-bachchan" class="celebrity" target="_blank" rel="noopener">Amitabh Bachchan</a>, <a href="https://www.newsfarmers.com/aamir-khan" class="celebrity" target="_blank">Aamir Khan</a>, Mehmood and Shakti Kapoor`,
+        actress: ``,
+        singer: ``,
+        fashionBrand: ``,
+        colour: ``,
+        destination: ``,
+        sports: ``,
+        sportsman: ``,
+        dress: '',
+        song: ``,
+        film: `Andaaz Apna Apna, Angoor, Sholay, Padosan and Jaane Bhi Do Yaaron`,
+        director: ``
+      },
+      styleQoutient: {
+        carsCollection: "",
+        imgSrc: '',
+      },
+      // INR 6 to 7 crores+/movie (as in 2021)
+      moneyFactor: {
+        earning: `Not Known`,
+        netWorth: 'INR 21 Crore (as in 2021)',
+        imgSrc: 'assets/images/july2022/sunil-grover-net.jpg'
+      },
+      tattoos: [],
+      facts: {
+        smoke: 'No',
+        alcoholic: 'Not Known'
+      },
+      otherFacts: [
+        {
+          fact: 'Instagram',
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: '',
+          instaLink: 'https://www.instagram.com/p/CfvmdctLoHM/embed/'
+        },
+        {
+          fact: "Interview",
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: 'https://www.youtube.com/embed/UbTvmF82z9o?feature=oembed'
+        },
+        {
+          fact: `Sunil started his career as a radio jockey in Radio Mirchi&#8217;s show &#8220;Hansi Ke Phuware&#8221;, after which he did anchoring and then turned into a comedian.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `His famous &#8220;Gutthi&#8221; character was based upon his  college experiences in Guru Nanak college, as there were very few girls as compared to boys who had personality traits like Gutthi.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `In 2014, he won the Star Parivaar Award for Favourite Mazebaan.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He is the brand ambassador of Filmy channel.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+      ],
+      description: `Sunil Grover (born 3 August 1977) is an Indian actor and stand-up comedian. He came into limelight for his portrayal as Gutthi on television show Comedy Nights with Kapil but gained popularity for playing the role of Dr Mashoor Gulati and Rinku Devi on The Kapil Sharma Show. He was also seen in Bollywood films Gabbar Is Back, The Legend of Bhagat Singh and Bharat.`
+    },
   ]
 }

@@ -9,15 +9,15 @@ import { Subject } from 'rxjs';
 export class NewsService {
 
   constructor(private http: HttpClient) {
-    this.http.get(`http://localhost:8080/users`).subscribe(res => {
-      console.log(res)
-      //  this.isLoading= false;
-       // this.originalServiceProvider = res;
-     },
-       error => {
-         console.log(error)
-        //  this.isLoading= false;
-       })
+    // this.http.get(`http://localhost:8080/users`).subscribe(res => {
+    //   console.log(res)
+    //   //  this.isLoading= false;
+    //    // this.originalServiceProvider = res;
+    //  },
+    //    error => {
+    //      console.log(error)
+    //     //  this.isLoading= false;
+    //    })
    }
   
  getNews(){
@@ -1498,6 +1498,42 @@ export class NewsService {
         },
         {
           fact: `Additionally, he also quoted, "Being a filmmaker, I feel that cinema is the best medium to communicate such untold stories, that will unveil not only his political ideologies but his humane and poetic aspects, that made him the most loved leader of the opposition as well as India's most progressive Prime Minister."`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: '',
+          instaLink: ''
+        },
+      ],
+      description: ``
+    },
+    {
+      id: 'news25',
+      category: ['Bollywood', 'Industry', 'Bollywood Industry'],
+      categoryId: 'Jennifer Winget karan singh grover separation',
+      title: `Jennifer Winget Opened Up On Her Separation From Karan Singh Grover`,
+      imgSrc: "assets/newsImages/july2022/jennifer-winget-and-karan-singh-grover.jpg",
+      instaSimpleLink:'https://www.instagram.com/p/Cf8YR3ar8WM/',
+      twitterSimpleLink:'',
+      facebookSimpleLink:'',
+      linkedinSimpleLink:'',
+      otherFacts: [
+        {
+          fact: `Jennifer Winget and Karan Singh Grover were one of the most lovely couples in the television industry. They dated a few years before tying the knot in 2012. However, after two years of marital bliss, they filed for a divorce in 2014. Now, after 8 years of divorce, Jennifer finally opened up about her separation from Karan in a recent interview.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: '',
+          instaLink: ''
+        },
+        {
+          fact: `She told in the interview that “I think both of us were not ready. It’s not just him (Karan Singh Grover) or it's not just me, both of us weren’t ready to take that step. We had been friends for so long. We were like a house on fire every time we met. But I think it was an unfortunate timing I guess.”`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: '',
+          instaLink: 'https://www.instagram.com/p/Cf8YR3ar8WM/embed/'
+        },
+        {
+          fact: `She had a tough time dealing with this situation of divorce.
+          Jennifer revealed that she was so lost and confused that she didn't know what to tell people or how to process that. She added that her friends used to force her to go out and I’m like I don’t want to go. But whenever I used to go out, I used to see people looking at me with those sad, sympathetic eyes like ‘are bechari yaar’ and it used to piss me off even more. That’s why I would not go out. I understand you’re feeling for me, it’s great but I don’t need that right now. Right now I’m not ready to deal with you because I’m dealing with me. So that’s why I cut off from people and once I was done with it, then I am so done with it,” Jennifer told Bollywood Bubble.`,
           imgSrc: '',
           imgCaption: '',
           videoSrc: '',
