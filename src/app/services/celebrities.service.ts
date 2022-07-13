@@ -71628,7 +71628,7 @@ export class CelebritiesService {
         },
         {
           title:``,
-          controversy:`In March 2017, <a href="http://starsunfolded.com/kapil-sharma-height-weight-age/" target="_blank">Kapil Sharma</a>, who was reportedly drunk, was accused of being abusive to Sunil Grover on a flight from Melbourne, Australia. A few days later, Kapil admitted on Facebook that he had an 'argument' with Sunil and questioned the intentions of eyewitnesses who claimed that he had assaulted Sunil. In reply to which, Sunil posted a message on Facebook as given below.<br />
+          controversy:`In March 2017, Kapil Sharma, who was reportedly drunk, was accused of being abusive to Sunil Grover on a flight from Melbourne, Australia. A few days later, Kapil admitted on Facebook that he had an 'argument' with Sunil and questioned the intentions of eyewitnesses who claimed that he had assaulted Sunil. In reply to which, Sunil posted a message on Facebook as given below.<br />
           <a ><img src="assets/images/july2022/Kapil-Sharma-and-Sunil-Grover-controversy-in-March-2017.jpg" alt="Sunil Grover and Kapil Sharma and Sunil Grover controversy in March 2017" width="250" height="250" class="alignnone size-thumbnail wp-image-71816" /></a>`
         }
       ],
@@ -71732,6 +71732,289 @@ export class CelebritiesService {
         },
       ],
       description: `Sunil Grover (born 3 August 1977) is an Indian actor and stand-up comedian. He came into limelight for his portrayal as Gutthi on television show Comedy Nights with Kapil but gained popularity for playing the role of Dr Mashoor Gulati and Rinku Devi on The Kapil Sharma Show. He was also seen in Bollywood films Gabbar Is Back, The Legend of Bhagat Singh and Bharat.`
+    },
+    {
+      id: 'ce363',
+      category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Comedian', 'Producer'],
+      categoryId: ['Bollywood Actor/Actress, Model'],
+      name: `Arshad Warsi`,
+      otherName: `ArshadWarsi`,
+      nickName: ``,
+      fullname: ``,
+      height: `in feet inches - 5’ 5”`,
+      weight: '70 Kg',
+      gender: 'Male',
+      boyfriend: '',
+      profession: `Actor, Producer, Singer`,
+      professionId: ``,
+      eyeColor: 'Light Brown',
+      hairColor: 'Black',
+      imgSrc: "assets/images/july2022/arshad-warsi.jpg",
+      politicalParty: "",
+      politicalPartyImgSrc: "",
+      dob: {
+        date: '19',
+        month: 'April',
+        year: '1968'
+      },
+      dod: {
+        date: '',
+        month: '',
+        year: ''
+      },
+      deathCause: ``,
+      placeOfDeath: ``,
+      birthPlace: `Mumbai, Maharashtra, India`,
+      nationality: 'Indian',
+      hometown: 'Mumbai, Maharashtra, India',
+      school: `Barnes School &amp; Junior College, Deolali, Nashik district, Maharashtra (a boarding school)`,
+      collegeUniversity: `Did not attend`,
+      qualification: `10th Standard`,
+      religion: 'Islam',
+      zodiacSign: 'Aries',
+      bloodGroup: '',
+      foodHabit: '',
+      address: `Shooting Star Films Pvt. Ltd.<br />
+      A-605/606, Morya House, <br />
+      Off. New Link Road,<br />
+      Oshiwara, Andheri (West),<br />
+      Mumbai - 400053`,
+      hobbies: `Dancing, Biking, Cooking`,
+      debut: {
+        lyrical: "",
+        lyricalImgSrc: "",
+        punjabiFilm: ``,
+        punjabiFilmImgSrc: "",
+        bollywoodFilm: `Tere Mere Sapne (1996)`,
+        bollywoodFilmImgSrc: "assets/images/july2022/Tere-Mere-Sapne.jpg",
+        hollywoodFilm: ``,
+        hollywoodFilmImgSrc: "",
+        tollywoodFilm: ``,
+        tollywoodFilmImgSrc: "",
+        tamilFilm: '',
+        tamilFilmImgSrc: "",
+        kannadaFilm: '',
+        kannadaFilmImgSrc: "",
+        punjabiAlbum: '',
+        punjabiAlbumImgSrc: "",
+        hindiAlbum: '',
+        hindiAlbumImgSrc: "",
+        singles: ``,
+        singlesImgSrc: "",
+        musicDirection: "",
+        musicDirectionImgSrc: "",
+        filmDirection: "",
+        filmDirectionImgSrc: "",
+        tv: `Razzmatazz (2001)`,
+        tvImgSrc: "",
+        webSeries: "",
+        webSeriesImgSrc: "",
+        production: "",
+        productionImgSrc: "",
+        filmWriter: "",
+        filmWriterImgSrc: "",
+        lastSong: ``,
+        lastSongImgSrc: ``,
+        lastFilm: ``,
+        lastFilmImgSrc: ``
+      },
+      awards: [
+        {
+          year:`2004`,
+          award:`Zee Cine Award for Best Actor in a Comic Role for Munna Bhai M.B.B.S.`
+        },
+        {
+          year:`2005`,
+          award:`GIFA Best Comedian Award for Hulchul.`
+        },
+        {
+          year:`2007`,
+          award:`Filmfare Award for Best Performance in a Comic Role, IIFA Award for Best Supporting Actor, Zee Cine Award for Best Actor in a Comic Role, Screen Award for Best Supporting Actor, Indian Television Academy Award for Best Anchor—Game/Quiz Show for Lage Raho Munna Bhai.`
+        },
+        {
+          year:`2011`,
+          award:`Screen Award for Best Supporting Actor for Ishqiya.`
+        },
+        {
+          year:`2013`,
+          award:`BIG Star Entertainment Award for Most Entertaining Actor in a Comedy Film (Male) for Jolly LLB.`
+        },
+        {
+          year:`2014`,
+          award:`IIFA Award for Best Performance in a Comic Role, Apsara Film Producers Guild Award for Best Performance in a Comic Role for Jolly LLB.`
+        },
+      ],
+      controversies: [
+        {
+          title:``,
+          controversy:`In 2001, he gave comment on a soft drink commercial starring <a href="https://www.newsfarmers.com/katrina-kaif" class="celebrity" target="_blank" rel="noopener">Katrina Kaif</a>, "How pakao is Katrina in the Slice ad, kairi pakadti hai aur vo aam ban jata hai... Angoor do toh shayad Wine banjayegi." As the comment was blown out of proportion on social media, newspaper, and electronic media, he explained himself by saying that, "My comment has nothing to do with Katrina. It's just a humorous observation on the creatives of the ad. It's called sense of humour."`
+        },
+        {
+          title:``,
+          controversy:`In 2016, he received death threats through phone calls, SMS and letters due to a dialogue in his movie 'The Legend of Michael Mishra', the caller said that Arshad's "body parts would be cut off" and he will be "burned alive" for saying "Daaku Valmiki se Sant Valmiki ban Jayenge." After which Arshad tweeted to justify his stand.<br />
+          <a><img src="assets/images/july2022/Arshad-Warsi-tweet.jpg" alt="Arshad Warsi's Tweet" width="250" height="250" class="alignnone size-thumbnail wp-image-73987" /></a>`
+        }
+      ],
+      maritalStatus: `Married`,
+      affairs: ``,
+      affairsImgSrc: ``,
+      wifeOrHusband: `Maria Goretti (Blogger, Former VJ, m.1999-present)`,
+      wifeOrHusbandImgSrc: `assets/images/july2022/arshad-warsi-wife-maria-and-kids-mumbai-airport-iifa.jpg`,
+      fiance: '',
+      fianceImgSrc: '',
+      children: {
+        son: `Zeke`,
+        sonImgSrc: ``,
+        sonImgSrc1: '',
+        sonImgSrc2: '',
+        daughter: `Zene Zoe`,
+        daughterImgSrc: ''
+      },
+      parents: {
+        father: 'Late Ahmed Ali Khan (Musician, Singer, Poet)',
+        fatherImgSrc: '',
+        mother: 'Name Not Known',
+        motherImgSrc: ''
+      },
+
+      siblings: {
+        brother: `Anwar Hussain (Stepbrother, Singer)`,
+        brotherImgSrc: 'assets/images/july2022/anwar-hussain.jpg',
+        sister: `Asha Sachdev (Stepsister, Actress)`,
+        sisterImgSrc: 'assets/images/july2022/asha-sachdev.jpg'
+      },
+      favourites: {
+        food: `Not Known`,
+        fruit: ``,
+        beverages: ``,
+        actor: `<a href="https://www.newsfarmers.com/amitabh-bachchan" class="celebrity" target="_blank" rel="noopener">Amitabh Bachchan</a>`,
+        actress: `<a href="https://www.newsfarmers.com/madhuri-dixit" class="celebrity" target="_blank" rel="noopener">Madhuri Dixit</a>`,
+        singer: ``,
+        fashionBrand: ``,
+        colour: `Black`,
+        destination: `Goa`,
+        sports: `Cricket, Football`,
+        sportsman: ``,
+        dress: '',
+        song: ``,
+        film: `Scarface`,
+        director: ``
+      },
+      styleQoutient: {
+        carsCollection: "Audi Q7, Volkswagen Beetle",
+        imgSrc: 'assets/images/july2022/assets/images/july2022/Arshad-Warsi-Audi-Q7.jpg',
+      },
+      // INR 6 to 7 crores+/movie (as in 2021)
+      moneyFactor: {
+        earning: `Not Known`,
+        netWorth: 'INR 111 Crore (as in 2021)',
+        imgSrc: 'assets/images/july2022/arshad-warsi-net.jpg'
+      },
+      tattoos: [],
+      facts: {
+        smoke: 'No (Quit)',
+        alcoholic: 'Yes'
+      },
+      otherFacts: [
+        {
+          fact: 'Instagram',
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: '',
+          instaLink: 'https://www.instagram.com/p/CexVgaJodet/embed/'
+        },
+        {
+          fact: "Interview",
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: 'https://www.youtube.com/embed/wSiWZZVUCRY?feature=oembed'
+        },
+        {
+          fact: `His original surname is &#8216;Khan&#8217;, but after his father became a follower of a holy man- Waris Pak, they became &#8216;Warsis&#8217;.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He was a national level gymnast during his school time. Moreover, he was selected amongst thousands of students by two British men to get trained in this.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `At the age of 18, he lost his father, who died of bone cancer and two years later, his mother died of kidney failure. He then learned to live on his own and brought himself up.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `Due to some financial problems, he was not able to pursue his studies after 10th standard and worked as a salesman of cosmetics.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `Prior to joining film industry, he joined Akbar Sami&#8217;s Dance Group and won the &#8220;Indian Dance Competition&#8221; in 1991, which prompted him to become a Choreographer.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `Arshad also started his own dance academy named &#8220;Awesome&#8221;.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He met his wife Maria Goretti at the Malhar Festival where he was the judge and Maria was a participant. Initially, he offered him to join his dance group and later, she became the lead dancer and started assisting him.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He has worked as a choreographer in Bollywood and has choreographed the song &#8220;Roop Ki Rani&#8221; from <a href="https://www.newsfarmers.com/anil-kapoor" class="celebrity" target="_blank" rel="noopener">Anil Kapoor</a> and <a href="https://www.newsfarmers.com/sridevi" class="celebrity" target="_blank" rel="noopener">Sridevi </a>starrer &#8216;Roop Ki Rani Choron Ka Raja&#8217; (1993).`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He made his debut with movie Tere Mere Sapne in 1996, and after his debut, it was reported by some online sources that he roamed around everywhere and said to everyone that the film was a hit only because of him.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He has also worked in a photo lab to assist Mahesh Bhatt in films &#8216;Kaash&#8217; (1987) and &#8216;Thikana&#8217; (1988).`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He was not the first choice for Munna Bhai M.B.B.S., but his performance proved to be a turning point in his career; as before its release, he faced a continuous failure in the film industry.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `Although he recieved great laurels for his role in Hulchul, he was not satisfied with his role.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `He loves biking and was also the part of a &#8216;bikers gang&#8217; during his school days.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+        {
+          fact: `In September 2021, he took to Instagram to share photos of his body transformation. Soon, netizens started comparing his physique with that of John Cena who later reposted Warsi&#8217;s photo on the internet.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: ''
+        },
+      ],
+      description: `Arshad Warsi (born 19 April 1968) is an Indian actor, producer, dancer, television personality, choreographer and playback singer who appears in Hindi films. He is the recipient of several awards including a Filmfare Award from five nominations and is noted for acting in varied film genres.`
     },
   ]
 }
