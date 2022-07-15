@@ -1,35 +1,37 @@
-<div class="" >
+<div class="">
     <div class="w3-content" style="max-width:1400px">
         <header class="w3-container w3-center w3-padding-32">
         </header>
-        
         <div class="container search">
             <div class="w3-row">
                 <div class="search-hero">
-                    <input class="form-control" type="text" name="search" [(ngModel)]="searchText" autocomplete="off" placeholder="&#xF002; Search for news" style="font-family:Arial, FontAwesome" />
+                    <input class="form-control" type="text" name="search" [(ngModel)]="searchText" autocomplete="off"
+                        placeholder="&#xF002; Search for news" style="font-family:Arial, FontAwesome" />
                 </div>
-                <div *ngIf="newsArray.length>5 && searchText && (newsArray | filter: searchText.trim()).length > 0" style="margin-top: 1rem;">
-                    <!--  classes for styling controls:    class="page-item item link pagination previous next content-previous" -->
+                <div *ngIf="newsArray.length>5 && searchText && (newsArray | filter: searchText.trim()).length > 5"
+                    style="margin-top: 1rem;">
                     <pagination-controls (pageChange)="p = $event"></pagination-controls>
                 </div>
                 <div>
-                    <!-- <div class="w3-container w3-padding">
-                    </div> -->
                     <ul class="w3-ul w3-hoverable w3-white">
-                        <h3 *ngIf="searchText?.trim() && (newsArray | filter: searchText?.trim()).length > 0">Results founded for <em>{{searchText}}</em></h3>
+                        <h3 *ngIf="searchText?.trim() && (newsArray | filter: searchText?.trim()).length > 0">Results
+                            founded for <em>{{searchText}}</em></h3>
                         <div *ngIf="searchText?.trim()">
                             <a>
-                            <li class="w3-padding-16" style="margin-bottom: 2px;"  *ngFor="let news of searchNewsArray | filter:searchText?.trim() | paginate: { itemsPerPage: 5, currentPage: p }" (click)="onNavigate(news)">
-                                <img src="{{news.imgSrc}}" alt="Image" class=" w3-margin-right" style="width:60px">
-                                {{news.title}}
-                                <!-- <span>Height, Weight, Age, <br>Family, Bio & More</span> -->
-                            </li>
-                        </a>
+                                <li class="w3-padding-16" style="margin-bottom: 2px;"
+                                    *ngFor="let news of searchNewsArray | filter:searchText?.trim() | paginate: { itemsPerPage: 5, currentPage: p }"
+                                    (click)="onNavigate(news)">
+                                    <img src="{{news.imgSrc}}" alt="Image" class=" w3-margin-right" style="width:60px">
+                                    {{news.title}}
+                                </li>
+                            </a>
                         </div>
                         <hr style="visibility: hidden;">
-                        <mat-list-item  *ngIf="(newsArray | filter: searchText?.trim()).length === 0">
-                            <mat-icon animation="fadeInUp" delay="0" duration="500" offset="90000" triggerOnce="false" mat-list-avatar>error</mat-icon>
-                            <div  animation="fadeInUp" delay="0" duration="500" offset="90000" triggerOnce="false"mat-line>Oops...! No matching results for: <em>{{searchText}}</em> </div>
+                        <mat-list-item *ngIf="(newsArray | filter: searchText?.trim()).length === 0">
+                            <mat-icon animation="fadeInUp" delay="0" duration="500" offset="90000" triggerOnce="false"
+                                mat-list-avatar>error</mat-icon>
+                            <div animation="fadeInUp" delay="0" duration="500" offset="90000" triggerOnce="false"
+                                mat-line>Oops...! No matching results for: <em>{{searchText}}</em> </div>
                             <hr style="visibility: hidden;">
                         </mat-list-item>
                     </ul>

@@ -1542,5 +1542,61 @@ export class NewsService {
       ],
       description: ``
     },
+    {
+      id: 'news26',
+      category: ['Bollywood', 'Industry', 'Bollywood Industry'],
+      categoryId: 'Lalit Modi Sushmita Sen, Sushmita Sen Lalit Modi, Lalit Sushmita, Sushmita Lalit',
+      title: `Lalit Modi Makes His Relationship With Sushmita Sen Official`,
+      imgSrc: "assets/newsImages/july2022/lalit-sushmita.jpg",
+      instaSimpleLink:'https://www.instagram.com/p/CgBlL63Mi2P/',
+      twitterSimpleLink:'',
+      facebookSimpleLink:'',
+      linkedinSimpleLink:'',
+      otherFacts: [
+        {
+          fact: `Actress and former beauty queen Sushmita who made her outstanding come back in the web series "Arya" has now been in limelight after the official announcement of Lalit Modi about his relationship with her.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: '',
+          instaLink: ''
+        },
+        {
+          fact: `Lalit Modi on Thursday announced that he is dating Bollywood actress Sushmita Sen and intends to tie the knot with her soon. Modi had shared a series of pictures of the two on Instagram, calling the actress his better half' and describing it as a new beginning'.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: '',
+          instaLink: 'https://www.instagram.com/p/CgBlL63Mi2P/embed/'
+        },
+        {
+          fact: `Lalit wrote, "Just back in London after a whirling global tour #maldives # sardinia with the families - not to mention my # better-looking partner @sushmitasen47 - a new beginning a new life finally. Over the moon. 🥰😘😍😍🥰💕💞💖💘💓. Love does not mean marriage YET. BUT ONE THAT BY GOD'S GRACE WILL HAPPEN. I JUST ANNOUNCED THAT WE ARE TOGETHER 🥰😘"`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: '',
+          instaLink: ''
+        },
+        {
+          fact: `Sushmita, 46, has not yet confirmed her relationship with Lalit Modi. She had announced her split from model-actor Rohman Shawl in December last year with an Instagram post.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: '',
+          instaLink: ''
+        },
+        {
+          fact: `Talking about her career, she won the Miss Universe 1994 pageant and made her debut with Mahesh Bhatt's Dastak in 1996. Since then, she has worked in films like Biwi No 1, Fiza, Aankhen, Main Hoon Na, and Maine Pyaar Kyun Kiya? She adopted two daughters, Renee and Alisah. The Arya star adopted Renee at the age of 24.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: '',
+          instaLink: ''
+        },
+        {
+          fact: `Lalit Modi relocated to London in 2010, after the IPL controversy broke. In March, the High Court of London cleared him of 'actionable misrepresentation' as alleged by former Indian model-turned-investor Gurpreet Gill Maag in a legal challenge.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: '',
+          instaLink: ''
+        },
+      ],
+      description: ``
+    },
   ]
 }

@@ -70830,1191 +70830,1191 @@ export class CelebritiesService {
       ],
       description: `Johnny Lever (born John Prakash Rao Janumala; 14 August 1957) is an Indian actor and comedian who is known for his works in Hindi cinema. He is one of the first stand-up comedians in India. He is the recipient of numerous accolades, including thirteen Filmfare Awards nominations in Filmfare Award for Best Performance in a Comic Role, and has won the award twice, for his work in Deewana Mastana (1997) and Dulhe Raja (1998). He began his career in 1984, and has acted in more than three hundred Hindi films.`
     },
-    {
-      id: 'ce359',
-      category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'director'],
-      categoryId: ['Bollywood Actor/Actress, Model'],
-      name: `Sanjay Mishra`,
-      otherName: `Sanjay Mishra`,
-      nickName: ``,
-      fullname: ``,
-      height: `in feet inches - 5’ 7”`,
-      weight: '72 Kg',
-      gender: 'Male',
-      boyfriend: '',
-      profession: `Actor, Director`,
-      professionId: ``,
-      eyeColor: 'Black',
-      hairColor: 'White',
-      imgSrc: "assets/images/july2022/sanjay-mishra.jpg",
-      politicalParty: "",
-      politicalPartyImgSrc: "",
-      dob: {
-        date: '6',
-        month: 'October',
-        year: '1963'
-      },
-      dod: {
-        date: '',
-        month: '',
-        year: ''
-      },
-      deathCause: ``,
-      placeOfDeath: ``,
-      birthPlace: `Darbhanga, Bihar`,
-      nationality: 'Indian',
-      hometown: 'Varanasi, Uttar Pradesh, India',
-      school: `Kendriya Vidyalaya BHU, Varanasi, Uttar Pradesh, India`,
-      collegeUniversity: `National School of Drama, New Delhi, India`,
-      qualification: `Graduate of National School of Drama, New Delhi`,
-      religion: 'Hinduism',
-      zodiacSign: 'Libra',
-      bloodGroup: '',
-      foodHabit: '',
-      address: ``,
-      hobbies: `Cooking, Listening to Pink Floyd, Doing Photography`,
-      debut: {
-        lyrical: "",
-        lyricalImgSrc: "",
-        punjabiFilm: ``,
-        punjabiFilmImgSrc: "",
-        bollywoodFilm: `Oh Darling! Yeh Hai India! (1995)`,
-        bollywoodFilmImgSrc: "assets/images/july2022/Oh-Darling-Yeh-Hai-India.jpg",
-        hollywoodFilm: ``,
-        hollywoodFilmImgSrc: "",
-        tollywoodFilm: ``,
-        tollywoodFilmImgSrc: "",
-        tamilFilm: '',
-        tamilFilmImgSrc: "",
-        kannadaFilm: '',
-        kannadaFilmImgSrc: "",
-        punjabiAlbum: '',
-        punjabiAlbumImgSrc: "",
-        hindiAlbum: '',
-        hindiAlbumImgSrc: "",
-        singles: ``,
-        singlesImgSrc: "",
-        musicDirection: "",
-        musicDirectionImgSrc: "",
-        filmDirection: "Pranaam Walekum (2015)",
-        filmDirectionImgSrc: "",
-        tv: `Chanakya (1991)`,
-        tvImgSrc: "",
-        webSeries: "",
-        webSeriesImgSrc: "",
-        production: "",
-        productionImgSrc: "",
-        filmWriter: "",
-        filmWriterImgSrc: "",
-        lastSong: ``,
-        lastSongImgSrc: ``,
-        lastFilm: ``,
-        lastFilmImgSrc: ``
-      },
-      awards: [],
-      controversies: [],
-      maritalStatus: `Married`,
-      affairs: ``,
-      affairsImgSrc: ``,
-      wifeOrHusband: `Kiran Mishra`,
-      wifeOrHusbandImgSrc: `assets/images/july2022/Sanjay-Mishra-with-his-wife-Kiran.jpg`,
-      fiance: '',
-      fianceImgSrc: '',
-      children: {
-        son: `None`,
-        sonImgSrc: ``,
-        sonImgSrc1: '',
-        sonImgSrc2: '',
-        daughter: `Pal Mishra, Lamha Mishra`,
-        daughterImgSrc: 'assets/images/july2022/Sanjay-Mishra-with-his-daughters.jpg'
-      },
-      parents: {
-        father: 'Shambhu Nath Mishra (Civil Servant)',
-        fatherImgSrc: '',
-        mother: 'Name Not Known',
-        motherImgSrc: ''
-      },
+    // {
+    //   id: 'ce359',
+    //   category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'director'],
+    //   categoryId: ['Bollywood Actor/Actress, Model'],
+    //   name: `Sanjay Mishra`,
+    //   otherName: `Sanjay Mishra`,
+    //   nickName: ``,
+    //   fullname: ``,
+    //   height: `in feet inches - 5’ 7”`,
+    //   weight: '72 Kg',
+    //   gender: 'Male',
+    //   boyfriend: '',
+    //   profession: `Actor, Director`,
+    //   professionId: ``,
+    //   eyeColor: 'Black',
+    //   hairColor: 'White',
+    //   imgSrc: "assets/images/july2022/sanjay-mishra.jpg",
+    //   politicalParty: "",
+    //   politicalPartyImgSrc: "",
+    //   dob: {
+    //     date: '6',
+    //     month: 'October',
+    //     year: '1963'
+    //   },
+    //   dod: {
+    //     date: '',
+    //     month: '',
+    //     year: ''
+    //   },
+    //   deathCause: ``,
+    //   placeOfDeath: ``,
+    //   birthPlace: `Darbhanga, Bihar`,
+    //   nationality: 'Indian',
+    //   hometown: 'Varanasi, Uttar Pradesh, India',
+    //   school: `Kendriya Vidyalaya BHU, Varanasi, Uttar Pradesh, India`,
+    //   collegeUniversity: `National School of Drama, New Delhi, India`,
+    //   qualification: `Graduate of National School of Drama, New Delhi`,
+    //   religion: 'Hinduism',
+    //   zodiacSign: 'Libra',
+    //   bloodGroup: '',
+    //   foodHabit: '',
+    //   address: ``,
+    //   hobbies: `Cooking, Listening to Pink Floyd, Doing Photography`,
+    //   debut: {
+    //     lyrical: "",
+    //     lyricalImgSrc: "",
+    //     punjabiFilm: ``,
+    //     punjabiFilmImgSrc: "",
+    //     bollywoodFilm: `Oh Darling! Yeh Hai India! (1995)`,
+    //     bollywoodFilmImgSrc: "assets/images/july2022/Oh-Darling-Yeh-Hai-India.jpg",
+    //     hollywoodFilm: ``,
+    //     hollywoodFilmImgSrc: "",
+    //     tollywoodFilm: ``,
+    //     tollywoodFilmImgSrc: "",
+    //     tamilFilm: '',
+    //     tamilFilmImgSrc: "",
+    //     kannadaFilm: '',
+    //     kannadaFilmImgSrc: "",
+    //     punjabiAlbum: '',
+    //     punjabiAlbumImgSrc: "",
+    //     hindiAlbum: '',
+    //     hindiAlbumImgSrc: "",
+    //     singles: ``,
+    //     singlesImgSrc: "",
+    //     musicDirection: "",
+    //     musicDirectionImgSrc: "",
+    //     filmDirection: "Pranaam Walekum (2015)",
+    //     filmDirectionImgSrc: "",
+    //     tv: `Chanakya (1991)`,
+    //     tvImgSrc: "",
+    //     webSeries: "",
+    //     webSeriesImgSrc: "",
+    //     production: "",
+    //     productionImgSrc: "",
+    //     filmWriter: "",
+    //     filmWriterImgSrc: "",
+    //     lastSong: ``,
+    //     lastSongImgSrc: ``,
+    //     lastFilm: ``,
+    //     lastFilmImgSrc: ``
+    //   },
+    //   awards: [],
+    //   controversies: [],
+    //   maritalStatus: `Married`,
+    //   affairs: ``,
+    //   affairsImgSrc: ``,
+    //   wifeOrHusband: `Kiran Mishra`,
+    //   wifeOrHusbandImgSrc: `assets/images/july2022/Sanjay-Mishra-with-his-wife-Kiran.jpg`,
+    //   fiance: '',
+    //   fianceImgSrc: '',
+    //   children: {
+    //     son: `None`,
+    //     sonImgSrc: ``,
+    //     sonImgSrc1: '',
+    //     sonImgSrc2: '',
+    //     daughter: `Pal Mishra, Lamha Mishra`,
+    //     daughterImgSrc: 'assets/images/july2022/Sanjay-Mishra-with-his-daughters.jpg'
+    //   },
+    //   parents: {
+    //     father: 'Shambhu Nath Mishra (Civil Servant)',
+    //     fatherImgSrc: '',
+    //     mother: 'Name Not Known',
+    //     motherImgSrc: ''
+    //   },
 
-      siblings: {
-        brother: `Sumit Mishra, Amit Mishra`,
-        brotherImgSrc: '',
-        sister: `Meenal Mishra`,
-        sisterImgSrc: ''
-      },
-      favourites: {
-        food: `Achari Mutton and Pepper Chicken`,
-        fruit: ``,
-        beverages: ``,
-        actor: `<a href="https://www.newsfarmers.com/irrfan-khan" class="celebrity" target="_blank" rel="noopener">Irrfan Khan</a>, <a href="https://www.newsfarmers.com/nawazuddin-siddiqui" class="celebrity" target="_blank" rel="noopener">Nawazuddin Siddiqui</a>, <a href="https://www.newsfarmers.com/shah-rukh-khan" target="_blank" class="celebrity" rel="noopener">Shah Rukh Khan</a>`,
-        actress: ``,
-        singer: ``,
-        fashionBrand: ``,
-        colour: ``,
-        destination: ``,
-        sports: `Cricket`,
-        sportsman: ``,
-        dress: '',
-        song: ``,
-        film: ``,
-        director: ``
-      },
-      styleQoutient: {
-        carsCollection: "",
-        imgSrc: '',
-      },
-      // INR 6 to 7 crores+/movie (as in 2021)
-      moneyFactor: {
-        earning: `Not Known`,
-        netWorth: 'INR 110 Crore (as in 2021)',
-        imgSrc: 'assets/images/july2022/sanjay-mishra-net.jpg'
-      },
-      tattoos: [],
-      facts: {
-        smoke: 'Not Known',
-        alcoholic: 'Not Known'
-      },
-      otherFacts: [
-        {
-          fact: 'Instagram',
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: '',
-          instaLink: 'https://www.instagram.com/p/Cf6tHLEMssu/embed/'
-        },
-        {
-          fact: "Interview",
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: 'https://www.youtube.com/embed/C0U4r45WDv8?feature=oembed'
-        },
-        {
-          fact: `He was born in Darbhanga, Bihar.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `His father was an employee in the Ministry of Information and Broadcasting in the Government of India.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `His grandfather was a Civil Servant and served as the District Magistrate.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `He was brought up in Varanasi.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `His earliest influence was his grandmother who used to sing for the Patna Radio Station. He used to spend his childhood vacation with her.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `His father had a keen interest in arts, which influenced him to do something in those lines.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `He wasn&#8217;t good at studies and flunked class 10 twice.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `He had heard a lot about the National Schooling of Drama and decided to attend it.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `When he entered NSD, Irrfan Khan was in his final year at NSD.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `Tigmanshu Dhulia was his batchmate at the NSD.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `After graduating from NSD, he moved to Mumbai in 1991.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `He had to struggle a lot in Mumbai for his survival and often had to live on <em>Vada Paav.</em>`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `In the early 1990s, Tigmanshu Dhulia offered him a television serial.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `After watching Ketan Mehta&#8217;s cult film- Mirch Masala, he became a fan of him and decided to be around him.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `He had to give more than 20 takes on the first day of the shoot of a TV serial- <em>Chanakya</em> in 1991.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `During the 1999 Cricket World Cup, he became famous with his Apple Singh commercials for ESPN Star Sports.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `He became a household name after playing the role of a corrupt, soaked in red-tapism bureaucrat- <em>Shukla in </em>the hugely popular sitcom <em>Office Office.</em>`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `His performance in the 2014 film- Ankhon Dekhi was appreciated by the critics for which he got the Filmfare Award for Best Actor (Critics).`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `In 2016, he has also been awarded the Best Actor Award at Indian Film Festival Los Angeles for the film- <em>Masaan.</em>`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `In an interview, he revealed that at one point in time, he had quit his film career and went to Rishikesh, where he worked as a cook and washed dishes at a dhaba. According to him, he had become disillusioned with his career after he lost his father and was himself diagnosed with an illness. While talking about this, he said,<br />
-          <blockquote><p>That time was different. I had no complaints about the industry. I had complaints about my life. My father had passed away at the time, and even I was battling an illness. So instances like these make you really question what you are doing with the time you have.”</p></blockquote>
-          <p>He added,</p>
-          <blockquote><p>I was suffering from a severe illness. Doctors had removed 15 litres of pus from my stomach and just after it got cured, I lost my father. I had started losing my life. So, I went to Rishikesh and started making omelettes at a dhaba near the bank of Ganga. The dhaba owner told me I will have to wash 50 cups a day and I will get Rs 150. But then I thought I need money for my survival.&#8221;</p></blockquote>
-          <p>In the same interview, the actor gave credit to director Rohit Shetty for his comeback in the film industry. He said,</p>
-          <blockquote><p>After working there for a day, people visiting the dhaba started recognising me. They used to say ‘Arre aap to Golmaal mein the na’ and wanted photographs with me. Then my mother used to call me and cry asking me to come home. In between all this, Rohit Shetty called me and offered a role in All the Best. That’s when I decided to get back to work.&#8221;</p></blockquote>`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-      ],
-      description: `Sanjay Mishra (born 6 October 1963) is an Indian actor known for his works predominantly in Hindi cinema and television. An alumnus of National School of Drama, he made his acting debut in the 1995 film Oh Darling! Yeh Hai India!. Later films include Rajkumar (1996) and Satya (1998). He also appeared as Apple Singh, an "icon" used by ESPN Star Sports during the 1999 Cricket World Cup. In 2015, he received the Filmfare Award for Best Actor (Critics) for his performance in Ankhon Dekhi.`
-    },
-    {
-      id: 'ce360',
-      category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Comedian'],
-      categoryId: ['Bollywood Actor/Actress, Model'],
-      name: `Mukesh Tiwari`,
-      otherName: `Mukesh Tiwari, MukeshTiwari`,
-      nickName: ``,
-      fullname: ``,
-      height: `in feet inches - 5’ 9”`,
-      weight: '75 Kg',
-      gender: 'Male',
-      boyfriend: '',
-      profession: `Actor, Comedian`,
-      professionId: ``,
-      eyeColor: 'Black',
-      hairColor: 'Black',
-      imgSrc: "assets/images/july2022/mukesh-tiwari.jpg",
-      politicalParty: "",
-      politicalPartyImgSrc: "",
-      dob: {
-        date: '24',
-        month: 'August',
-        year: '1969'
-      },
-      dod: {
-        date: '',
-        month: '',
-        year: ''
-      },
-      deathCause: ``,
-      placeOfDeath: ``,
-      birthPlace: `Sagar, Madhya Pradesh, India`,
-      nationality: 'Indian',
-      hometown: 'Sagar, Madhya Pradesh, India',
-      school: `Lal School, Sagar, Madhya Pradesh, India<br />
-      Govt. Multipurpose Higher Secondary School Sagar, Madhya Pradesh, India`,
-      collegeUniversity: `Dr. Hari Singh Gour University, Sagar, Madhya Pradesh, India<br />
-      National School of Drama, New Delhi, India`,
-      qualification: `Graduate`,
-      religion: 'Hinduism',
-      zodiacSign: 'Virgo',
-      bloodGroup: '',
-      foodHabit: '',
-      address: `Mumbai, India`,
-      hobbies: `Travelling`,
-      debut: {
-        lyrical: "",
-        lyricalImgSrc: "",
-        punjabiFilm: ``,
-        punjabiFilmImgSrc: "",
-        bollywoodFilm: `'China Gate' (1998)`,
-        bollywoodFilmImgSrc: "",
-        hollywoodFilm: ``,
-        hollywoodFilmImgSrc: "",
-        tollywoodFilm: ``,
-        tollywoodFilmImgSrc: "",
-        tamilFilm: '',
-        tamilFilmImgSrc: "",
-        kannadaFilm: '',
-        kannadaFilmImgSrc: "",
-        punjabiAlbum: '',
-        punjabiAlbumImgSrc: "",
-        hindiAlbum: '',
-        hindiAlbumImgSrc: "",
-        singles: ``,
-        singlesImgSrc: "",
-        musicDirection: "",
-        musicDirectionImgSrc: "",
-        filmDirection: "",
-        filmDirectionImgSrc: "",
-        tv: `'Taarak Mehta Ka Ooltah Chashmah' (2008)`,
-        tvImgSrc: "",
-        webSeries: "",
-        webSeriesImgSrc: "",
-        production: "",
-        productionImgSrc: "",
-        filmWriter: "",
-        filmWriterImgSrc: "",
-        lastSong: ``,
-        lastSongImgSrc: ``,
-        lastFilm: ``,
-        lastFilmImgSrc: ``
-      },
-      awards: [],
-      controversies: [],
-      maritalStatus: `Married`,
-      affairs: ``,
-      affairsImgSrc: ``,
-      wifeOrHusband: `Violet Nazir Tiwari`,
-      wifeOrHusbandImgSrc: ``,
-      fiance: '',
-      fianceImgSrc: '',
-      children: {
-        son: `Not Known`,
-        sonImgSrc: ``,
-        sonImgSrc1: '',
-        sonImgSrc2: '',
-        daughter: `Not Known`,
-        daughterImgSrc: ''
-      },
-      parents: {
-        father: 'Not Known',
-        fatherImgSrc: '',
-        mother: 'Not Known',
-        motherImgSrc: ''
-      },
+    //   siblings: {
+    //     brother: `Sumit Mishra, Amit Mishra`,
+    //     brotherImgSrc: '',
+    //     sister: `Meenal Mishra`,
+    //     sisterImgSrc: ''
+    //   },
+    //   favourites: {
+    //     food: `Achari Mutton and Pepper Chicken`,
+    //     fruit: ``,
+    //     beverages: ``,
+    //     actor: `<a href="https://www.newsfarmers.com/irrfan-khan" class="celebrity" target="_blank" rel="noopener">Irrfan Khan</a>, <a href="https://www.newsfarmers.com/nawazuddin-siddiqui" class="celebrity" target="_blank" rel="noopener">Nawazuddin Siddiqui</a>, <a href="https://www.newsfarmers.com/shah-rukh-khan" target="_blank" class="celebrity" rel="noopener">Shah Rukh Khan</a>`,
+    //     actress: ``,
+    //     singer: ``,
+    //     fashionBrand: ``,
+    //     colour: ``,
+    //     destination: ``,
+    //     sports: `Cricket`,
+    //     sportsman: ``,
+    //     dress: '',
+    //     song: ``,
+    //     film: ``,
+    //     director: ``
+    //   },
+    //   styleQoutient: {
+    //     carsCollection: "",
+    //     imgSrc: '',
+    //   },
+    //   // INR 6 to 7 crores+/movie (as in 2021)
+    //   moneyFactor: {
+    //     earning: `Not Known`,
+    //     netWorth: 'INR 110 Crore (as in 2021)',
+    //     imgSrc: 'assets/images/july2022/sanjay-mishra-net.jpg'
+    //   },
+    //   tattoos: [],
+    //   facts: {
+    //     smoke: 'Not Known',
+    //     alcoholic: 'Not Known'
+    //   },
+    //   otherFacts: [
+    //     {
+    //       fact: 'Instagram',
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: '',
+    //       instaLink: 'https://www.instagram.com/p/Cf6tHLEMssu/embed/'
+    //     },
+    //     {
+    //       fact: "Interview",
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: 'https://www.youtube.com/embed/C0U4r45WDv8?feature=oembed'
+    //     },
+    //     {
+    //       fact: `He was born in Darbhanga, Bihar.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `His father was an employee in the Ministry of Information and Broadcasting in the Government of India.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `His grandfather was a Civil Servant and served as the District Magistrate.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `He was brought up in Varanasi.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `His earliest influence was his grandmother who used to sing for the Patna Radio Station. He used to spend his childhood vacation with her.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `His father had a keen interest in arts, which influenced him to do something in those lines.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `He wasn&#8217;t good at studies and flunked class 10 twice.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `He had heard a lot about the National Schooling of Drama and decided to attend it.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `When he entered NSD, Irrfan Khan was in his final year at NSD.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `Tigmanshu Dhulia was his batchmate at the NSD.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `After graduating from NSD, he moved to Mumbai in 1991.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `He had to struggle a lot in Mumbai for his survival and often had to live on <em>Vada Paav.</em>`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `In the early 1990s, Tigmanshu Dhulia offered him a television serial.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `After watching Ketan Mehta&#8217;s cult film- Mirch Masala, he became a fan of him and decided to be around him.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `He had to give more than 20 takes on the first day of the shoot of a TV serial- <em>Chanakya</em> in 1991.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `During the 1999 Cricket World Cup, he became famous with his Apple Singh commercials for ESPN Star Sports.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `He became a household name after playing the role of a corrupt, soaked in red-tapism bureaucrat- <em>Shukla in </em>the hugely popular sitcom <em>Office Office.</em>`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `His performance in the 2014 film- Ankhon Dekhi was appreciated by the critics for which he got the Filmfare Award for Best Actor (Critics).`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `In 2016, he has also been awarded the Best Actor Award at Indian Film Festival Los Angeles for the film- <em>Masaan.</em>`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `In an interview, he revealed that at one point in time, he had quit his film career and went to Rishikesh, where he worked as a cook and washed dishes at a dhaba. According to him, he had become disillusioned with his career after he lost his father and was himself diagnosed with an illness. While talking about this, he said,<br />
+    //       <blockquote><p>That time was different. I had no complaints about the industry. I had complaints about my life. My father had passed away at the time, and even I was battling an illness. So instances like these make you really question what you are doing with the time you have.”</p></blockquote>
+    //       <p>He added,</p>
+    //       <blockquote><p>I was suffering from a severe illness. Doctors had removed 15 litres of pus from my stomach and just after it got cured, I lost my father. I had started losing my life. So, I went to Rishikesh and started making omelettes at a dhaba near the bank of Ganga. The dhaba owner told me I will have to wash 50 cups a day and I will get Rs 150. But then I thought I need money for my survival.&#8221;</p></blockquote>
+    //       <p>In the same interview, the actor gave credit to director Rohit Shetty for his comeback in the film industry. He said,</p>
+    //       <blockquote><p>After working there for a day, people visiting the dhaba started recognising me. They used to say ‘Arre aap to Golmaal mein the na’ and wanted photographs with me. Then my mother used to call me and cry asking me to come home. In between all this, Rohit Shetty called me and offered a role in All the Best. That’s when I decided to get back to work.&#8221;</p></blockquote>`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //   ],
+    //   description: `Sanjay Mishra (born 6 October 1963) is an Indian actor known for his works predominantly in Hindi cinema and television. An alumnus of National School of Drama, he made his acting debut in the 1995 film Oh Darling! Yeh Hai India!. Later films include Rajkumar (1996) and Satya (1998). He also appeared as Apple Singh, an "icon" used by ESPN Star Sports during the 1999 Cricket World Cup. In 2015, he received the Filmfare Award for Best Actor (Critics) for his performance in Ankhon Dekhi.`
+    // },
+    // {
+    //   id: 'ce360',
+    //   category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Comedian'],
+    //   categoryId: ['Bollywood Actor/Actress, Model'],
+    //   name: `Mukesh Tiwari`,
+    //   otherName: `Mukesh Tiwari, MukeshTiwari`,
+    //   nickName: ``,
+    //   fullname: ``,
+    //   height: `in feet inches - 5’ 9”`,
+    //   weight: '75 Kg',
+    //   gender: 'Male',
+    //   boyfriend: '',
+    //   profession: `Actor, Comedian`,
+    //   professionId: ``,
+    //   eyeColor: 'Black',
+    //   hairColor: 'Black',
+    //   imgSrc: "assets/images/july2022/mukesh-tiwari.jpg",
+    //   politicalParty: "",
+    //   politicalPartyImgSrc: "",
+    //   dob: {
+    //     date: '24',
+    //     month: 'August',
+    //     year: '1969'
+    //   },
+    //   dod: {
+    //     date: '',
+    //     month: '',
+    //     year: ''
+    //   },
+    //   deathCause: ``,
+    //   placeOfDeath: ``,
+    //   birthPlace: `Sagar, Madhya Pradesh, India`,
+    //   nationality: 'Indian',
+    //   hometown: 'Sagar, Madhya Pradesh, India',
+    //   school: `Lal School, Sagar, Madhya Pradesh, India<br />
+    //   Govt. Multipurpose Higher Secondary School Sagar, Madhya Pradesh, India`,
+    //   collegeUniversity: `Dr. Hari Singh Gour University, Sagar, Madhya Pradesh, India<br />
+    //   National School of Drama, New Delhi, India`,
+    //   qualification: `Graduate`,
+    //   religion: 'Hinduism',
+    //   zodiacSign: 'Virgo',
+    //   bloodGroup: '',
+    //   foodHabit: '',
+    //   address: `Mumbai, India`,
+    //   hobbies: `Travelling`,
+    //   debut: {
+    //     lyrical: "",
+    //     lyricalImgSrc: "",
+    //     punjabiFilm: ``,
+    //     punjabiFilmImgSrc: "",
+    //     bollywoodFilm: `'China Gate' (1998)`,
+    //     bollywoodFilmImgSrc: "",
+    //     hollywoodFilm: ``,
+    //     hollywoodFilmImgSrc: "",
+    //     tollywoodFilm: ``,
+    //     tollywoodFilmImgSrc: "",
+    //     tamilFilm: '',
+    //     tamilFilmImgSrc: "",
+    //     kannadaFilm: '',
+    //     kannadaFilmImgSrc: "",
+    //     punjabiAlbum: '',
+    //     punjabiAlbumImgSrc: "",
+    //     hindiAlbum: '',
+    //     hindiAlbumImgSrc: "",
+    //     singles: ``,
+    //     singlesImgSrc: "",
+    //     musicDirection: "",
+    //     musicDirectionImgSrc: "",
+    //     filmDirection: "",
+    //     filmDirectionImgSrc: "",
+    //     tv: `'Taarak Mehta Ka Ooltah Chashmah' (2008)`,
+    //     tvImgSrc: "",
+    //     webSeries: "",
+    //     webSeriesImgSrc: "",
+    //     production: "",
+    //     productionImgSrc: "",
+    //     filmWriter: "",
+    //     filmWriterImgSrc: "",
+    //     lastSong: ``,
+    //     lastSongImgSrc: ``,
+    //     lastFilm: ``,
+    //     lastFilmImgSrc: ``
+    //   },
+    //   awards: [],
+    //   controversies: [],
+    //   maritalStatus: `Married`,
+    //   affairs: ``,
+    //   affairsImgSrc: ``,
+    //   wifeOrHusband: `Violet Nazir Tiwari`,
+    //   wifeOrHusbandImgSrc: ``,
+    //   fiance: '',
+    //   fianceImgSrc: '',
+    //   children: {
+    //     son: `Not Known`,
+    //     sonImgSrc: ``,
+    //     sonImgSrc1: '',
+    //     sonImgSrc2: '',
+    //     daughter: `Not Known`,
+    //     daughterImgSrc: ''
+    //   },
+    //   parents: {
+    //     father: 'Not Known',
+    //     fatherImgSrc: '',
+    //     mother: 'Not Known',
+    //     motherImgSrc: ''
+    //   },
 
-      siblings: {
-        brother: ``,
-        brotherImgSrc: '',
-        sister: ``,
-        sisterImgSrc: ''
-      },
-      favourites: {
-        food: `'Pani-Puri', 'Aloo-Puri'`,
-        fruit: ``,
-        beverages: ``,
-        actor: `<a href="https://www.newsfarmers.com/ajay-devgn" class="celebrity" target="_blank" rel="noopener">Ajay Devgan</a>`,
-        actress: `<a href="https://www.newsfarmers.com/rani-mukerji" class="celebrity" target="_blank">Rani Mukerji</a>`,
-        singer: `A. R. Rahman`,
-        fashionBrand: ``,
-        colour: `White`,
-        destination: `Goa and Canada`,
-        sports: `Football`,
-        sportsman: `Boris Becker (Tennis Player)`,
-        dress: '',
-        song: ``,
-        film: `Apharan`,
-        director: ``
-      },
-      styleQoutient: {
-        carsCollection: "",
-        imgSrc: '',
-      },
-      // INR 6 to 7 crores+/movie (as in 2021)
-      moneyFactor: {
-        earning: `Not Known`,
-        netWorth: 'INR 15 Crore (as in 2021)',
-        imgSrc: 'assets/images/july2022/mukesh-tiwari-net.jpg'
-      },
-      tattoos: [],
-      facts: {
-        smoke: 'Not Known',
-        alcoholic: 'Yes'
-      },
-      otherFacts: [
-        // {
-        //   fact: 'Instagram',
-        //   imgSrc: '',
-        //   imgCaption: '',
-        //   videoSrc: '',
-        //   instaLink: 'https://www.instagram.com/p/Cf6tHLEMssu/embed/'
-        // },
-        {
-          fact: "Interview",
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: 'https://www.youtube.com/embed/ZJUHMO-gah0?feature=oembed'
-        },
-        {
-          fact: `Mukesh Tiwari started his career in 1998.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `He is mostly known as &#8216;Bad Man&#8217; in the film industry.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `In 1998, he won the Most Promising Debut (Male) Zee Cine Awards for the movie &#8216;China Gate&#8217;`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `He got fame in 2003 from &#8216;Gangaajal&#8217; movie.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `He has appeared in more than 100 movies.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `Apart from Bollywood movies, he also appeared in Punjabi, Tamil &amp; Telugu movies.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `He learnt Tamil for his role in Dhanush starrer film &#8216;Anegan.&#8217;`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `A role inspired by his Golmaal&#8217;s character of &#8220;Vasooli Bhai&#8221; was offered to him in &#8216;Comedy Nights With Kapil,&#8217; but he declined the offer; as he wanted to focus on films.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-      ],
-      description: `Mukesh Tiwari is an Indian actor, who has worked predominantly in Bollywood. He is known for playing negative and comic side roles. He entered the film industry in the year 1998 with the movie China Gate. He is known for his work in The Legend of Bhagat Singh, Gangaajal and Golmaal.`
-    },
-    {
-      id: 'ce361',
-      category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor'],
-      categoryId: ['Bollywood Actor/Actress, Model'],
-      name: `Rajpal Yadav`,
-      otherName: `Rajpal Yadav, Rajpal Naurang Yadav, RajpalYadav`,
-      nickName: ``,
-      fullname: ``,
-      height: `in feet inches - 5’ 3”`,
-      weight: '58 Kg',
-      gender: 'Male',
-      boyfriend: '',
-      profession: `Actor`,
-      professionId: ``,
-      eyeColor: 'Black',
-      hairColor: 'Black',
-      imgSrc: "assets/images/july2022/rajpal-yadav.jpg",
-      politicalParty: "",
-      politicalPartyImgSrc: "",
-      dob: {
-        date: '16',
-        month: 'March',
-        year: '1971'
-      },
-      dod: {
-        date: '',
-        month: '',
-        year: ''
-      },
-      deathCause: ``,
-      placeOfDeath: ``,
-      birthPlace: `Kundra, Shahjahanpur, Uttar Pradesh, India`,
-      nationality: 'Indian',
-      hometown: 'Shahjahanpur, Uttar Pradesh, India',
-      school: `Not Known`,
-      collegeUniversity: `Bhartendu Academy of Dramatic Arts, Lucknow<br />
-      National School of Drama, New Delhi`,
-      qualification: `Theatre Course`,
-      religion: 'Hinduism',
-      zodiacSign: 'Pisces',
-      bloodGroup: '',
-      foodHabit: '',
-      address: ``,
-      hobbies: `Theatre`,
-      debut: {
-        lyrical: "",
-        lyricalImgSrc: "",
-        punjabiFilm: ``,
-        punjabiFilmImgSrc: "",
-        bollywoodFilm: `Dil Kya Kare (1999)`,
-        bollywoodFilmImgSrc: "",
-        hollywoodFilm: ``,
-        hollywoodFilmImgSrc: "",
-        tollywoodFilm: ``,
-        tollywoodFilmImgSrc: "",
-        tamilFilm: '',
-        tamilFilmImgSrc: "",
-        kannadaFilm: '',
-        kannadaFilmImgSrc: "",
-        punjabiAlbum: '',
-        punjabiAlbumImgSrc: "",
-        hindiAlbum: '',
-        hindiAlbumImgSrc: "",
-        singles: ``,
-        singlesImgSrc: "",
-        musicDirection: "",
-        musicDirectionImgSrc: "",
-        filmDirection: "",
-        filmDirectionImgSrc: "",
-        tv: `Mungeri ke bhai Naurangilal (1999)`,
-        tvImgSrc: "",
-        webSeries: "",
-        webSeriesImgSrc: "",
-        production: "",
-        productionImgSrc: "",
-        filmWriter: "",
-        filmWriterImgSrc: "",
-        lastSong: ``,
-        lastSongImgSrc: ``,
-        lastFilm: ``,
-        lastFilmImgSrc: ``
-      },
-      awards: [],
-      controversies: [
-        {
-          title:``,
-          controversy:`In 2013, he was jailed for 10 days by the Delhi High Court in the charges of concealing facts about 5 crore (INR) recovery after the complaint by a Delhi businessman.`
-        },
-        {
-          title:``,
-          controversy:`In 2015, a fake news trended on whatsapp and facebook that he died due to a heart attack.`
-        }
-      ],
-      maritalStatus: `Married`,
-      affairs: ``,
-      affairsImgSrc: ``,
-      wifeOrHusband: `Radha Yadav`,
-      wifeOrHusbandImgSrc: `assets/images/july2022/Rajpal-Yadav-with-his-wife-and-daughter.jpg`,
-      fiance: '',
-      fianceImgSrc: '',
-      children: {
-        son: `N/A`,
-        sonImgSrc: ``,
-        sonImgSrc1: '',
-        sonImgSrc2: '',
-        daughter: `1`,
-        daughterImgSrc: ''
-      },
-      parents: {
-        father: 'Not Known',
-        fatherImgSrc: '',
-        mother: 'Not Known',
-        motherImgSrc: ''
-      },
+    //   siblings: {
+    //     brother: ``,
+    //     brotherImgSrc: '',
+    //     sister: ``,
+    //     sisterImgSrc: ''
+    //   },
+    //   favourites: {
+    //     food: `'Pani-Puri', 'Aloo-Puri'`,
+    //     fruit: ``,
+    //     beverages: ``,
+    //     actor: `<a href="https://www.newsfarmers.com/ajay-devgn" class="celebrity" target="_blank" rel="noopener">Ajay Devgan</a>`,
+    //     actress: `<a href="https://www.newsfarmers.com/rani-mukerji" class="celebrity" target="_blank">Rani Mukerji</a>`,
+    //     singer: `A. R. Rahman`,
+    //     fashionBrand: ``,
+    //     colour: `White`,
+    //     destination: `Goa and Canada`,
+    //     sports: `Football`,
+    //     sportsman: `Boris Becker (Tennis Player)`,
+    //     dress: '',
+    //     song: ``,
+    //     film: `Apharan`,
+    //     director: ``
+    //   },
+    //   styleQoutient: {
+    //     carsCollection: "",
+    //     imgSrc: '',
+    //   },
+    //   // INR 6 to 7 crores+/movie (as in 2021)
+    //   moneyFactor: {
+    //     earning: `Not Known`,
+    //     netWorth: 'INR 15 Crore (as in 2021)',
+    //     imgSrc: 'assets/images/july2022/mukesh-tiwari-net.jpg'
+    //   },
+    //   tattoos: [],
+    //   facts: {
+    //     smoke: 'Not Known',
+    //     alcoholic: 'Yes'
+    //   },
+    //   otherFacts: [
+    //     // {
+    //     //   fact: 'Instagram',
+    //     //   imgSrc: '',
+    //     //   imgCaption: '',
+    //     //   videoSrc: '',
+    //     //   instaLink: 'https://www.instagram.com/p/Cf6tHLEMssu/embed/'
+    //     // },
+    //     {
+    //       fact: "Interview",
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: 'https://www.youtube.com/embed/ZJUHMO-gah0?feature=oembed'
+    //     },
+    //     {
+    //       fact: `Mukesh Tiwari started his career in 1998.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `He is mostly known as &#8216;Bad Man&#8217; in the film industry.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `In 1998, he won the Most Promising Debut (Male) Zee Cine Awards for the movie &#8216;China Gate&#8217;`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `He got fame in 2003 from &#8216;Gangaajal&#8217; movie.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `He has appeared in more than 100 movies.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `Apart from Bollywood movies, he also appeared in Punjabi, Tamil &amp; Telugu movies.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `He learnt Tamil for his role in Dhanush starrer film &#8216;Anegan.&#8217;`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `A role inspired by his Golmaal&#8217;s character of &#8220;Vasooli Bhai&#8221; was offered to him in &#8216;Comedy Nights With Kapil,&#8217; but he declined the offer; as he wanted to focus on films.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //   ],
+    //   description: `Mukesh Tiwari is an Indian actor, who has worked predominantly in Bollywood. He is known for playing negative and comic side roles. He entered the film industry in the year 1998 with the movie China Gate. He is known for his work in The Legend of Bhagat Singh, Gangaajal and Golmaal.`
+    // },
+    // {
+    //   id: 'ce361',
+    //   category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor'],
+    //   categoryId: ['Bollywood Actor/Actress, Model'],
+    //   name: `Rajpal Yadav`,
+    //   otherName: `Rajpal Yadav, Rajpal Naurang Yadav, RajpalYadav`,
+    //   nickName: ``,
+    //   fullname: ``,
+    //   height: `in feet inches - 5’ 3”`,
+    //   weight: '58 Kg',
+    //   gender: 'Male',
+    //   boyfriend: '',
+    //   profession: `Actor`,
+    //   professionId: ``,
+    //   eyeColor: 'Black',
+    //   hairColor: 'Black',
+    //   imgSrc: "assets/images/july2022/rajpal-yadav.jpg",
+    //   politicalParty: "",
+    //   politicalPartyImgSrc: "",
+    //   dob: {
+    //     date: '16',
+    //     month: 'March',
+    //     year: '1971'
+    //   },
+    //   dod: {
+    //     date: '',
+    //     month: '',
+    //     year: ''
+    //   },
+    //   deathCause: ``,
+    //   placeOfDeath: ``,
+    //   birthPlace: `Kundra, Shahjahanpur, Uttar Pradesh, India`,
+    //   nationality: 'Indian',
+    //   hometown: 'Shahjahanpur, Uttar Pradesh, India',
+    //   school: `Not Known`,
+    //   collegeUniversity: `Bhartendu Academy of Dramatic Arts, Lucknow<br />
+    //   National School of Drama, New Delhi`,
+    //   qualification: `Theatre Course`,
+    //   religion: 'Hinduism',
+    //   zodiacSign: 'Pisces',
+    //   bloodGroup: '',
+    //   foodHabit: '',
+    //   address: ``,
+    //   hobbies: `Theatre`,
+    //   debut: {
+    //     lyrical: "",
+    //     lyricalImgSrc: "",
+    //     punjabiFilm: ``,
+    //     punjabiFilmImgSrc: "",
+    //     bollywoodFilm: `Dil Kya Kare (1999)`,
+    //     bollywoodFilmImgSrc: "",
+    //     hollywoodFilm: ``,
+    //     hollywoodFilmImgSrc: "",
+    //     tollywoodFilm: ``,
+    //     tollywoodFilmImgSrc: "",
+    //     tamilFilm: '',
+    //     tamilFilmImgSrc: "",
+    //     kannadaFilm: '',
+    //     kannadaFilmImgSrc: "",
+    //     punjabiAlbum: '',
+    //     punjabiAlbumImgSrc: "",
+    //     hindiAlbum: '',
+    //     hindiAlbumImgSrc: "",
+    //     singles: ``,
+    //     singlesImgSrc: "",
+    //     musicDirection: "",
+    //     musicDirectionImgSrc: "",
+    //     filmDirection: "",
+    //     filmDirectionImgSrc: "",
+    //     tv: `Mungeri ke bhai Naurangilal (1999)`,
+    //     tvImgSrc: "",
+    //     webSeries: "",
+    //     webSeriesImgSrc: "",
+    //     production: "",
+    //     productionImgSrc: "",
+    //     filmWriter: "",
+    //     filmWriterImgSrc: "",
+    //     lastSong: ``,
+    //     lastSongImgSrc: ``,
+    //     lastFilm: ``,
+    //     lastFilmImgSrc: ``
+    //   },
+    //   awards: [],
+    //   controversies: [
+    //     {
+    //       title:``,
+    //       controversy:`In 2013, he was jailed for 10 days by the Delhi High Court in the charges of concealing facts about 5 crore (INR) recovery after the complaint by a Delhi businessman.`
+    //     },
+    //     {
+    //       title:``,
+    //       controversy:`In 2015, a fake news trended on whatsapp and facebook that he died due to a heart attack.`
+    //     }
+    //   ],
+    //   maritalStatus: `Married`,
+    //   affairs: ``,
+    //   affairsImgSrc: ``,
+    //   wifeOrHusband: `Radha Yadav`,
+    //   wifeOrHusbandImgSrc: `assets/images/july2022/Rajpal-Yadav-with-his-wife-and-daughter.jpg`,
+    //   fiance: '',
+    //   fianceImgSrc: '',
+    //   children: {
+    //     son: `N/A`,
+    //     sonImgSrc: ``,
+    //     sonImgSrc1: '',
+    //     sonImgSrc2: '',
+    //     daughter: `1`,
+    //     daughterImgSrc: ''
+    //   },
+    //   parents: {
+    //     father: 'Not Known',
+    //     fatherImgSrc: '',
+    //     mother: 'Not Known',
+    //     motherImgSrc: ''
+    //   },
 
-      siblings: {
-        brother: ``,
-        brotherImgSrc: '',
-        sister: ``,
-        sisterImgSrc: ''
-      },
-      favourites: {
-        food: `Not Known`,
-        fruit: ``,
-        beverages: ``,
-        actor: `<a href="https://www.newsfarmers.com/amitabh-bachchan" class="celebrity" target="_blank" rel="noopener">Amitabh Bachchan</a>, <a href="https://www.newsfarmers.com/aamir-khan" class="celebrity" target="_blank">Aamir Khan</a>, Mehmood and Shakti Kapoor`,
-        actress: ``,
-        singer: ``,
-        fashionBrand: ``,
-        colour: ``,
-        destination: ``,
-        sports: ``,
-        sportsman: ``,
-        dress: '',
-        song: ``,
-        film: `Andaaz Apna Apna, Angoor, Sholay, Padosan and Jaane Bhi Do Yaaron`,
-        director: ``
-      },
-      styleQoutient: {
-        carsCollection: "",
-        imgSrc: '',
-      },
-      // INR 6 to 7 crores+/movie (as in 2021)
-      moneyFactor: {
-        earning: `Not Known`,
-        netWorth: 'INR 74 Crore (as in 2021)',
-        imgSrc: 'assets/images/july2022/rajpal-yadav-net.jpg'
-      },
-      tattoos: [],
-      facts: {
-        smoke: 'Yes',
-        alcoholic: 'Not Known'
-      },
-      otherFacts: [
-        {
-          fact: 'Instagram',
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: '',
-          instaLink: 'https://www.instagram.com/p/Cf4kn0krWfQ/embed/'
-        },
-        {
-          fact: "Interview",
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: 'https://www.youtube.com/embed/jgAid09ZR6s?feature=oembed'
-        },
-        {
-          fact: `Rajpal wanted to be an actor since his childhood, and was part of a theatre group in Shahjahanpur.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `He did a Doordarshan serial called <em>Mungeri ke bhai Naurangilal</em>, which was a sequel to <em>Mungerilal Ke Haseen Sapne</em>.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `He did a Coke ad commercial with Aishwarya Rai.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: 'https://www.youtube.com/embed/TeXal9Qr7EA?feature=oembed'
-        },
-        {
-          fact: `He won the Best Actor in a negative role award at the Screen Videocon Awards and Sansui Awards in 2000 for his role as Sippa (a dacoit) in the film <em>Jungle</em>.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `He has been honored with Yash Bharati and Janpad Ratna Award.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `His favourite comedy role is of Crimemaster Gogo in the film <em>Andaz Apna Apna</em>.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `In 2014, he did a Hollywood film <em>Bhopal: A Prayer for Rain</em> which was based on the real story of Bhopal gas tragedy in 1984.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-      ],
-      description: `Rajpal Naurang Yadav (born 16 March 1971) is an Indian actor, comedian, writer, film director and producer known for his work in Hindi cinema. As a comedian, he has been nominated for several awards such as Filmfare and Screen Awards.`
-    },
-    {
-      id: 'ce362',
-      category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Comedian'],
-      categoryId: ['Bollywood Actor/Actress, Model'],
-      name: `Sunil Grover`,
-      otherName: `Sunil Groover, SunilGrover`,
-      nickName: ``,
-      fullname: ``,
-      height: `in feet inches - 5’ 9”`,
-      weight: '64 Kg',
-      gender: 'Male',
-      boyfriend: '',
-      profession: `Actor, Comedian`,
-      professionId: ``,
-      eyeColor: 'Black',
-      hairColor: 'Black',
-      imgSrc: "assets/images/july2022/sunil-grover.jpg",
-      politicalParty: "",
-      politicalPartyImgSrc: "",
-      dob: {
-        date: '3',
-        month: 'August',
-        year: '1977'
-      },
-      dod: {
-        date: '',
-        month: '',
-        year: ''
-      },
-      deathCause: ``,
-      placeOfDeath: ``,
-      birthPlace: `Sirsa, Haryana, India`,
-      nationality: 'Indian',
-      hometown: 'Sirsa, Haryana, India',
-      school: `Arya Vidya Mandir, Mandi Dabwali, Sirsa`,
-      collegeUniversity: `Guru Nanak College, Haryana<br />
-      Panjab University, Chandigarh`,
-      qualification: `Bachelor of Commerce<br />
-      Masters in Theatre`,
-      religion: 'Hinduism',
-      zodiacSign: 'Leo',
-      bloodGroup: '',
-      foodHabit: '',
-      address: ``,
-      hobbies: ``,
-      debut: {
-        lyrical: "",
-        lyricalImgSrc: "",
-        punjabiFilm: ``,
-        punjabiFilmImgSrc: "",
-        bollywoodFilm: `The Legend of Bhagat Singh (2002)`,
-        bollywoodFilmImgSrc: "assets/images/july2022/Film-The-Legend-of-Bhagat-Singh-2002.jpg",
-        hollywoodFilm: ``,
-        hollywoodFilmImgSrc: "",
-        tollywoodFilm: ``,
-        tollywoodFilmImgSrc: "",
-        tamilFilm: '',
-        tamilFilmImgSrc: "",
-        kannadaFilm: '',
-        kannadaFilmImgSrc: "",
-        punjabiAlbum: '',
-        punjabiAlbumImgSrc: "",
-        hindiAlbum: '',
-        hindiAlbumImgSrc: "",
-        singles: ``,
-        singlesImgSrc: "",
-        musicDirection: "",
-        musicDirectionImgSrc: "",
-        filmDirection: "",
-        filmDirectionImgSrc: "",
-        tv: `Full Tension`,
-        tvImgSrc: "",
-        webSeries: "",
-        webSeriesImgSrc: "",
-        production: "",
-        productionImgSrc: "",
-        filmWriter: "",
-        filmWriterImgSrc: "",
-        lastSong: ``,
-        lastSongImgSrc: ``,
-        lastFilm: ``,
-        lastFilmImgSrc: ``
-      },
-      awards: [],
-      controversies: [
-        {
-          title:``,
-          controversy:`He left "Comedy Nights with Kapil" just because he asked Kapil for a salary hike, but Kapil refused to do so.`
-        },
-        {
-          title:``,
-          controversy:`In March 2017, Kapil Sharma, who was reportedly drunk, was accused of being abusive to Sunil Grover on a flight from Melbourne, Australia. A few days later, Kapil admitted on Facebook that he had an 'argument' with Sunil and questioned the intentions of eyewitnesses who claimed that he had assaulted Sunil. In reply to which, Sunil posted a message on Facebook as given below.<br />
-          <a ><img src="assets/images/july2022/Kapil-Sharma-and-Sunil-Grover-controversy-in-March-2017.jpg" alt="Sunil Grover and Kapil Sharma and Sunil Grover controversy in March 2017" width="250" height="250" class="alignnone size-thumbnail wp-image-71816" /></a>`
-        }
-      ],
-      maritalStatus: `Married`,
-      affairs: ``,
-      affairsImgSrc: ``,
-      wifeOrHusband: `Aarti`,
-      wifeOrHusbandImgSrc: `assets/images/july2022/Sunil-Grover-with-his-wife.jpg`,
-      fiance: '',
-      fianceImgSrc: '',
-      children: {
-        son: `Mohan`,
-        sonImgSrc: ``,
-        sonImgSrc1: '',
-        sonImgSrc2: '',
-        daughter: `N/A`,
-        daughterImgSrc: ''
-      },
-      parents: {
-        father: 'J.N. Grover',
-        fatherImgSrc: '',
-        mother: 'Name Not Known',
-        motherImgSrc: 'assets/images/july2022/Sunil-Grover-with-his-Mother.jpg'
-      },
+    //   siblings: {
+    //     brother: ``,
+    //     brotherImgSrc: '',
+    //     sister: ``,
+    //     sisterImgSrc: ''
+    //   },
+    //   favourites: {
+    //     food: `Not Known`,
+    //     fruit: ``,
+    //     beverages: ``,
+    //     actor: `<a href="https://www.newsfarmers.com/amitabh-bachchan" class="celebrity" target="_blank" rel="noopener">Amitabh Bachchan</a>, <a href="https://www.newsfarmers.com/aamir-khan" class="celebrity" target="_blank">Aamir Khan</a>, Mehmood and Shakti Kapoor`,
+    //     actress: ``,
+    //     singer: ``,
+    //     fashionBrand: ``,
+    //     colour: ``,
+    //     destination: ``,
+    //     sports: ``,
+    //     sportsman: ``,
+    //     dress: '',
+    //     song: ``,
+    //     film: `Andaaz Apna Apna, Angoor, Sholay, Padosan and Jaane Bhi Do Yaaron`,
+    //     director: ``
+    //   },
+    //   styleQoutient: {
+    //     carsCollection: "",
+    //     imgSrc: '',
+    //   },
+    //   // INR 6 to 7 crores+/movie (as in 2021)
+    //   moneyFactor: {
+    //     earning: `Not Known`,
+    //     netWorth: 'INR 74 Crore (as in 2021)',
+    //     imgSrc: 'assets/images/july2022/rajpal-yadav-net.jpg'
+    //   },
+    //   tattoos: [],
+    //   facts: {
+    //     smoke: 'Yes',
+    //     alcoholic: 'Not Known'
+    //   },
+    //   otherFacts: [
+    //     {
+    //       fact: 'Instagram',
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: '',
+    //       instaLink: 'https://www.instagram.com/p/Cf4kn0krWfQ/embed/'
+    //     },
+    //     {
+    //       fact: "Interview",
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: 'https://www.youtube.com/embed/jgAid09ZR6s?feature=oembed'
+    //     },
+    //     {
+    //       fact: `Rajpal wanted to be an actor since his childhood, and was part of a theatre group in Shahjahanpur.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `He did a Doordarshan serial called <em>Mungeri ke bhai Naurangilal</em>, which was a sequel to <em>Mungerilal Ke Haseen Sapne</em>.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `He did a Coke ad commercial with Aishwarya Rai.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: 'https://www.youtube.com/embed/TeXal9Qr7EA?feature=oembed'
+    //     },
+    //     {
+    //       fact: `He won the Best Actor in a negative role award at the Screen Videocon Awards and Sansui Awards in 2000 for his role as Sippa (a dacoit) in the film <em>Jungle</em>.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `He has been honored with Yash Bharati and Janpad Ratna Award.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `His favourite comedy role is of Crimemaster Gogo in the film <em>Andaz Apna Apna</em>.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `In 2014, he did a Hollywood film <em>Bhopal: A Prayer for Rain</em> which was based on the real story of Bhopal gas tragedy in 1984.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //   ],
+    //   description: `Rajpal Naurang Yadav (born 16 March 1971) is an Indian actor, comedian, writer, film director and producer known for his work in Hindi cinema. As a comedian, he has been nominated for several awards such as Filmfare and Screen Awards.`
+    // },
+    // {
+    //   id: 'ce362',
+    //   category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Comedian'],
+    //   categoryId: ['Bollywood Actor/Actress, Model'],
+    //   name: `Sunil Grover`,
+    //   otherName: `Sunil Groover, SunilGrover`,
+    //   nickName: ``,
+    //   fullname: ``,
+    //   height: `in feet inches - 5’ 9”`,
+    //   weight: '64 Kg',
+    //   gender: 'Male',
+    //   boyfriend: '',
+    //   profession: `Actor, Comedian`,
+    //   professionId: ``,
+    //   eyeColor: 'Black',
+    //   hairColor: 'Black',
+    //   imgSrc: "assets/images/july2022/sunil-grover.jpg",
+    //   politicalParty: "",
+    //   politicalPartyImgSrc: "",
+    //   dob: {
+    //     date: '3',
+    //     month: 'August',
+    //     year: '1977'
+    //   },
+    //   dod: {
+    //     date: '',
+    //     month: '',
+    //     year: ''
+    //   },
+    //   deathCause: ``,
+    //   placeOfDeath: ``,
+    //   birthPlace: `Sirsa, Haryana, India`,
+    //   nationality: 'Indian',
+    //   hometown: 'Sirsa, Haryana, India',
+    //   school: `Arya Vidya Mandir, Mandi Dabwali, Sirsa`,
+    //   collegeUniversity: `Guru Nanak College, Haryana<br />
+    //   Panjab University, Chandigarh`,
+    //   qualification: `Bachelor of Commerce<br />
+    //   Masters in Theatre`,
+    //   religion: 'Hinduism',
+    //   zodiacSign: 'Leo',
+    //   bloodGroup: '',
+    //   foodHabit: '',
+    //   address: ``,
+    //   hobbies: ``,
+    //   debut: {
+    //     lyrical: "",
+    //     lyricalImgSrc: "",
+    //     punjabiFilm: ``,
+    //     punjabiFilmImgSrc: "",
+    //     bollywoodFilm: `The Legend of Bhagat Singh (2002)`,
+    //     bollywoodFilmImgSrc: "assets/images/july2022/Film-The-Legend-of-Bhagat-Singh-2002.jpg",
+    //     hollywoodFilm: ``,
+    //     hollywoodFilmImgSrc: "",
+    //     tollywoodFilm: ``,
+    //     tollywoodFilmImgSrc: "",
+    //     tamilFilm: '',
+    //     tamilFilmImgSrc: "",
+    //     kannadaFilm: '',
+    //     kannadaFilmImgSrc: "",
+    //     punjabiAlbum: '',
+    //     punjabiAlbumImgSrc: "",
+    //     hindiAlbum: '',
+    //     hindiAlbumImgSrc: "",
+    //     singles: ``,
+    //     singlesImgSrc: "",
+    //     musicDirection: "",
+    //     musicDirectionImgSrc: "",
+    //     filmDirection: "",
+    //     filmDirectionImgSrc: "",
+    //     tv: `Full Tension`,
+    //     tvImgSrc: "",
+    //     webSeries: "",
+    //     webSeriesImgSrc: "",
+    //     production: "",
+    //     productionImgSrc: "",
+    //     filmWriter: "",
+    //     filmWriterImgSrc: "",
+    //     lastSong: ``,
+    //     lastSongImgSrc: ``,
+    //     lastFilm: ``,
+    //     lastFilmImgSrc: ``
+    //   },
+    //   awards: [],
+    //   controversies: [
+    //     {
+    //       title:``,
+    //       controversy:`He left "Comedy Nights with Kapil" just because he asked Kapil for a salary hike, but Kapil refused to do so.`
+    //     },
+    //     {
+    //       title:``,
+    //       controversy:`In March 2017, Kapil Sharma, who was reportedly drunk, was accused of being abusive to Sunil Grover on a flight from Melbourne, Australia. A few days later, Kapil admitted on Facebook that he had an 'argument' with Sunil and questioned the intentions of eyewitnesses who claimed that he had assaulted Sunil. In reply to which, Sunil posted a message on Facebook as given below.<br />
+    //       <a ><img src="assets/images/july2022/Kapil-Sharma-and-Sunil-Grover-controversy-in-March-2017.jpg" alt="Sunil Grover and Kapil Sharma and Sunil Grover controversy in March 2017" width="250" height="250" class="alignnone size-thumbnail wp-image-71816" /></a>`
+    //     }
+    //   ],
+    //   maritalStatus: `Married`,
+    //   affairs: ``,
+    //   affairsImgSrc: ``,
+    //   wifeOrHusband: `Aarti`,
+    //   wifeOrHusbandImgSrc: `assets/images/july2022/Sunil-Grover-with-his-wife.jpg`,
+    //   fiance: '',
+    //   fianceImgSrc: '',
+    //   children: {
+    //     son: `Mohan`,
+    //     sonImgSrc: ``,
+    //     sonImgSrc1: '',
+    //     sonImgSrc2: '',
+    //     daughter: `N/A`,
+    //     daughterImgSrc: ''
+    //   },
+    //   parents: {
+    //     father: 'J.N. Grover',
+    //     fatherImgSrc: '',
+    //     mother: 'Name Not Known',
+    //     motherImgSrc: 'assets/images/july2022/Sunil-Grover-with-his-Mother.jpg'
+    //   },
 
-      siblings: {
-        brother: ``,
-        brotherImgSrc: '',
-        sister: ``,
-        sisterImgSrc: ''
-      },
-      favourites: {
-        food: `Not Known`,
-        fruit: ``,
-        beverages: ``,
-        actor: `<a href="https://www.newsfarmers.com/amitabh-bachchan" class="celebrity" target="_blank" rel="noopener">Amitabh Bachchan</a>, <a href="https://www.newsfarmers.com/aamir-khan" class="celebrity" target="_blank">Aamir Khan</a>, Mehmood and Shakti Kapoor`,
-        actress: ``,
-        singer: ``,
-        fashionBrand: ``,
-        colour: ``,
-        destination: ``,
-        sports: ``,
-        sportsman: ``,
-        dress: '',
-        song: ``,
-        film: `Andaaz Apna Apna, Angoor, Sholay, Padosan and Jaane Bhi Do Yaaron`,
-        director: ``
-      },
-      styleQoutient: {
-        carsCollection: "",
-        imgSrc: '',
-      },
-      // INR 6 to 7 crores+/movie (as in 2021)
-      moneyFactor: {
-        earning: `Not Known`,
-        netWorth: 'INR 21 Crore (as in 2021)',
-        imgSrc: 'assets/images/july2022/sunil-grover-net.jpg'
-      },
-      tattoos: [],
-      facts: {
-        smoke: 'No',
-        alcoholic: 'Not Known'
-      },
-      otherFacts: [
-        {
-          fact: 'Instagram',
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: '',
-          instaLink: 'https://www.instagram.com/p/CfvmdctLoHM/embed/'
-        },
-        {
-          fact: "Interview",
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: 'https://www.youtube.com/embed/UbTvmF82z9o?feature=oembed'
-        },
-        {
-          fact: `Sunil started his career as a radio jockey in Radio Mirchi&#8217;s show &#8220;Hansi Ke Phuware&#8221;, after which he did anchoring and then turned into a comedian.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `His famous &#8220;Gutthi&#8221; character was based upon his  college experiences in Guru Nanak college, as there were very few girls as compared to boys who had personality traits like Gutthi.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `In 2014, he won the Star Parivaar Award for Favourite Mazebaan.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `He is the brand ambassador of Filmy channel.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-      ],
-      description: `Sunil Grover (born 3 August 1977) is an Indian actor and stand-up comedian. He came into limelight for his portrayal as Gutthi on television show Comedy Nights with Kapil but gained popularity for playing the role of Dr Mashoor Gulati and Rinku Devi on The Kapil Sharma Show. He was also seen in Bollywood films Gabbar Is Back, The Legend of Bhagat Singh and Bharat.`
-    },
-    {
-      id: 'ce363',
-      category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Comedian', 'Producer'],
-      categoryId: ['Bollywood Actor/Actress, Model'],
-      name: `Arshad Warsi`,
-      otherName: `ArshadWarsi`,
-      nickName: ``,
-      fullname: ``,
-      height: `in feet inches - 5’ 5”`,
-      weight: '70 Kg',
-      gender: 'Male',
-      boyfriend: '',
-      profession: `Actor, Producer, Singer`,
-      professionId: ``,
-      eyeColor: 'Light Brown',
-      hairColor: 'Black',
-      imgSrc: "assets/images/july2022/arshad-warsi.jpg",
-      politicalParty: "",
-      politicalPartyImgSrc: "",
-      dob: {
-        date: '19',
-        month: 'April',
-        year: '1968'
-      },
-      dod: {
-        date: '',
-        month: '',
-        year: ''
-      },
-      deathCause: ``,
-      placeOfDeath: ``,
-      birthPlace: `Mumbai, Maharashtra, India`,
-      nationality: 'Indian',
-      hometown: 'Mumbai, Maharashtra, India',
-      school: `Barnes School &amp; Junior College, Deolali, Nashik district, Maharashtra (a boarding school)`,
-      collegeUniversity: `Did not attend`,
-      qualification: `10th Standard`,
-      religion: 'Islam',
-      zodiacSign: 'Aries',
-      bloodGroup: '',
-      foodHabit: '',
-      address: `Shooting Star Films Pvt. Ltd.<br />
-      A-605/606, Morya House, <br />
-      Off. New Link Road,<br />
-      Oshiwara, Andheri (West),<br />
-      Mumbai - 400053`,
-      hobbies: `Dancing, Biking, Cooking`,
-      debut: {
-        lyrical: "",
-        lyricalImgSrc: "",
-        punjabiFilm: ``,
-        punjabiFilmImgSrc: "",
-        bollywoodFilm: `Tere Mere Sapne (1996)`,
-        bollywoodFilmImgSrc: "assets/images/july2022/Tere-Mere-Sapne.jpg",
-        hollywoodFilm: ``,
-        hollywoodFilmImgSrc: "",
-        tollywoodFilm: ``,
-        tollywoodFilmImgSrc: "",
-        tamilFilm: '',
-        tamilFilmImgSrc: "",
-        kannadaFilm: '',
-        kannadaFilmImgSrc: "",
-        punjabiAlbum: '',
-        punjabiAlbumImgSrc: "",
-        hindiAlbum: '',
-        hindiAlbumImgSrc: "",
-        singles: ``,
-        singlesImgSrc: "",
-        musicDirection: "",
-        musicDirectionImgSrc: "",
-        filmDirection: "",
-        filmDirectionImgSrc: "",
-        tv: `Razzmatazz (2001)`,
-        tvImgSrc: "",
-        webSeries: "",
-        webSeriesImgSrc: "",
-        production: "",
-        productionImgSrc: "",
-        filmWriter: "",
-        filmWriterImgSrc: "",
-        lastSong: ``,
-        lastSongImgSrc: ``,
-        lastFilm: ``,
-        lastFilmImgSrc: ``
-      },
-      awards: [
-        {
-          year:`2004`,
-          award:`Zee Cine Award for Best Actor in a Comic Role for Munna Bhai M.B.B.S.`
-        },
-        {
-          year:`2005`,
-          award:`GIFA Best Comedian Award for Hulchul.`
-        },
-        {
-          year:`2007`,
-          award:`Filmfare Award for Best Performance in a Comic Role, IIFA Award for Best Supporting Actor, Zee Cine Award for Best Actor in a Comic Role, Screen Award for Best Supporting Actor, Indian Television Academy Award for Best Anchor—Game/Quiz Show for Lage Raho Munna Bhai.`
-        },
-        {
-          year:`2011`,
-          award:`Screen Award for Best Supporting Actor for Ishqiya.`
-        },
-        {
-          year:`2013`,
-          award:`BIG Star Entertainment Award for Most Entertaining Actor in a Comedy Film (Male) for Jolly LLB.`
-        },
-        {
-          year:`2014`,
-          award:`IIFA Award for Best Performance in a Comic Role, Apsara Film Producers Guild Award for Best Performance in a Comic Role for Jolly LLB.`
-        },
-      ],
-      controversies: [
-        {
-          title:``,
-          controversy:`In 2001, he gave comment on a soft drink commercial starring <a href="https://www.newsfarmers.com/katrina-kaif" class="celebrity" target="_blank" rel="noopener">Katrina Kaif</a>, "How pakao is Katrina in the Slice ad, kairi pakadti hai aur vo aam ban jata hai... Angoor do toh shayad Wine banjayegi." As the comment was blown out of proportion on social media, newspaper, and electronic media, he explained himself by saying that, "My comment has nothing to do with Katrina. It's just a humorous observation on the creatives of the ad. It's called sense of humour."`
-        },
-        {
-          title:``,
-          controversy:`In 2016, he received death threats through phone calls, SMS and letters due to a dialogue in his movie 'The Legend of Michael Mishra', the caller said that Arshad's "body parts would be cut off" and he will be "burned alive" for saying "Daaku Valmiki se Sant Valmiki ban Jayenge." After which Arshad tweeted to justify his stand.<br />
-          <a><img src="assets/images/july2022/Arshad-Warsi-tweet.jpg" alt="Arshad Warsi's Tweet" width="250" height="250" class="alignnone size-thumbnail wp-image-73987" /></a>`
-        }
-      ],
-      maritalStatus: `Married`,
-      affairs: ``,
-      affairsImgSrc: ``,
-      wifeOrHusband: `Maria Goretti (Blogger, Former VJ, m.1999-present)`,
-      wifeOrHusbandImgSrc: `assets/images/july2022/arshad-warsi-wife-maria-and-kids-mumbai-airport-iifa.jpg`,
-      fiance: '',
-      fianceImgSrc: '',
-      children: {
-        son: `Zeke`,
-        sonImgSrc: ``,
-        sonImgSrc1: '',
-        sonImgSrc2: '',
-        daughter: `Zene Zoe`,
-        daughterImgSrc: ''
-      },
-      parents: {
-        father: 'Late Ahmed Ali Khan (Musician, Singer, Poet)',
-        fatherImgSrc: '',
-        mother: 'Name Not Known',
-        motherImgSrc: ''
-      },
+    //   siblings: {
+    //     brother: ``,
+    //     brotherImgSrc: '',
+    //     sister: ``,
+    //     sisterImgSrc: ''
+    //   },
+    //   favourites: {
+    //     food: `Not Known`,
+    //     fruit: ``,
+    //     beverages: ``,
+    //     actor: `<a href="https://www.newsfarmers.com/amitabh-bachchan" class="celebrity" target="_blank" rel="noopener">Amitabh Bachchan</a>, <a href="https://www.newsfarmers.com/aamir-khan" class="celebrity" target="_blank">Aamir Khan</a>, Mehmood and Shakti Kapoor`,
+    //     actress: ``,
+    //     singer: ``,
+    //     fashionBrand: ``,
+    //     colour: ``,
+    //     destination: ``,
+    //     sports: ``,
+    //     sportsman: ``,
+    //     dress: '',
+    //     song: ``,
+    //     film: `Andaaz Apna Apna, Angoor, Sholay, Padosan and Jaane Bhi Do Yaaron`,
+    //     director: ``
+    //   },
+    //   styleQoutient: {
+    //     carsCollection: "",
+    //     imgSrc: '',
+    //   },
+    //   // INR 6 to 7 crores+/movie (as in 2021)
+    //   moneyFactor: {
+    //     earning: `Not Known`,
+    //     netWorth: 'INR 21 Crore (as in 2021)',
+    //     imgSrc: 'assets/images/july2022/sunil-grover-net.jpg'
+    //   },
+    //   tattoos: [],
+    //   facts: {
+    //     smoke: 'No',
+    //     alcoholic: 'Not Known'
+    //   },
+    //   otherFacts: [
+    //     {
+    //       fact: 'Instagram',
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: '',
+    //       instaLink: 'https://www.instagram.com/p/CfvmdctLoHM/embed/'
+    //     },
+    //     {
+    //       fact: "Interview",
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: 'https://www.youtube.com/embed/UbTvmF82z9o?feature=oembed'
+    //     },
+    //     {
+    //       fact: `Sunil started his career as a radio jockey in Radio Mirchi&#8217;s show &#8220;Hansi Ke Phuware&#8221;, after which he did anchoring and then turned into a comedian.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `His famous &#8220;Gutthi&#8221; character was based upon his  college experiences in Guru Nanak college, as there were very few girls as compared to boys who had personality traits like Gutthi.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `In 2014, he won the Star Parivaar Award for Favourite Mazebaan.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `He is the brand ambassador of Filmy channel.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //   ],
+    //   description: `Sunil Grover (born 3 August 1977) is an Indian actor and stand-up comedian. He came into limelight for his portrayal as Gutthi on television show Comedy Nights with Kapil but gained popularity for playing the role of Dr Mashoor Gulati and Rinku Devi on The Kapil Sharma Show. He was also seen in Bollywood films Gabbar Is Back, The Legend of Bhagat Singh and Bharat.`
+    // },
+    // {
+    //   id: 'ce363',
+    //   category: ['Bollywood', 'Instagram', 'Acting', 'Bollywood actor', 'actor', 'Comedian', 'Producer'],
+    //   categoryId: ['Bollywood Actor/Actress, Model'],
+    //   name: `Arshad Warsi`,
+    //   otherName: `ArshadWarsi`,
+    //   nickName: ``,
+    //   fullname: ``,
+    //   height: `in feet inches - 5’ 5”`,
+    //   weight: '70 Kg',
+    //   gender: 'Male',
+    //   boyfriend: '',
+    //   profession: `Actor, Producer, Singer`,
+    //   professionId: ``,
+    //   eyeColor: 'Light Brown',
+    //   hairColor: 'Black',
+    //   imgSrc: "assets/images/july2022/arshad-warsi.jpg",
+    //   politicalParty: "",
+    //   politicalPartyImgSrc: "",
+    //   dob: {
+    //     date: '19',
+    //     month: 'April',
+    //     year: '1968'
+    //   },
+    //   dod: {
+    //     date: '',
+    //     month: '',
+    //     year: ''
+    //   },
+    //   deathCause: ``,
+    //   placeOfDeath: ``,
+    //   birthPlace: `Mumbai, Maharashtra, India`,
+    //   nationality: 'Indian',
+    //   hometown: 'Mumbai, Maharashtra, India',
+    //   school: `Barnes School &amp; Junior College, Deolali, Nashik district, Maharashtra (a boarding school)`,
+    //   collegeUniversity: `Did not attend`,
+    //   qualification: `10th Standard`,
+    //   religion: 'Islam',
+    //   zodiacSign: 'Aries',
+    //   bloodGroup: '',
+    //   foodHabit: '',
+    //   address: `Shooting Star Films Pvt. Ltd.<br />
+    //   A-605/606, Morya House, <br />
+    //   Off. New Link Road,<br />
+    //   Oshiwara, Andheri (West),<br />
+    //   Mumbai - 400053`,
+    //   hobbies: `Dancing, Biking, Cooking`,
+    //   debut: {
+    //     lyrical: "",
+    //     lyricalImgSrc: "",
+    //     punjabiFilm: ``,
+    //     punjabiFilmImgSrc: "",
+    //     bollywoodFilm: `Tere Mere Sapne (1996)`,
+    //     bollywoodFilmImgSrc: "assets/images/july2022/Tere-Mere-Sapne.jpg",
+    //     hollywoodFilm: ``,
+    //     hollywoodFilmImgSrc: "",
+    //     tollywoodFilm: ``,
+    //     tollywoodFilmImgSrc: "",
+    //     tamilFilm: '',
+    //     tamilFilmImgSrc: "",
+    //     kannadaFilm: '',
+    //     kannadaFilmImgSrc: "",
+    //     punjabiAlbum: '',
+    //     punjabiAlbumImgSrc: "",
+    //     hindiAlbum: '',
+    //     hindiAlbumImgSrc: "",
+    //     singles: ``,
+    //     singlesImgSrc: "",
+    //     musicDirection: "",
+    //     musicDirectionImgSrc: "",
+    //     filmDirection: "",
+    //     filmDirectionImgSrc: "",
+    //     tv: `Razzmatazz (2001)`,
+    //     tvImgSrc: "",
+    //     webSeries: "",
+    //     webSeriesImgSrc: "",
+    //     production: "",
+    //     productionImgSrc: "",
+    //     filmWriter: "",
+    //     filmWriterImgSrc: "",
+    //     lastSong: ``,
+    //     lastSongImgSrc: ``,
+    //     lastFilm: ``,
+    //     lastFilmImgSrc: ``
+    //   },
+    //   awards: [
+    //     {
+    //       year:`2004`,
+    //       award:`Zee Cine Award for Best Actor in a Comic Role for Munna Bhai M.B.B.S.`
+    //     },
+    //     {
+    //       year:`2005`,
+    //       award:`GIFA Best Comedian Award for Hulchul.`
+    //     },
+    //     {
+    //       year:`2007`,
+    //       award:`Filmfare Award for Best Performance in a Comic Role, IIFA Award for Best Supporting Actor, Zee Cine Award for Best Actor in a Comic Role, Screen Award for Best Supporting Actor, Indian Television Academy Award for Best Anchor—Game/Quiz Show for Lage Raho Munna Bhai.`
+    //     },
+    //     {
+    //       year:`2011`,
+    //       award:`Screen Award for Best Supporting Actor for Ishqiya.`
+    //     },
+    //     {
+    //       year:`2013`,
+    //       award:`BIG Star Entertainment Award for Most Entertaining Actor in a Comedy Film (Male) for Jolly LLB.`
+    //     },
+    //     {
+    //       year:`2014`,
+    //       award:`IIFA Award for Best Performance in a Comic Role, Apsara Film Producers Guild Award for Best Performance in a Comic Role for Jolly LLB.`
+    //     },
+    //   ],
+    //   controversies: [
+    //     {
+    //       title:``,
+    //       controversy:`In 2001, he gave comment on a soft drink commercial starring <a href="https://www.newsfarmers.com/katrina-kaif" class="celebrity" target="_blank" rel="noopener">Katrina Kaif</a>, "How pakao is Katrina in the Slice ad, kairi pakadti hai aur vo aam ban jata hai... Angoor do toh shayad Wine banjayegi." As the comment was blown out of proportion on social media, newspaper, and electronic media, he explained himself by saying that, "My comment has nothing to do with Katrina. It's just a humorous observation on the creatives of the ad. It's called sense of humour."`
+    //     },
+    //     {
+    //       title:``,
+    //       controversy:`In 2016, he received death threats through phone calls, SMS and letters due to a dialogue in his movie 'The Legend of Michael Mishra', the caller said that Arshad's "body parts would be cut off" and he will be "burned alive" for saying "Daaku Valmiki se Sant Valmiki ban Jayenge." After which Arshad tweeted to justify his stand.<br />
+    //       <a><img src="assets/images/july2022/Arshad-Warsi-tweet.jpg" alt="Arshad Warsi's Tweet" width="250" height="250" class="alignnone size-thumbnail wp-image-73987" /></a>`
+    //     }
+    //   ],
+    //   maritalStatus: `Married`,
+    //   affairs: ``,
+    //   affairsImgSrc: ``,
+    //   wifeOrHusband: `Maria Goretti (Blogger, Former VJ, m.1999-present)`,
+    //   wifeOrHusbandImgSrc: `assets/images/july2022/arshad-warsi-wife-maria-and-kids-mumbai-airport-iifa.jpg`,
+    //   fiance: '',
+    //   fianceImgSrc: '',
+    //   children: {
+    //     son: `Zeke`,
+    //     sonImgSrc: ``,
+    //     sonImgSrc1: '',
+    //     sonImgSrc2: '',
+    //     daughter: `Zene Zoe`,
+    //     daughterImgSrc: ''
+    //   },
+    //   parents: {
+    //     father: 'Late Ahmed Ali Khan (Musician, Singer, Poet)',
+    //     fatherImgSrc: '',
+    //     mother: 'Name Not Known',
+    //     motherImgSrc: ''
+    //   },
 
-      siblings: {
-        brother: `Anwar Hussain (Stepbrother, Singer)`,
-        brotherImgSrc: 'assets/images/july2022/anwar-hussain.jpg',
-        sister: `Asha Sachdev (Stepsister, Actress)`,
-        sisterImgSrc: 'assets/images/july2022/asha-sachdev.jpg'
-      },
-      favourites: {
-        food: `Not Known`,
-        fruit: ``,
-        beverages: ``,
-        actor: `<a href="https://www.newsfarmers.com/amitabh-bachchan" class="celebrity" target="_blank" rel="noopener">Amitabh Bachchan</a>`,
-        actress: `<a href="https://www.newsfarmers.com/madhuri-dixit" class="celebrity" target="_blank" rel="noopener">Madhuri Dixit</a>`,
-        singer: ``,
-        fashionBrand: ``,
-        colour: `Black`,
-        destination: `Goa`,
-        sports: `Cricket, Football`,
-        sportsman: ``,
-        dress: '',
-        song: ``,
-        film: `Scarface`,
-        director: ``
-      },
-      styleQoutient: {
-        carsCollection: "Audi Q7, Volkswagen Beetle",
-        imgSrc: 'assets/images/july2022/assets/images/july2022/Arshad-Warsi-Audi-Q7.jpg',
-      },
-      // INR 6 to 7 crores+/movie (as in 2021)
-      moneyFactor: {
-        earning: `Not Known`,
-        netWorth: 'INR 111 Crore (as in 2021)',
-        imgSrc: 'assets/images/july2022/arshad-warsi-net.jpg'
-      },
-      tattoos: [],
-      facts: {
-        smoke: 'No (Quit)',
-        alcoholic: 'Yes'
-      },
-      otherFacts: [
-        {
-          fact: 'Instagram',
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: '',
-          instaLink: 'https://www.instagram.com/p/CexVgaJodet/embed/'
-        },
-        {
-          fact: "Interview",
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: 'https://www.youtube.com/embed/wSiWZZVUCRY?feature=oembed'
-        },
-        {
-          fact: `His original surname is &#8216;Khan&#8217;, but after his father became a follower of a holy man- Waris Pak, they became &#8216;Warsis&#8217;.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `He was a national level gymnast during his school time. Moreover, he was selected amongst thousands of students by two British men to get trained in this.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `At the age of 18, he lost his father, who died of bone cancer and two years later, his mother died of kidney failure. He then learned to live on his own and brought himself up.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `Due to some financial problems, he was not able to pursue his studies after 10th standard and worked as a salesman of cosmetics.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `Prior to joining film industry, he joined Akbar Sami&#8217;s Dance Group and won the &#8220;Indian Dance Competition&#8221; in 1991, which prompted him to become a Choreographer.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `Arshad also started his own dance academy named &#8220;Awesome&#8221;.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `He met his wife Maria Goretti at the Malhar Festival where he was the judge and Maria was a participant. Initially, he offered him to join his dance group and later, she became the lead dancer and started assisting him.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `He has worked as a choreographer in Bollywood and has choreographed the song &#8220;Roop Ki Rani&#8221; from <a href="https://www.newsfarmers.com/anil-kapoor" class="celebrity" target="_blank" rel="noopener">Anil Kapoor</a> and <a href="https://www.newsfarmers.com/sridevi" class="celebrity" target="_blank" rel="noopener">Sridevi </a>starrer &#8216;Roop Ki Rani Choron Ka Raja&#8217; (1993).`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `He made his debut with movie Tere Mere Sapne in 1996, and after his debut, it was reported by some online sources that he roamed around everywhere and said to everyone that the film was a hit only because of him.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `He has also worked in a photo lab to assist Mahesh Bhatt in films &#8216;Kaash&#8217; (1987) and &#8216;Thikana&#8217; (1988).`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `He was not the first choice for Munna Bhai M.B.B.S., but his performance proved to be a turning point in his career; as before its release, he faced a continuous failure in the film industry.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `Although he recieved great laurels for his role in Hulchul, he was not satisfied with his role.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `He loves biking and was also the part of a &#8216;bikers gang&#8217; during his school days.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-        {
-          fact: `In September 2021, he took to Instagram to share photos of his body transformation. Soon, netizens started comparing his physique with that of John Cena who later reposted Warsi&#8217;s photo on the internet.`,
-          imgSrc: '',
-          imgCaption: '',
-          videoSrc: ''
-        },
-      ],
-      description: `Arshad Warsi (born 19 April 1968) is an Indian actor, producer, dancer, television personality, choreographer and playback singer who appears in Hindi films. He is the recipient of several awards including a Filmfare Award from five nominations and is noted for acting in varied film genres.`
-    },
+    //   siblings: {
+    //     brother: `Anwar Hussain (Stepbrother, Singer)`,
+    //     brotherImgSrc: 'assets/images/july2022/anwar-hussain.jpg',
+    //     sister: `Asha Sachdev (Stepsister, Actress)`,
+    //     sisterImgSrc: 'assets/images/july2022/asha-sachdev.jpg'
+    //   },
+    //   favourites: {
+    //     food: `Not Known`,
+    //     fruit: ``,
+    //     beverages: ``,
+    //     actor: `<a href="https://www.newsfarmers.com/amitabh-bachchan" class="celebrity" target="_blank" rel="noopener">Amitabh Bachchan</a>`,
+    //     actress: `<a href="https://www.newsfarmers.com/madhuri-dixit" class="celebrity" target="_blank" rel="noopener">Madhuri Dixit</a>`,
+    //     singer: ``,
+    //     fashionBrand: ``,
+    //     colour: `Black`,
+    //     destination: `Goa`,
+    //     sports: `Cricket, Football`,
+    //     sportsman: ``,
+    //     dress: '',
+    //     song: ``,
+    //     film: `Scarface`,
+    //     director: ``
+    //   },
+    //   styleQoutient: {
+    //     carsCollection: "Audi Q7, Volkswagen Beetle",
+    //     imgSrc: 'assets/images/july2022/assets/images/july2022/Arshad-Warsi-Audi-Q7.jpg',
+    //   },
+    //   // INR 6 to 7 crores+/movie (as in 2021)
+    //   moneyFactor: {
+    //     earning: `Not Known`,
+    //     netWorth: 'INR 111 Crore (as in 2021)',
+    //     imgSrc: 'assets/images/july2022/arshad-warsi-net.jpg'
+    //   },
+    //   tattoos: [],
+    //   facts: {
+    //     smoke: 'No (Quit)',
+    //     alcoholic: 'Yes'
+    //   },
+    //   otherFacts: [
+    //     {
+    //       fact: 'Instagram',
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: '',
+    //       instaLink: 'https://www.instagram.com/p/CexVgaJodet/embed/'
+    //     },
+    //     {
+    //       fact: "Interview",
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: 'https://www.youtube.com/embed/wSiWZZVUCRY?feature=oembed'
+    //     },
+    //     {
+    //       fact: `His original surname is &#8216;Khan&#8217;, but after his father became a follower of a holy man- Waris Pak, they became &#8216;Warsis&#8217;.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `He was a national level gymnast during his school time. Moreover, he was selected amongst thousands of students by two British men to get trained in this.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `At the age of 18, he lost his father, who died of bone cancer and two years later, his mother died of kidney failure. He then learned to live on his own and brought himself up.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `Due to some financial problems, he was not able to pursue his studies after 10th standard and worked as a salesman of cosmetics.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `Prior to joining film industry, he joined Akbar Sami&#8217;s Dance Group and won the &#8220;Indian Dance Competition&#8221; in 1991, which prompted him to become a Choreographer.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `Arshad also started his own dance academy named &#8220;Awesome&#8221;.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `He met his wife Maria Goretti at the Malhar Festival where he was the judge and Maria was a participant. Initially, he offered him to join his dance group and later, she became the lead dancer and started assisting him.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `He has worked as a choreographer in Bollywood and has choreographed the song &#8220;Roop Ki Rani&#8221; from <a href="https://www.newsfarmers.com/anil-kapoor" class="celebrity" target="_blank" rel="noopener">Anil Kapoor</a> and <a href="https://www.newsfarmers.com/sridevi" class="celebrity" target="_blank" rel="noopener">Sridevi </a>starrer &#8216;Roop Ki Rani Choron Ka Raja&#8217; (1993).`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `He made his debut with movie Tere Mere Sapne in 1996, and after his debut, it was reported by some online sources that he roamed around everywhere and said to everyone that the film was a hit only because of him.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `He has also worked in a photo lab to assist Mahesh Bhatt in films &#8216;Kaash&#8217; (1987) and &#8216;Thikana&#8217; (1988).`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `He was not the first choice for Munna Bhai M.B.B.S., but his performance proved to be a turning point in his career; as before its release, he faced a continuous failure in the film industry.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `Although he recieved great laurels for his role in Hulchul, he was not satisfied with his role.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `He loves biking and was also the part of a &#8216;bikers gang&#8217; during his school days.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //     {
+    //       fact: `In September 2021, he took to Instagram to share photos of his body transformation. Soon, netizens started comparing his physique with that of John Cena who later reposted Warsi&#8217;s photo on the internet.`,
+    //       imgSrc: '',
+    //       imgCaption: '',
+    //       videoSrc: ''
+    //     },
+    //   ],
+    //   description: `Arshad Warsi (born 19 April 1968) is an Indian actor, producer, dancer, television personality, choreographer and playback singer who appears in Hindi films. He is the recipient of several awards including a Filmfare Award from five nominations and is noted for acting in varied film genres.`
+    // },
   ]
 }
