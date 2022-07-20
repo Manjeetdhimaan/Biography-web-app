@@ -15,9 +15,10 @@ export class CelebritiesService {
   //   imgCaption: '',
   //   videoSrc: ''
   // },
+  celebrities1:any
   constructor(private http: HttpClient) {
     // this.http.get(`http://localhost:8080/users`).subscribe(res => {
-    //   console.log(res)
+    //   this.celebrities= res
     //   //  this.isLoading= false;
     //    // this.originalServiceProvider = res;
     //  },

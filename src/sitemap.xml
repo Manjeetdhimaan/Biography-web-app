@@ -2364,4 +2364,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
+   <url>
+    <loc>https://www.newsfarmers.com/news/jennifer-winget-opened-up-on-her-separation-from-karan-singh-grover</loc>
+    <lastmod>2022-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+   <url>
+    <loc>https://www.newsfarmers.com/news/lalit-modi-makes-his-relationship-with-sushmita-sen-official</loc>
+    <lastmod>2022-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
 </urlset>

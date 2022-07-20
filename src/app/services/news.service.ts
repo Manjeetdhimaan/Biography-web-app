@@ -1598,5 +1598,98 @@ export class NewsService {
       ],
       description: ``
     },
+    {
+      id: 'news27',
+      category: ['Bollywood', 'Industry', 'Bollywood Industry'],
+      categoryId: `Vicky Kaushal and Katrina, Katrina Vicky Kaushal, Vicky katrina, Katrina's Birthday, Katrina Birthday`,
+      title: `Vicky Kaushal and Katrina's love-filled Pictures From Katrina's Birthday In The Maldives`,
+      imgSrc: "assets/newsImages/july2022/katrina-bday-with-vicky.jpg",
+      instaSimpleLink:'https://www.instagram.com/p/CgJd5JVMR87/',
+      twitterSimpleLink:'',
+      facebookSimpleLink:'',
+      linkedinSimpleLink:'',
+      otherFacts: [
+        {
+          fact: `Vicky Kaushal and Katrina Kaif, one of the cutest Bollywood couples, jetted to the Maldives for Katrina's birthday celebration.  On July 16, Katrina Kaif turned 39 and celebrated her birthday with her husband, Vicky Kaushal, Sunny Kaushal, and his rumoured lover Sharvari, along with her brothers and friends. On her special day, she released a carousel series of four images in which she can be seen hanging out with her girl gang.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: '',
+          instaLink: ''
+        },
+        {
+          fact: `On her birthday, Vicky Kaushal shared a stunning picture of the actress, and wrote, "Baar Baar din yeh aaye... Baar Baar Dil yeh gaaye. Happy Birthday my love!!!❤️❤️❤️". In the photograph, Katrina is posing for the camera flashing her beautiful smile with a clear sky in the background.`,
+          imgSrc: 'assets/newsImages/july2022/vicky-katrina-bday-pic.jpeg',
+          imgCaption: '',
+          videoSrc: '',
+          instaLink: ''
+        },
+        {
+          fact: `Sunny shared a click with Katrina and wrote, "Happy @katrinakaif week ♥️🫶🏼" wishing her sister-in-law. In the picture, they both are seen having fun and giving us major devar bhabhi goals. `,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: '',
+          instaLink: ''
+        },
+        {
+          fact: `Ileana D'Cruz also shared pictures from the vacation featuring Mini Mathur, Anand Tiwari, Isabelle Kaif, and Katrina's brother Sebastien Laurent Michel. There have been rumours that Ileana is dating Katrina's brother Sebastien ever since she released the photo, however, the rumoured couple hasn't confirmed their connection, though.
+          `,
+          imgSrc: 'assets/newsImages/july2022/ilean-on-katrina-bday.jpg',
+          imgCaption: '',
+          videoSrc: '',
+          instaLink: ''
+        },
+        {
+          fact: `By sharing a sweet snapshot of himself and his wife Katrina Kaif from the Maldives, Vicky Kaushal brightened his followers' Monday morning. In the picture, they are twinning in white dresses and grinning brightly. The background shows a clear sea, and the pair appears to be seated on a yacht. He captioned it with an infinity sign, and soon after the picture was shared by him, his loved ones showered all their love in his comment section.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: '',
+          instaLink: 'https://www.instagram.com/p/CgJd5JVMR87/embed/'
+        },
+      ],
+      description: ``
+    },
+    {
+      id: 'news28',
+      category: ['Bollywood', 'Industry', 'Bollywood Industry'],
+      categoryId: `Kareena Kapoor Pregnancy Rumours`,
+      title: `Kareena Kapoor Khan Shuts Down Pregnancy Rumours In Style`,
+      imgSrc: "assets/newsImages/july2022/kareena-kapoor-pregnancy-rumour.jpg",
+      instaSimpleLink:'',
+      twitterSimpleLink:'',
+      facebookSimpleLink:'',
+      linkedinSimpleLink:'',
+      otherFacts: [
+        {
+          fact: `Soon after Kareena's picture went viral on social media with her bloated stomach, people started speculating that she is pregnant for the 3rd time.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: '',
+          instaLink: ''
+        },
+        {
+          fact: `Finally, after so many rumours and speculations by people on the Internet, Bebo took to her Instagram shutting down all of these in her style. She wrote, “It's the pasta and wine guys...calm down...I am not pregnant.. uff….Saif says he has already contributed way too much to the population of our country...enjoy...KKK.”`,
+          imgSrc: 'assets/newsImages/july2022/kareena-pregenacy-rumour-2.jpeg',
+          imgCaption: '',
+          videoSrc: '',
+          instaLink: ''
+        },
+        {
+          fact: `The actor has been on a family holiday in Europe with her husband Saif Ali Khan and their two children, Taimur Ali Khan and Jehangir Ali Khan, and has been keeping her Insta family busy by dropping pictures from her vacations.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: '',
+          instaLink: 'https://www.instagram.com/p/CgOXAzUMw5w/embed/'
+        },
+        {
+          fact: `On October 16, 2012, Saif and Kareena exchanged vows. A straightforward court ceremony was followed by a small wedding with all of the couple's closest family members present. Their second son, Jehangir Ali Khan, was born in February 2021 after the birth of their first son, Taimur Ali Khan, in 2016.
+          Saif had a 13-year marriage to Amrita Singh before calling it quits in 2004. She is the mother of his son Ibrahim and daughter Sara Ali Khan.`,
+          imgSrc: '',
+          imgCaption: '',
+          videoSrc: '',
+          instaLink: ''
+        }
+      ],
+      description: ``
+    },
   ]
 }
